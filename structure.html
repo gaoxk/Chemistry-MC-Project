@@ -3,9 +3,11 @@
 	<head>
 		<title>Chem Multiple Choice</title>
 		<link rel="stylesheet" type="text/css" href="main.css">
+		<link rel="stylesheet" tyoe = "text/css" href ="quuiz.css">
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 		<script src="scripts/navanimation.js"></script>
 		<script src="scripts/structure.js"></script> 
+		
 	</head>
 	<div class = "container">
 	<body>
@@ -15,8 +17,8 @@
 				<li><a href="home.html">Home</a></li>
 				<li>Structure</li>
 				<li>Bonding</li>
-				<li>Thermodynamics</li
->				<li>Kinetics</li>
+				<li>Thermodynamics</li>				
+				<li>Kinetics</li>
 				<li>Keq</li>
 				<li>Ka + Kb</li>
 				<li>Electrochemistry</li>
@@ -26,15 +28,40 @@
 
 		<div class = "main">			
 			<h1>Structures</h1>
-			
 			<div class ="quiz">
-				<script>
-					$(function(){
-						$(".quiz").load("quiz.html");
-					});
-				</script>
-			</div>
+				<p class="question">What is the answer to this question?</p>
+				<ul class="answers">
+					<input type="radio" name="q1" value="a" id="q1a"><label for="q1a">Answer 1</label><br/>
+					<input type="radio" name="q1" value="b" id="q1b"><label for="q1b">Answer 2</label><br/>
+					<input type="radio" name="q1" value="c" id="q1c"><label for="q1c">Answer 3</label><br/>
+		 				<input type="radio" name="q1" value="d" id="q1d"><label for="q1d">Answer 4</label><br/>
+				</ul>
 
+				
+
+				<p class="question">What is the answer to this question?</p>
+				<ul class="answers">
+					<input type="radio" name="q2" value="a" id="q2a"><label for="q2a">Answer 1</label><br/>
+					<input type="radio" name="q2" value="b" id="q2b"><label for="q2b">Answer 2</label><br/>
+					<input type="radio" name="q2" value="c" id="q2c"><label for="q2c">Answer 3</label><br/>
+					<input type="radio" name="q2" value="d" id="q2d"><label for="q2d">Answer 4</label><br/>
+				</ul> 
+				
+				<div class= "reveal" id="c1"><p><strong>Question:1</strong> The answer is <strong>Answer 1</strong></p></div>
+				<div class= "reveal" id="c2"><p><strong>Question:2</strong> The answer is <strong>Answer 2</strong></p></div>
+		
+				<div id="answers">Answers</div>
+
+
+				
+			<!---	
+					<script>
+						$(function(){
+							$(".quiz").load("quiz.html");
+						});
+					</script>
+				  			-->
+			</div>  
 		</div>
 	</body>
 	</div>

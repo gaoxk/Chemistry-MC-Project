@@ -17,7 +17,7 @@ var outer_text = getText();
 outer_text = outer_text.split('\n');
 console.log(outer_text);
 */
-
+console.log("helloo");
 
 var client = new XMLHttpRequest();
 client.open('GET', '/structure.txt', true);

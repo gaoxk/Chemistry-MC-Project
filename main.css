@@ -13,17 +13,17 @@ h1 {
 p {
   max-width: 65%;
   min-width: 500px;
+  margin:0;
 }
 
 div {
   padding-right: 30px;
-  height: 100%;
-  width: 100%;
 }
 
-video {
-  background-color: #000000;
-  border: 2px solid black;
+.reveal{
+  margin:0;
+  max-height: 10%
+  max-width:10%;
 }
 
 .container {
@@ -41,6 +41,12 @@ video {
   min-width: 20%;
   flex: 1;
   color: white;
+}
+
+.nav div{
+  padding-right: 30px;
+  height: 100%;
+  width: 100%;
 }
 
 .nav h2 {
