@@ -59,6 +59,9 @@ div {
   font-weight:bold;
 }
 
+.reveal{
+  visibility: hidden;
+}
 a {
   color:inherit;
   text-decoration: none;

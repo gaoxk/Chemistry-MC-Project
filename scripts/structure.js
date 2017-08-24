@@ -1,23 +1,4 @@
-/*
-function getText(){
-    // read text from URL location
-    var request = new XMLHttpRequest({mozSystem: true});
-    request.open('GET', 'http://www.puzzlers.org/pub/wordlists/pocket.txt', true);
-    request.send(null);
-    request.onreadystatechange = function () {
-        if (request.readyState === 4 && request.status === 200) {
-            var type = request.getResponseHeader('Content-Type');
-            if (type.indexOf("text") !== 1) {
-                return request.responseText;  
-            }
-        }
-    }
-}
-var outer_text = getText();
-outer_text = outer_text.split('\n');
-console.log(outer_text);
-*/
-console.log("helloo");
+$(document).ready(function(){
 
 var client = new XMLHttpRequest();
 client.open('GET', '/structure.txt', true);
@@ -27,3 +8,28 @@ client.onreadystatechange = function() {
     }
 }
 client.send(null);
+
+var cor1= "a";
+var cor2= "b";
+
+document.getElementById("answers").onclick = function () {
+    if(($('input[name=q1]:checked').val() + "" =="undefined") || ($('input[name=q2]:checked').val() + "" =="undefined")){
+        alert("notdone");
+    }else{
+        $(".reveal").css("visibility","visible");
+
+        if($('input[name=q1]:checked').val()==cor1){
+            $("#q1").css("color","green");
+        }else{
+            $("#q1").css("color","red");
+        }
+
+        if($('input[name=q2]:checked').val()==cor2){
+            $("#q2").css("color","green");
+        }else{
+            $("#q2").css("color","red");
+        }
+    }
+};
+
+})
