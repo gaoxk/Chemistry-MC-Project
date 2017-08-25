@@ -1,30 +1,30 @@
 //quiz variables 
 var text;
 var quest;
+//quiz loading
+$(window).on('load', function () {
+    var xhttp = new XMLHttpRequest();
+    xhttp.onreadystatechange = function() {//when the readystate changes
+       // alert("readyState " + this.readyState + " stats " + this.status );   
+        if (this.readyState == 4 && this.status == 200) {
+          text = this.responseText;
+        }
+    };
+    //file path is relative to HTML file, NOT this JS file. 
+    //Third argument false indicates synchronous
+    xhttp.open("GET", "texts/structure.txt", false);
+    xhttp.send(); 
+});
+
+
 
 $(document).ready(function(){
 
-
-
-
-//loading text
-var xhttp = new XMLHttpRequest();
-xhttp.onreadystatechange = function() {
-    alert("readyState " + this.readyState + " stats " + this.status );
-    if (this.readyState == 4 && this.status == 200) {
-      alert(this.responseText);
-    }
-};
-xhttp.open("GET", "texts/structure.txt", true);//file path is relative to HTML file, NOT this JS file!!
-xhttp.send();
-
-
-
+document.getElementById("qq1").innerHTML = text;
 
 //quiz logic
 var cor1= "a";
 var cor2= "b";
-
 document.getElementById("answers").onclick = function () {
     if(($('input[name=q1]:checked').val() + "" =="undefined") || ($('input[name=q2]:checked').val() + "" =="undefined")){
         alert("notdone");
@@ -43,12 +43,7 @@ document.getElementById("answers").onclick = function () {
             $("#q2").css("color","red");
         }
     }
+
 };
 
 })
-
-
-//quiz loading
-$(window).on('load', function () {
-  document.getElementById("qq1").innerHTML = "lol";
-});
