@@ -8,16 +8,42 @@ $(document).ready(function(){
 
 
 //loading text
+/*first attempt
 var client = new XMLHttpRequest();
 client.open('GET', '/structure.txt', true);
 client.onreadystatechange = function() {
-    if (client.readyState === 4 && client.status === 200) {
+    if (this.client.readyState === 4 && client.status === 200) {
         console.log(client.responseText);              
     }
 }
-client.send(null);
+client.send(null);*/
 
 
+
+/* second attempt
+var xhttp = new XMLHttpRequest();
+xhttp.onreadystatechange = function() {
+    alert("readyState " + this.readyState + " stats " + this.status );
+    if (this.readyState == 4 && this.status == 200) {
+      alert(this.responseText);
+    }
+};
+xhttp.open("GET", "/structure.txt", true);
+xhttp.send();
+
+I AM SO DANG FRUSTERATED
+attempt works fine with a basic html page, js, and text file (all on same file level). 
+But attempt wont work here!!! idk why.*/
+
+var xhttp = new XMLHttpRequest();
+xhttp.onreadystatechange = function() {
+    alert("readyState " + this.readyState + " stats " + this.status );
+    if (this.readyState == 4 && this.status == 200) {
+      alert(this.responseText);
+    }
+};
+xhttp.open("GET", "/structure.txt", true);
+xhttp.send();
 
 
 
@@ -51,5 +77,5 @@ document.getElementById("answers").onclick = function () {
 
 //quiz loading
 $(window).on('load', function () {
-  document.getElementById("qq1").innerHTML = cor1;
+  document.getElementById("qq1").innerHTML = "lol";
 });
