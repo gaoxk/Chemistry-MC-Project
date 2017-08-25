@@ -1,5 +1,13 @@
+//quiz variables 
+var text;
+var quest;
+
 $(document).ready(function(){
 
+
+
+
+//loading text
 var client = new XMLHttpRequest();
 client.open('GET', '/structure.txt', true);
 client.onreadystatechange = function() {
@@ -9,6 +17,12 @@ client.onreadystatechange = function() {
 }
 client.send(null);
 
+
+
+
+
+
+//quiz logic
 var cor1= "a";
 var cor2= "b";
 
@@ -18,10 +32,10 @@ document.getElementById("answers").onclick = function () {
     }else{
         $(".reveal").css("visibility","visible");
 
-        if($('input[name=q1]:checked').val()==cor1){
-            $("#q1").css("color","green");
-        }else{
-            $("#q1").css("color","red");
+        if($('input[name=q1]:checked').val()==cor1){//correct answer
+            $("#q1").css("color","green");//make everything green
+        }else{//wrong answer
+            $("#q1").css("color","red");//make everything red
         }
 
         if($('input[name=q2]:checked').val()==cor2){
@@ -33,3 +47,9 @@ document.getElementById("answers").onclick = function () {
 };
 
 })
+
+
+//quiz loading
+$(window).on('load', function () {
+  document.getElementById("qq1").innerHTML = cor1;
+});
