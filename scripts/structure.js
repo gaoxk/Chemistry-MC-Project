@@ -29,24 +29,57 @@ function quest (ans, question, a, b, c, d,e){
 
 
 $(document).ready(function(){
-//very primative object loading from text files
-var info;
-info = text.split("\n");
-var q1 = new quest(info[0], info[1], info[2], info[3], info[4], info[5]);
+//object loading from text files
+var info, qtext, i;
+info = text.split("\n");//info is an array of every line of text in the file 
+var q = [];//primative array (non OOP arrays in js act like java arraylists) of questions for this page
+var arraycounter=0;
+for(i = 0; i<info.length;i++){
+    var ans = info[i];
+    i++;
+    qtext="";
+    while((info[i].trim()) !== "ZzZ"){
+        qtext+=info[i] + "<br>";
+        i++;
+    }
+    i++//to get out of the ZzZ indicator
+
+    q[arraycounter] = new quest(ans, qtext, info[i], info[i+1], info[i+2], info[i+3], info[i+4]);
+    arraycounter++;
+    
+    i+=4;
+}
 
 //insert info into quiz
-document.getElementById("qq1").innerHTML = q1.question;
-document.getElementById("q1al").innerHTML = q1.a;
-document.getElementById("q1bl").innerHTML = q1.b;
-document.getElementById("q1cl").innerHTML = q1.c;
-document.getElementById("q1dl").innerHTML = q1.d;
-document.getElementById("q1el").innerHTML = q1.e;
+document.getElementById("qq1").innerHTML = q[0].question;
+document.getElementById("q1al").innerHTML = q[0].a;
+document.getElementById("q1bl").innerHTML = q[0].b;
+document.getElementById("q1cl").innerHTML = q[0].c;
+document.getElementById("q1dl").innerHTML = q[0].d;
+document.getElementById("q1el").innerHTML = q[0].e;
+document.getElementById("a1").innerHTML = q[0].ans;
+document.getElementById("qq2").innerHTML = q[1].question;
+document.getElementById("q2al").innerHTML = q[1].a;
+document.getElementById("q2bl").innerHTML = q[1].b;
+document.getElementById("q2cl").innerHTML = q[1].c;
+document.getElementById("q2dl").innerHTML = q[1].d;
+document.getElementById("q2el").innerHTML = q[1].e;
+document.getElementById("a2").innerHTML = q[1].ans;
+document.getElementById("qq3").innerHTML = q[2].question;
+document.getElementById("q3al").innerHTML = q[2].a;
+document.getElementById("q3bl").innerHTML = q[2].b;
+document.getElementById("q3cl").innerHTML = q[2].c;
+document.getElementById("q3dl").innerHTML = q[2].d;
+document.getElementById("q3el").innerHTML = q[2].e;
+document.getElementById("a3").innerHTML = q[2].ans;
+
 
 //quiz logic
-var cor1= ((q1.ans).trim()).toLowerCase();//NEED .trim!!!!!
-var cor2= "b";
+var cor1= ((q[0].ans).trim()).toLowerCase();//NEED .trim!!!!!
+var cor2= ((q[1].ans).trim()).toLowerCase();
+var cor3= ((q[2].ans).trim()).toLowerCase();
 document.getElementById("answers").onclick = function () {
-    if(($('input[name=q1]:checked').val() + "" =="undefined") || ($('input[name=q2]:checked').val() + "" =="undefined")){
+    if(($('input[name=q1]:checked').val() + "" =="undefined") || ($('input[name=q2]:checked').val() + "" =="undefined") || ($('input[name=q3]:checked').val() + "" =="undefined")){
         alert("notdone");
     }else{
         $(".reveal").css("visibility","visible");
@@ -60,6 +93,12 @@ document.getElementById("answers").onclick = function () {
             $("#q2").css("color","green");
         }else{
             $("#q2").css("color","red");
+        }
+
+        if($('input[name=q3]:checked').val()==cor3){
+            $("#q3").css("color","green");
+        }else{
+            $("#q3").css("color","red");
         }
     }
 
