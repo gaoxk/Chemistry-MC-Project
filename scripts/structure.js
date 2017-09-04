@@ -1,6 +1,8 @@
 //quiz variables 
 var text;
 
+
+
 //quest object
 function quest (ans, question, a, b, c, d,e){
     this.question = question;
@@ -57,33 +59,11 @@ function arrayLoad(){
     q = shuffle(q);
     return q;
 }
-function loadArrayPage(q){
-    //insert info into quiz
-    document.getElementById("qq1").innerHTML = q[0].question;
-    document.getElementById("q1al").innerHTML = q[0].a;
-    document.getElementById("q1bl").innerHTML = q[0].b;
-    document.getElementById("q1cl").innerHTML = q[0].c;
-    document.getElementById("q1dl").innerHTML = q[0].d;
-    document.getElementById("q1el").innerHTML = q[0].e;
-    document.getElementById("qq2").innerHTML = q[1].question;
-    document.getElementById("q2al").innerHTML = q[1].a;
-    document.getElementById("q2bl").innerHTML = q[1].b;
-    document.getElementById("q2cl").innerHTML = q[1].c;
-    document.getElementById("q2dl").innerHTML = q[1].d;
-    document.getElementById("q2el").innerHTML = q[1].e;
-    document.getElementById("qq3").innerHTML = q[2].question;
-    document.getElementById("q3al").innerHTML = q[2].a;
-    document.getElementById("q3bl").innerHTML = q[2].b;
-    document.getElementById("q3cl").innerHTML = q[2].c;
-    document.getElementById("q3dl").innerHTML = q[2].d;
-    document.getElementById("q3el").innerHTML = q[2].e;
-}
 
 
 
-
-$(window).on('load', function () {
 //quiz loading
+$(window).on('load', function () {
     var xhttp = new XMLHttpRequest();
     xhttp.onreadystatechange = function() {//when the readystate changes
        // alert("readyState " + this.readyState + " stats " + this.status );   
@@ -100,14 +80,36 @@ $(window).on('load', function () {
 
 $(document).ready(function(){
 var q = arrayLoad();
-loadArrayPage(q);
+//insert info into quiz
+document.getElementById("qq1").innerHTML = q[0].question;
+document.getElementById("q1al").innerHTML = q[0].a;
+document.getElementById("q1bl").innerHTML = q[0].b;
+document.getElementById("q1cl").innerHTML = q[0].c;
+document.getElementById("q1dl").innerHTML = q[0].d;
+document.getElementById("q1el").innerHTML = q[0].e;
+document.getElementById("a1").innerHTML = q[0].ans;
+document.getElementById("qq2").innerHTML = q[1].question;
+document.getElementById("q2al").innerHTML = q[1].a;
+document.getElementById("q2bl").innerHTML = q[1].b;
+document.getElementById("q2cl").innerHTML = q[1].c;
+document.getElementById("q2dl").innerHTML = q[1].d;
+document.getElementById("q2el").innerHTML = q[1].e;
+document.getElementById("a2").innerHTML = q[1].ans;
+document.getElementById("qq3").innerHTML = q[2].question;
+document.getElementById("q3al").innerHTML = q[2].a;
+document.getElementById("q3bl").innerHTML = q[2].b;
+document.getElementById("q3cl").innerHTML = q[2].c;
+document.getElementById("q3dl").innerHTML = q[2].d;
+document.getElementById("q3el").innerHTML = q[2].e;
+document.getElementById("a3").innerHTML = q[2].ans;
+
+
+//quiz logic
+var cor1= ((q[0].ans).trim()).toLowerCase();//NEED .trim!!!!!
+var cor2= ((q[1].ans).trim()).toLowerCase();
+var cor3= ((q[2].ans).trim()).toLowerCase();
 
 document.getElementById("answers").onclick = function () {
-    //quiz logic
-    var cor1= ((q[0].ans).trim()).toLowerCase();//NEED .trim!!!!!
-    var cor2= ((q[1].ans).trim()).toLowerCase();
-    var cor3= ((q[2].ans).trim()).toLowerCase();
-
     if(($('input[name=q1]:checked').val() + "" =="undefined") || ($('input[name=q2]:checked').val() + "" =="undefined") || ($('input[name=q3]:checked').val() + "" =="undefined")){
         alert("not done boi");
     }else{
@@ -116,23 +118,21 @@ document.getElementById("answers").onclick = function () {
             $("#q1").css("color","green");//make everything green
         }else{//wrong answer
             $("#q1").css("color","red");//make everything red
-            $("#q1" + cor1+"l").css("color", "green");
         }
 
         if($('input[name=q2]:checked').val()==cor2){
             $("#q2").css("color","green");
         }else{
             $("#q2").css("color","red");
-            $("#q2" + cor2+"l").css("color", "green");
         }
 
         if($('input[name=q3]:checked').val()==cor3){
             $("#q3").css("color","green");
         }else{
             $("#q3").css("color","red");
-            $("#q3" + cor3+"l").css("color", "green");
         }
     }
+
 };
 
 
@@ -144,23 +144,28 @@ document.getElementById("next").onclick = function () {
     if (q[0] === undefined){
         alert("ya done boi");
     }
-    loadArrayPage(q);
-    //reset page colors
-    $("#q1").css("color","#32047c");
-    $("#q2").css("color","#32047c");
-    $("#q3").css("color","#32047c");
-    var cor1= ((q[0].ans).trim()).toLowerCase();
-    var cor2= ((q[1].ans).trim()).toLowerCase();
-    var cor3= ((q[2].ans).trim()).toLowerCase();
-    $("#q1" + cor1+"l").css("color", "32047c");
-    $("#q2" + cor2+"l").css("color", "32047c");
-    $("#q3" + cor3+"l").css("color", "32047c");
-
-    var pop = document.getElementById("pop");
-    pop.className = "show"; //force the snackbar to show itself
-    setTimeout(function(){ pop.className = pop.className.replace("show", ""); }, 3000);//make it go back to normal(not visible) after 3 seconds
+    //insert info into quiz
+    document.getElementById("qq1").innerHTML = q[0].question;
+    document.getElementById("q1al").innerHTML = q[0].a;
+    document.getElementById("q1bl").innerHTML = q[0].b;
+    document.getElementById("q1cl").innerHTML = q[0].c;
+    document.getElementById("q1dl").innerHTML = q[0].d;
+    document.getElementById("q1el").innerHTML = q[0].e;
+    document.getElementById("a1").innerHTML = q[0].ans;
+    document.getElementById("qq2").innerHTML = q[1].question;
+    document.getElementById("q2al").innerHTML = q[1].a;
+    document.getElementById("q2bl").innerHTML = q[1].b;
+    document.getElementById("q2cl").innerHTML = q[1].c;
+    document.getElementById("q2dl").innerHTML = q[1].d;
+    document.getElementById("q2el").innerHTML = q[1].e;
+    document.getElementById("a2").innerHTML = q[1].ans;
+    document.getElementById("qq3").innerHTML = q[2].question;
+    document.getElementById("q3al").innerHTML = q[2].a;
+    document.getElementById("q3bl").innerHTML = q[2].b;
+    document.getElementById("q3cl").innerHTML = q[2].c;
+    document.getElementById("q3dl").innerHTML = q[2].d;
+    document.getElementById("q3el").innerHTML = q[2].e;
+    document.getElementById("a3").innerHTML = q[2].ans;
 }
 
-    
-    
 })
