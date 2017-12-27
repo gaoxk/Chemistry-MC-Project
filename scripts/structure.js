@@ -37,6 +37,7 @@ function shuffle(array) {
 //object loading from text files
 function arrayLoad(){
     var info, qtext, i;
+    console.log(text);
     info = text.split("\n");//info is an array of every line of text in the file 
     var q = [];//primative array (non OOP arrays in js act like java arraylists) of questions for this page
     var arraycounter=0;
