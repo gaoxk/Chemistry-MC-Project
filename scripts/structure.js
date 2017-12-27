@@ -1,5 +1,5 @@
 //quiz variables 
-var text;
+var text="lmao";
 
 
 
@@ -76,6 +76,7 @@ $(window).on('load', function () {
     //Third argument false indicates synchronous
     xhttp.open("GET", "texts/structure.txt", false);
     xhttp.send(); 
+     console.log(text);
 });
 
 
