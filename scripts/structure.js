@@ -132,6 +132,10 @@ document.getElementById("answers").onclick = function () {
             $("#q3").css("color","red");
         }
     }
+     console.log("answers button q1 answer: " + ((q[0].ans).trim()).toLowerCase());
+    console.log("answers button q2 answer: " + ((q[1].ans).trim()).toLowerCase());
+    console.log("answers button q3 answer: " + ((q[2].ans).trim()).toLowerCase());
+
 
 };
 
@@ -166,9 +170,15 @@ document.getElementById("next").onclick = function () {
     document.getElementById("q3dl").innerHTML = q[2].d;
     document.getElementById("q3el").innerHTML = q[2].e;
     document.getElementById("a3").innerHTML = q[2].ans;
-    console.log("q1 answer: " + q[0]);
+    
+    console.log("next button q1 answer: " + ((q[0].ans).trim()).toLowerCase());
+    console.log("next button q2 answer: " + ((q[1].ans).trim()).toLowerCase());
+    console.log("next button q3 answer: " + ((q[2].ans).trim()).toLowerCase());
 
-    //resent quiz colors
+    document.getElementById("q1").style.color = "black";
+    document.getElementById("q2").style.color = "black";
+    document.getElementById("q3").style.color = "black";
+    //reset quiz colors
 }
 
 })
