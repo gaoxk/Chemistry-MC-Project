@@ -166,7 +166,7 @@ document.getElementById("next").onclick = function () {
     document.getElementById("q3dl").innerHTML = q[2].d;
     document.getElementById("q3el").innerHTML = q[2].e;
     document.getElementById("a3").innerHTML = q[2].ans;
-    console.log("q1 answer: " + q[0].)
+    console.log("q1 answer: " + q[0]);
 
     //resent quiz colors
 }
