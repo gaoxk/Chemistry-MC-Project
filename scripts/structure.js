@@ -37,7 +37,6 @@ function shuffle(array) {
 //object loading from text files
 function arrayLoad(){
     var info, qtext, i;
-    console.log(text);
     info = text.split("\n");//info is an array of every line of text in the file 
     var q = [];//primative array (non OOP arrays in js act like java arraylists) of questions for this page
     var arraycounter=0;
@@ -65,6 +64,7 @@ function arrayLoad(){
 
 //quiz loading
 $(window).on('load', function () {
+    console.log("helo");
     var xhttp = new XMLHttpRequest();
     xhttp.onreadystatechange = function() {//when the readystate changes
        // alert("readyState " + this.readyState + " stats " + this.status );   
@@ -76,7 +76,6 @@ $(window).on('load', function () {
     //Third argument false indicates synchronous
     xhttp.open("GET", "texts/structure.txt", false);
     xhttp.send(); 
-     console.log(text);
 });
 
 
