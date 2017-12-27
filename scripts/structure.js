@@ -64,7 +64,7 @@ function arrayLoad(){
 
 //quiz loading
 $(window).on('load', function () {
-    console.log("nice");
+    console.log("heyo");
     var xhttp = new XMLHttpRequest();
     xhttp.onreadystatechange = function() {//when the readystate changes
        // alert("readyState " + this.readyState + " stats " + this.status );   
