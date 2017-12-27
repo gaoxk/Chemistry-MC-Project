@@ -1,7 +1,5 @@
 //quiz variables 
-var text="lmao";
-
-
+var text;
 
 //quest object
 function quest (ans, question, a, b, c, d,e){
@@ -148,6 +146,11 @@ document.getElementById("next").onclick = function () {
     if (q[0] === undefined){
         alert("ya done boi");
     }
+
+    cor1= ((q[0].ans).trim()).toLowerCase();//NEED .trim!!!!!
+    cor2= ((q[1].ans).trim()).toLowerCase();
+    cor3= ((q[2].ans).trim()).toLowerCase();
+    
     //insert info into quiz
     document.getElementById("qq1").innerHTML = q[0].question;
     document.getElementById("q1al").innerHTML = q[0].a;
