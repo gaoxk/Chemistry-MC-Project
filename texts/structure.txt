@@ -25,7 +25,7 @@ it is a uniform white powder
 it is completely soluble in water
 it looks like salt
 ANSWER it melts over the range 245C to 300C
-E
+le E
 A
 SET2 Q1
 ZzZ
@@ -52,4 +52,36 @@ it is a uniform white powder
 it is completely soluble in water
 it looks like salt
 ANSWER it melts over the range 245C to 300C
+le lovely E
+A
+SET3
+ZzZ
+le ANSWER
+le b
+le c
+le d
+le e
+C
+SET3
+ZzZ
+le a
+le b
+le ANSWER
+le d
+le e
+B
+SET3
+ZzZ
+le a
+le ANSWER
+le c
+le d
+le e
 E
+SET3
+ZzZ
+le a
+le b
+le c
+le d
+le ANSWER
