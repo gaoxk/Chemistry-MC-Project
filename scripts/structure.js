@@ -91,15 +91,15 @@ $(document).ready(function(){
 var q = arrayLoad();
 arrayLoadPage(q);
 
-
 //quiz logic
 var cor1= ((q[0].ans).trim()).toLowerCase();//NEED .trim!!!!!
 var cor2= ((q[1].ans).trim()).toLowerCase();
 var cor3= ((q[2].ans).trim()).toLowerCase();
 var cor4= ((q[3].ans).trim()).toLowerCase();
 var cor5= ((q[4].ans).trim()).toLowerCase();
+$("#next").prop('disabled', true);
 
-document.getElementById("answers").onclick = function () {
+document.getElementById("answer").onclick = function () {
     if(($('input[name=q1]:checked').val() + "" =="undefined") || 
         ($('input[name=q2]:checked').val() + "" =="undefined") || 
         ($('input[name=q3]:checked').val() + "" =="undefined") ||
@@ -140,7 +140,10 @@ document.getElementById("answers").onclick = function () {
          $("#q3" + cor3 + "l").css("color", "green");
          $("#q4" + cor4 + "l").css("color", "green");
          $("#q5" + cor5 + "l").css("color", "green");
+         $("#next").prop('disabled', false);
     }
+  
+
     console.log("answers button q1 answer: " + ((q[0].ans).trim()).toLowerCase());
     console.log("answers button q2 answer: " + ((q[1].ans).trim()).toLowerCase());
     console.log("answers button q3 answer: " + ((q[2].ans).trim()).toLowerCase());
@@ -167,6 +170,8 @@ document.getElementById("next").onclick = function () {
             //reset colors to black
             document.getElementById("q" + j).style.color = "grey";
         }
+        $("#next").prop('disabled', true);
+        $("#answer").prop('disabled', true);
     }else{
         cor1= ((q[0].ans).trim()).toLowerCase();//NEED .trim!!!!!
         cor2= ((q[1].ans).trim()).toLowerCase();
@@ -182,6 +187,9 @@ document.getElementById("next").onclick = function () {
             //clear radio button
             $("input:radio[name=q" + j +"]").each(function () { $(this).prop('checked', false); });
         }        
+
+        $("#next").prop('disabled', true);
+
         console.log("next button q1 answer: " + ((q[0].ans).trim()).toLowerCase());
         console.log("next button q2 answer: " + ((q[1].ans).trim()).toLowerCase());
         console.log("next button q3 answer: " + ((q[2].ans).trim()).toLowerCase());
