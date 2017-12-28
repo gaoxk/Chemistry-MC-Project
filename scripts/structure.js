@@ -46,7 +46,7 @@ function arrayLoad(){
             qtext+=info[i] + "<br>";
             i++;
         }
-        i++//to get out of the ZzZ indicator
+        i++;//to get out of the ZzZ indicator
 
         q[arraycounter] = new quest(ans, qtext, info[i], info[i+1], info[i+2], info[i+3], info[i+4]);
         arraycounter++; 
@@ -79,27 +79,16 @@ $(window).on('load', function () {
 $(document).ready(function(){
 var q = arrayLoad();
 //insert info into quiz
-document.getElementById("qq1").innerHTML = q[0].question;
-document.getElementById("q1al").innerHTML = q[0].a;
-document.getElementById("q1bl").innerHTML = q[0].b;
-document.getElementById("q1cl").innerHTML = q[0].c;
-document.getElementById("q1dl").innerHTML = q[0].d;
-document.getElementById("q1el").innerHTML = q[0].e;
-document.getElementById("a1").innerHTML = q[0].ans;
-document.getElementById("qq2").innerHTML = q[1].question;
-document.getElementById("q2al").innerHTML = q[1].a;
-document.getElementById("q2bl").innerHTML = q[1].b;
-document.getElementById("q2cl").innerHTML = q[1].c;
-document.getElementById("q2dl").innerHTML = q[1].d;
-document.getElementById("q2el").innerHTML = q[1].e;
-document.getElementById("a2").innerHTML = q[1].ans;
-document.getElementById("qq3").innerHTML = q[2].question;
-document.getElementById("q3al").innerHTML = q[2].a;
-document.getElementById("q3bl").innerHTML = q[2].b;
-document.getElementById("q3cl").innerHTML = q[2].c;
-document.getElementById("q3dl").innerHTML = q[2].d;
-document.getElementById("q3el").innerHTML = q[2].e;
-document.getElementById("a3").innerHTML = q[2].ans;
+for (var i = 0; i < 3; i++) {
+    var j = i+1;
+    document.getElementById("qq" + j).innerHTML = q[i].question;
+    document.getElementById("q" + j + "al").innerHTML = q[i].a;
+    document.getElementById("q" + j+ "bl").innerHTML = q[i].b;
+    document.getElementById("q" + j+ "cl").innerHTML = q[i].c;
+    document.getElementById("q" + j+ "dl").innerHTML = q[i].d;
+    document.getElementById("q" + j+ "el").innerHTML = q[i].e;
+    document.getElementById("a" + j).innerHTML = q[i].ans;
+}
 
 
 //quiz logic
@@ -117,7 +106,6 @@ document.getElementById("answers").onclick = function () {
         }else{//wrong answer
             $("#q1").css("color","red");//make everything red
         }
-
         if($('input[name=q2]:checked').val()==cor2){
             $("#q2").css("color","green");
         }else{
@@ -129,6 +117,9 @@ document.getElementById("answers").onclick = function () {
         }else{
             $("#q3").css("color","red");
         }
+         $("#q1" + cor1 + "l").css("color", "green");
+         $("#q2" + cor2 + "l").css("color", "green");
+         $("#q3" + cor3 + "l").css("color", "green");
     }
      console.log("answers button q1 answer: " + ((q[0].ans).trim()).toLowerCase());
     console.log("answers button q2 answer: " + ((q[1].ans).trim()).toLowerCase());
@@ -146,42 +137,31 @@ document.getElementById("next").onclick = function () {
     if (q[0] === undefined){
         alert("ya done boi");
     }
+    $("#q1" + cor1 + "l").css("color", "inherit");
+    $("#q2" + cor2 + "l").css("color", "inherit");
+    $("#q3" + cor3 + "l").css("color", "inherit");
 
     cor1= ((q[0].ans).trim()).toLowerCase();//NEED .trim!!!!!
     cor2= ((q[1].ans).trim()).toLowerCase();
     cor3= ((q[2].ans).trim()).toLowerCase();
     
     //insert info into quiz
-    document.getElementById("qq1").innerHTML = q[0].question;
-    document.getElementById("q1al").innerHTML = q[0].a;
-    document.getElementById("q1bl").innerHTML = q[0].b;
-    document.getElementById("q1cl").innerHTML = q[0].c;
-    document.getElementById("q1dl").innerHTML = q[0].d;
-    document.getElementById("q1el").innerHTML = q[0].e;
-    document.getElementById("a1").innerHTML = q[0].ans;
-    document.getElementById("qq2").innerHTML = q[1].question;
-    document.getElementById("q2al").innerHTML = q[1].a;
-    document.getElementById("q2bl").innerHTML = q[1].b;
-    document.getElementById("q2cl").innerHTML = q[1].c;
-    document.getElementById("q2dl").innerHTML = q[1].d;
-    document.getElementById("q2el").innerHTML = q[1].e;
-    document.getElementById("a2").innerHTML = q[1].ans;
-    document.getElementById("qq3").innerHTML = q[2].question;
-    document.getElementById("q3al").innerHTML = q[2].a;
-    document.getElementById("q3bl").innerHTML = q[2].b;
-    document.getElementById("q3cl").innerHTML = q[2].c;
-    document.getElementById("q3dl").innerHTML = q[2].d;
-    document.getElementById("q3el").innerHTML = q[2].e;
-    document.getElementById("a3").innerHTML = q[2].ans;
+    for (var i = 0; i < 3; i++) {
+        var j = i+1;
+        document.getElementById("qq" + j).innerHTML = q[i].question;
+        document.getElementById("q" + j + "al").innerHTML = q[i].a;
+        document.getElementById("q" + j+ "bl").innerHTML = q[i].b;
+        document.getElementById("q" + j+ "cl").innerHTML = q[i].c;
+        document.getElementById("q" + j+ "dl").innerHTML = q[i].d;
+        document.getElementById("q" + j+ "el").innerHTML = q[i].e;
+        document.getElementById("a" + j).innerHTML = q[i].ans;
+        //reset colors to black
+        document.getElementById("q" + j).style.color = "black";
+    }
     
     console.log("next button q1 answer: " + ((q[0].ans).trim()).toLowerCase());
     console.log("next button q2 answer: " + ((q[1].ans).trim()).toLowerCase());
     console.log("next button q3 answer: " + ((q[2].ans).trim()).toLowerCase());
-
-    document.getElementById("q1").style.color = "black";
-    document.getElementById("q2").style.color = "black";
-    document.getElementById("q3").style.color = "black";
-    //reset quiz colors
 }
 
 })
