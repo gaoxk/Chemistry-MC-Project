@@ -87,7 +87,6 @@ for (var i = 0; i < 3; i++) {
     document.getElementById("q" + j+ "cl").innerHTML = q[i].c;
     document.getElementById("q" + j+ "dl").innerHTML = q[i].d;
     document.getElementById("q" + j+ "el").innerHTML = q[i].e;
-    document.getElementById("a" + j).innerHTML = q[i].ans;
 }
 
 
@@ -154,7 +153,6 @@ document.getElementById("next").onclick = function () {
         document.getElementById("q" + j+ "cl").innerHTML = q[i].c;
         document.getElementById("q" + j+ "dl").innerHTML = q[i].d;
         document.getElementById("q" + j+ "el").innerHTML = q[i].e;
-        document.getElementById("a" + j).innerHTML = q[i].ans;
         //reset colors to black
         document.getElementById("q" + j).style.color = "black";
     }
@@ -163,5 +161,4 @@ document.getElementById("next").onclick = function () {
     console.log("next button q2 answer: " + ((q[1].ans).trim()).toLowerCase());
     console.log("next button q3 answer: " + ((q[2].ans).trim()).toLowerCase());
 }
-
 })
