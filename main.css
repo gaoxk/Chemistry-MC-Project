@@ -79,7 +79,7 @@ label{
 
 
 /*Error Box*/
-#notDone, #out, #refresher, #score {
+#notDone, #out, #refresher, #score, #error, #errorbtn{
   visibility: hidden;
   max-height:50px;
  /* min-width: 250px; */
@@ -95,12 +95,37 @@ label{
   background-color: rgb(36, 4, 89);
   display: inline-block;
 }
+#errorpop{
+  visibility: hidden;
+ /* min-width: 250px; */
+  max-height: 45%;
+  color: #fff;
+  text-align:left;
+  border-radius: 5px;
+  padding: 16px;
+  position: fixed;
+  z-index: 1;
+  right: 30px;
+  bottom: 30px;
+  font-size: 17px;
+  background-color: rgb(36, 4, 89);
+  display:block;
+}
 
-#notDone.show, #out.show, #refresher.show {
+#notDone.show, #out.show, #refresher.show{
     visibility: visible;
     -webkit-animation: fadein 0.5s, fadeout 0.5s 2.5s;
     animation: fadein 0.5s, fadeout 0.5s 2.5s;
 }
+#errorpop.show{
+  visibility: visible;
+    -webkit-animation: fadein 0.5s;
+    animation: fadein 0.5s;
+}
+#errorpop.close{
+  visibility: hidden;
+}
+
 
 @-webkit-keyframes fadein {
     from {bottom: 0; opacity: 0;} 

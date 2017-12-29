@@ -200,4 +200,15 @@ document.getElementById("next").onclick = function () {
         $("#next").prop('disabled', true);
     }
 }
+
+//error popup
+document.getElementById("errorpopper").onclick = function () {
+    var bar = document.getElementById("errorpop");
+    bar.className = "show";
+    $("#errorpop").css("visibility", "visible")
+}
+document.getElementById("errorpop").onclick = function (){
+    $("#errorpop").fadeOut("slow"); 
+    setTimeout(function() {$("#errorpop").css("visibility", "hidden"); }, 400);
+}
 })
