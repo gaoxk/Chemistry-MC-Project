@@ -69,6 +69,17 @@ function arrayLoadPage(q){
     }
 }
 
+//error bar functions
+function notDoneFn() {
+    var bar = document.getElementById("notDone");
+    bar.className = "show";
+    setTimeout(function(){ bar.className = bar.className.replace("show", ""); }, 3000);
+}
+function outFn() {
+    var bar = document.getElementById("out");
+    bar.className = "show";
+    setTimeout(function(){ bar.className = bar.className.replace("show", ""); }, 3000);
+}
 
 
 //quiz loading
@@ -105,7 +116,7 @@ document.getElementById("answer").onclick = function () {
         ($('input[name=q3]:checked').val() + "" =="undefined") ||
         ($('input[name=q4]:checked').val() + "" =="undefined") ||
         ($('input[name=q5]:checked').val() + "" =="undefined")){
-        alert("not done boi");
+        notDoneFn();
     }else{
         $(".reveal").css("visibility","visible");
         if($('input[name=q1]:checked').val()==cor1){//correct answer
@@ -165,9 +176,8 @@ document.getElementById("next").onclick = function () {
     $("#q5" + cor5 + "l").css("color", "inherit");
 
     if (q[0] === undefined){
-        alert("ya done boi");
+        outFn();
         for (var j = 1; j < 6; j++) {
-            //reset colors to black
             document.getElementById("q" + j).style.color = "grey";
         }
         $("#next").prop('disabled', true);
@@ -183,7 +193,7 @@ document.getElementById("next").onclick = function () {
         //insert info into quiz
         for (var j = 1; j < 6; j++) {
             //reset colors to black
-            document.getElementById("q" + j).style.color = "black";
+            document.getElementById("q" + j).style.color = "inherit";
             //clear radio button
             $("input:radio[name=q" + j +"]").each(function () { $(this).prop('checked', false); });
         }        

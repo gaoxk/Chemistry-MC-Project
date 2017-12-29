@@ -7,8 +7,8 @@ body {
 } 
 
 .wrapper {
-    display: flex;
-    align-items: stretch;
+  display: flex;
+  align-items: stretch;
 }
 
 #sidebar {  
@@ -16,6 +16,7 @@ body {
   max-width: 250px;
   min-height: 100vh;
 }
+
 .quiz {
   height: auto;
 }
@@ -27,6 +28,7 @@ body {
 .main {
   padding-left: 5%;
   min-width: 75%;
+  color: rgb(50, 4, 124);
 }
 
 .content {
@@ -71,3 +73,48 @@ div {
   font-weight: normal;
 }
 
+
+
+/*Error Box*/
+#notDone, #out {
+  visibility: hidden;
+  max-height:50px;
+  min-width: 250px;
+  margin-left: -125px;
+  background-color: #333;
+  color: #fff;
+  text-align:left;
+  border-radius: 5px;
+  padding: 16px;
+  position: fixed;
+  z-index: 1;
+  right: 30px;
+  bottom: 30px;
+  font-size: 17px;
+}
+
+#notDone.show, #out.show {
+    visibility: visible;
+    -webkit-animation: fadein 0.5s, fadeout 0.5s 2.5s;
+    animation: fadein 0.5s, fadeout 0.5s 2.5s;
+}
+
+@-webkit-keyframes fadein {
+    from {bottom: 0; opacity: 0;} 
+    to {bottom: 30px; opacity: 1;}
+}
+
+@keyframes fadein {
+    from {bottom: 0; opacity: 0;}
+    to {bottom: 30px; opacity: 1;}
+}
+
+@-webkit-keyframes fadeout {
+    from {bottom: 30px; opacity: 1;} 
+    to {bottom: 0; opacity: 0;}
+}
+
+@keyframes fadeout {
+    from {bottom: 30px; opacity: 1;}
+    to {bottom: 0; opacity: 0;}
+}
