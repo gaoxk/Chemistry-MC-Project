@@ -1,6 +1,7 @@
 //quiz variables 
 var text;
-
+var correct=0;
+var answered=0;
 //quest object
 function quest (ans, question, a, b, c, d,e){
     this.question = question;
@@ -69,13 +70,12 @@ function arrayLoadPage(q){
     }
 }
 
-//error bar 
+//error bar functions
 function barFn(nom){
     var bar = document.getElementById(nom);
     bar.className = "show";
     setTimeout(function(){ bar.className = bar.className.replace("show", ""); }, 3000);
 }
-
 
 
 //quiz loading
@@ -107,7 +107,7 @@ var cor4= ((q[3].ans).trim()).toLowerCase();
 var cor5= ((q[4].ans).trim()).toLowerCase();
 $("#next").prop('disabled', true);
 
-document.getElementById("answer").onclick = function () {
+document.getElementById("answer").onclick = function () {    
     if(($('input[name=q1]:checked').val() + "" =="undefined") || 
         ($('input[name=q2]:checked').val() + "" =="undefined") || 
         ($('input[name=q3]:checked').val() + "" =="undefined") ||
@@ -118,43 +118,52 @@ document.getElementById("answer").onclick = function () {
         $(".reveal").css("visibility","visible");
         if($('input[name=q1]:checked').val()==cor1){//correct answer
             $("#q1").css("color","green");//make everything green
+            correct++;
         }else{//wrong answer
             $("#q1").css("color","red");//make everything red
         }
         if($('input[name=q2]:checked').val()==cor2){
             $("#q2").css("color","green");
+            correct++;
         }else{
             $("#q2").css("color","red");
         }
 
         if($('input[name=q3]:checked').val()==cor3){
             $("#q3").css("color","green");
+            correct++;
         }else{
             $("#q3").css("color","red");
         }
 
         if($('input[name=q4]:checked').val()==cor4){
             $("#q4").css("color","green");
+            correct++;
         }else{
             $("#q4").css("color","red");
         }
         if($('input[name=q5]:checked').val()==cor5){
             $("#q5").css("color","green");
+            correct++;
         }else{
             $("#q5").css("color","red");
         }
+        answered+=5;
          $("#q1" + cor1 + "l").css("color", "green");
          $("#q2" + cor2 + "l").css("color", "green");
          $("#q3" + cor3 + "l").css("color", "green");
          $("#q4" + cor4 + "l").css("color", "green");
          $("#q5" + cor5 + "l").css("color", "green");
          $("#next").prop('disabled', false);
+
+        $("#score").text("Score: " + correct + "/" + answered);
     }
 };
 
 
 //new questions logic
 document.getElementById("next").onclick = function () {
+    $("#score").text("Score: " + correct + "/" + answered);
     for (var i = 0 ; i < 5; i++) {//move on to the next questions
         q.splice(0,1);
     }

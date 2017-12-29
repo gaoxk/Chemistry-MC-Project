@@ -68,6 +68,9 @@ div {
   padding-right: 30px;
   height:100%;
 }
+label{
+  font-weight:normal !important;
+}
 
 .answers{
   font-weight: normal;
@@ -76,12 +79,10 @@ div {
 
 
 /*Error Box*/
-#notDone, #out, #refresher {
+#notDone, #out, #refresher, #score {
   visibility: hidden;
   max-height:50px;
-  min-width: 250px;
-  margin-left: -125px;
-  background-color: #333;
+ /* min-width: 250px; */
   color: #fff;
   text-align:left;
   border-radius: 5px;
@@ -91,6 +92,8 @@ div {
   right: 30px;
   bottom: 30px;
   font-size: 17px;
+  background-color: rgb(36, 4, 89);
+  display: inline-block;
 }
 
 #notDone.show, #out.show, #refresher.show {
