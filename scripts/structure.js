@@ -69,17 +69,13 @@ function arrayLoadPage(q){
     }
 }
 
-//error bar functions
-function notDoneFn() {
-    var bar = document.getElementById("notDone");
+//error bar 
+function barFn(nom){
+    var bar = document.getElementById(nom);
     bar.className = "show";
     setTimeout(function(){ bar.className = bar.className.replace("show", ""); }, 3000);
 }
-function outFn() {
-    var bar = document.getElementById("out");
-    bar.className = "show";
-    setTimeout(function(){ bar.className = bar.className.replace("show", ""); }, 3000);
-}
+
 
 
 //quiz loading
@@ -101,6 +97,7 @@ $(window).on('load', function () {
 $(document).ready(function(){
 var q = arrayLoad();
 arrayLoadPage(q);
+barFn("refresher");
 
 //quiz logic
 var cor1= ((q[0].ans).trim()).toLowerCase();//NEED .trim!!!!!
@@ -116,7 +113,7 @@ document.getElementById("answer").onclick = function () {
         ($('input[name=q3]:checked').val() + "" =="undefined") ||
         ($('input[name=q4]:checked').val() + "" =="undefined") ||
         ($('input[name=q5]:checked').val() + "" =="undefined")){
-        notDoneFn();
+        barFn("notDone");
     }else{
         $(".reveal").css("visibility","visible");
         if($('input[name=q1]:checked').val()==cor1){//correct answer
@@ -153,13 +150,6 @@ document.getElementById("answer").onclick = function () {
          $("#q5" + cor5 + "l").css("color", "green");
          $("#next").prop('disabled', false);
     }
-  
-
-    console.log("answers button q1 answer: " + ((q[0].ans).trim()).toLowerCase());
-    console.log("answers button q2 answer: " + ((q[1].ans).trim()).toLowerCase());
-    console.log("answers button q3 answer: " + ((q[2].ans).trim()).toLowerCase());
-
-
 };
 
 
@@ -176,7 +166,7 @@ document.getElementById("next").onclick = function () {
     $("#q5" + cor5 + "l").css("color", "inherit");
 
     if (q[0] === undefined){
-        outFn();
+        barFn("out");
         for (var j = 1; j < 6; j++) {
             document.getElementById("q" + j).style.color = "grey";
         }
@@ -199,10 +189,6 @@ document.getElementById("next").onclick = function () {
         }        
 
         $("#next").prop('disabled', true);
-
-        console.log("next button q1 answer: " + ((q[0].ans).trim()).toLowerCase());
-        console.log("next button q2 answer: " + ((q[1].ans).trim()).toLowerCase());
-        console.log("next button q3 answer: " + ((q[2].ans).trim()).toLowerCase());
     }
 }
 })

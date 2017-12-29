@@ -76,7 +76,7 @@ div {
 
 
 /*Error Box*/
-#notDone, #out {
+#notDone, #out, #refresher {
   visibility: hidden;
   max-height:50px;
   min-width: 250px;
@@ -93,7 +93,7 @@ div {
   font-size: 17px;
 }
 
-#notDone.show, #out.show {
+#notDone.show, #out.show, #refresher.show {
     visibility: visible;
     -webkit-animation: fadein 0.5s, fadeout 0.5s 2.5s;
     animation: fadein 0.5s, fadeout 0.5s 2.5s;
