@@ -1,0 +1,214 @@
+C
+Much heat is given off when aluminum combines with fluorine. This indicates that aluminum fluoride is
+ZzZ
+(a) a good fuel.	
+(b) an explosive material.	
+(c) a very stable compound.
+(d) easily reduced by iodine.	
+(e) readily oxidized by hydrogen peroxide.
+B
+The characteristic of a compound that is closely related to its heat of formation is its
+ZzZ
+(a) density.
+(b) stability.	
+(c) volatility. 	
+(d) solubility.	
+(e) boiling point.
+D
+In an exothermic reaction the temperature of a 100 g water bath is raised 5 &#8728;C. How many joules does the water absorb?
+Specific heat capacity of water = 4.19 J/g&#8728;C
+ZzZ
+(a) 21 J	
+(b) 84 J	
+(c) 419 J
+(d) 2090 J
+(e) blank
+E
+When 2 g of carbon are burned to carbon dioxide, 15.75 kcal of heat energy are liberated. The heat liberated during the formation of one mole of carbon dioxide is
+ZzZ
+(a) 65.93 kJ/mol
+(d) 263.7 kJ/mol
+(c) 131.9 kJ/mol
+(d) 395.6 kJ/mol
+(e) 197.8 kJ/mol
+A
+Note the equation:
+2Fe(s) + 3/2O2(g) -> Fe2O3(s)    &#x2206;H = -840 kJ/mol Fe2O3
+If 0.100 mol of iron reacts, how much heat is liberated?
+ZzZ
+(a) 42.0 kJ	
+(b) 84.0 kJ	
+(c) 210 kJ 
+(d) 420 kJ
+(e) 840 kJ
+B
+Consider the equation:
+2Al(s) + Fe2O3(s) -> 2Fe(s)  + Al2O3(s)  + 840 kJ
+How many grams of aluminum react to produce 84 kJ of heat?
+Atomic Molar Mass
+Al	27 g/mol
+ZzZ
+(a) 2.7 g
+(b) 5.4 g
+(c) 9.0 g
+(d) 27. g
+(e) 54. g
+C
+Consider the equations for these reactions:
+	1/2N2 + 1/2O2 -> NO	&#x2206;H&#8728; = +90.4 kJ
+	NO2 -> NO + 1/2O2	&#x2206;H&#8728; = +56.5 kJ
+All reactants are gaseous. What is the heat of formation, &#x2206;H&#8728;f, for NO2 gas?
+ZzZ
+(a) -120.1 kJ	
+(b) -33.9 kJ	
+(c) +33.9 kJ	 
+(d) +120.1 kJ	
+(e) +146.9 kJ
+A
+Consider the equations:
+C(s) + O2(g) -> CO2(g)	&#x2206;H = -393.7 kJ/mol
+CO(g) + 1/2O2(g) -> CO2(g)	&#x2206;H = -283.1 kJ/mol
+From this information, calculate &#x2206;H  of the equation
+C(s) + 1/2O2(g) -> CO(g)
+ZzZ
+(a) -110.6 kJ/mol
+(c) -393.7 kJ/mol
+(b) -172.5 kJ/mol
+(d) -566.2 kJ/mol
+(e) blank
+B
+For the process
+			C(s) + 2 H2 (g) -> CH4 (g) 		&#x2206;H&#8728;f  = -74.8 kJ
+the value 74.8 kJ represents
+ZzZ
+(a) the energy stored as potential energy of the product methane
+(b) the energy change of the reaction
+(c) the energy absorbed during the reaction
+(d) the energy required to break the H-H and the C-C bonds
+(e) blank
+A
+What is specific heat capacity?
+ZzZ
+(a) the heat required to raise the temperature of one gram of substance by 1&#8728;C
+(b) the heat required to raise the temperature of one mole of substance by 1&#8728;C
+(c) the heat required to raise the temperature of a substance by 1&#8728;C
+(d) the heat required to raise the temperature of one litre of substance by 1&#8728;C
+(e) the temperature change when 1 joule of heat is added to 1 gram of a substance 
+B
+Which statement applies to an exothermic reaction?
+ZzZ
+(a) Reactants are more strongly bonded than products.
+(b) The product molecules have greater average kinetic energy than the reactant molecules had.
+(c) The temperature of the system drops as a result of the reaction. 
+(d) The product molecules have greater potential energy than the reactant molecules had.
+(e) Breaking bonds releases energy.
+A
+Which three items can be true of the same reaction?
+ZzZ
+(a) &#x2206;H>0       	endothermic     	&#x2206;t<0
+(b) &#x2206;H<0       	endothermic     	&#x2206;t<0
+(c) &#x2206;H>0       	exothermic     		&#x2206;t<0
+(d) &#x2206;H<0    	exothermic     		&#x2206;t<0
+(e) &#x2206;H>0       	endothermic     	&#x2206;t>0 
+C
+For which change is &#x2206;H positive?
+ZzZ
+(a) combustion
+(b) condensation
+(c) boiling
+(d) freezing
+(e) vapour to solid
+C
+In an exothermic reaction
+ZzZ
+(a) potential energy of atoms is transformed into bonding energy.
+(b) heat is transformed into potential energy of atoms.
+(c) potential energy of atoms is transformed into kinetic energy of atoms.
+(d) kinetic energy of atoms is transformed into bonding energy.
+(e) vibrational energy of atoms is transformed into potential energy.
+D
+The specific heat of a substance is 0.401 J/g &#8728;C. If 25.0 g of the substance at 25&#8728;C absorbs 169 J, what will its temperature become?
+ZzZ
+(a)  35.0 &#8728;C
+(b)  29.4 &#8728;C
+(c)  44.6 &#8728;C
+(d)  41.8 &#8728;C
+(e)  36.5 &#8728;C
+C
+Consider the following equations:
+       Pb(s) + O2(g) -> PbO2(s) 				&#x2206;H&#8728; = -276.4 kJ
+       Pb(s) + Cl2(g) -> PbCl2(s) 				&#x2206;H&#8728; = -359.2 kJ
+       H2O(g) + Cl2(g) -> 2HCl(g) + 1/2O2(g) 			&#x2206;H&#8728; = +57.32 kJ
+Calculate  &#x2206;H&#8728; for the reaction,
+       PbO2(s) + 4HCl(g) -> PbCl2(s) + 2H2O(g) + Cl2(g)
+ZzZ
+(a)  -578.5 kJ 
+(b)  -25.23 kJ
+(c)  -197.2 kJ
+(d)  +750.5 kJ
+(e)  -139.9 kJ
+E
+Given the following standard heats of formation, calculate &#x2206;H&#8728; for the reaction:
+     	PbO2(s) + 2H2SO4(1) + Pb(s) -> 2PbSO4(s) + 2H2O(l)
+  compound     &#x2206;H&#8728; (kJ/mol)
+    PbO2(s)              -277.0 
+    H2SO4(1)            -813.8
+    PbS04(s)            -920.1
+    H2O(1)               -285.8
+ZzZ
+(a)  -1391 kJ
+(b)  -2295 kJ
+(c)  -1170 kJ
+(d)  -115 kJ
+(e)  -506.9 kJ
+C
+A typical calorimeter for measuring enthalpies of reaction contains 2000 g of water. What is the heat capacity of this 2000 g of water? The specific heat of water is 4.18 J/g &#8728;C.
+ZzZ
+(a)  100 kJ/&#8728;C
+(b)  120 J/&#8728;C
+(c)  8.36 kJ/&#8728;C
+(d)  4.18 J/&#8728;C
+(e)  12.7 kJ/&#8728;C
+D
+ It is found that 912 J of heat raises the temperature of a 29.5 g sample of a metal by 83.5 Celsius degrees.  What is the specific heat of the sample in units of cal/g &#8728;C?
+ZzZ
+(a)  47.6
+(b)  33.5
+(c)  2.64
+(d)  0.370
+(e)  0.523
+C
+The burning of 0.500 mol of carbon to form carbon dioxide releases 197 kJ of heat. How much heat is released when 1.00 mol of CO2 is produced in a similar reaction?
+ZzZ
+(a) 98.4 kJ		
+(c) 394 kJ
+(b) 197 kJ		
+(d) 590 kJ
+(e) blank
+D
+The complete combustion of 3.00 g of ethane, C2H6, yields 156 kJ of heat energy. What is the molar heat of combustion?
+Atomic Molar Masses
+C	12.0 g/mol
+H	1.0 g/mol
+ZzZ
+(a) 1.56 kJg/mol
+(c) 427 kJg/mol
+(b) 51.9 kJg/mol
+(d) 1560 kJg/mol	
+(e) blank
+C
+Which one of the following statements is correct?
+ZzZ
+(a) Breaking bonds releases energy and making bonds absorbs energy
+(b) Bond breaking is exothermic and bond making is endothermic
+(c) Bond breaking is endothermic and bond making is exothermic
+(d) Breaking covalent bonds absorbs energy and making ionic bonds absorbs energy
+(e) blank
+D
+Which of the following is probably true for a solid solute with a highly endothermic heat of solution when dissolved in water?
+ZzZ
+(a) The solid has a low lattice energy.
+(b) As the solute dissolves, the temperature of the solution increases.
+(c) The resulting solution is ideal.
+(d) The solid is more soluble at higher temperatures.
+(e) The solid has a high energy of hydration.
