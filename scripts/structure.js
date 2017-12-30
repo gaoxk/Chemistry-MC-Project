@@ -58,25 +58,24 @@ function arrayLoad(){
 }
 
 //load questions into page
-function arrayLoadPage(q){
-    for (var i = 0; i < 5; i++) {
+function arrayLoadPage(q, n){
+    for (var i = 0; i < n; i++) {
+        console.log(i);
         var j = i+1;
-        document.getElementById("qq" + j).innerHTML = q[i].question;
-        document.getElementById("q" + j + "al").innerHTML = q[i].a;
-        document.getElementById("q" + j+ "bl").innerHTML = q[i].b;
-        document.getElementById("q" + j+ "cl").innerHTML = q[i].c;
-        document.getElementById("q" + j+ "dl").innerHTML = q[i].d;
-        document.getElementById("q" + j+ "el").innerHTML = q[i].e;
+        $("#qq" + j).html(q[i].question);
+        $("#q" + j + "al").html( q[i].a);
+        $("#q" + j + "bl").html( q[i].b);
+        $("#q" + j + "cl").html( q[i].c);
+        $("#q" + j + "dl").html( q[i].d);
+        $("#q" + j + "el").html( q[i].e);
     }
 }
-
-//error bar functions
-function barFn(nom){
-    var bar = document.getElementById(nom);
-    bar.className = "show";
-    setTimeout(function(){ bar.className = bar.className.replace("show", ""); }, 3000);
+//clear a number of questions
+function clearPage(n){
+    for (var j = 5; j > n; j--) {
+        $("#q" + j).css("display","none");
+    }
 }
-
 
 //quiz loading
 $(window).on('load', function () {
@@ -96,7 +95,7 @@ $(window).on('load', function () {
 
 $(document).ready(function(){
 var q = arrayLoad();
-arrayLoadPage(q);
+arrayLoadPage(q, 5);
 barFn("refresher");
 
 //quiz logic
@@ -105,10 +104,13 @@ var cor2= ((q[1].ans).trim()).toLowerCase();
 var cor3= ((q[2].ans).trim()).toLowerCase();
 var cor4= ((q[3].ans).trim()).toLowerCase();
 var cor5= ((q[4].ans).trim()).toLowerCase();
+var corrects = [cor1, cor2, cor3, cor4, cor5];
+
+
 $("#next").prop('disabled', true);
 
 document.getElementById("answer").onclick = function () {    
-
+    console.log(q.length);
     //if statement removed for testing only
 
   /*  if(($('input[name=q1]:checked').val() + "" =="undefined") || 
@@ -119,44 +121,17 @@ document.getElementById("answer").onclick = function () {
         barFn("notDone");*/
  //   }else{ 
         $(".reveal").css("visibility","visible");
-        if($('input[name=q1]:checked').val()==cor1){//correct answer
-            $("#q1").css("color","green");//make everything green
-            correct++;
-        }else{//wrong answer
-            $("#q1").css("color","red");//make everything red
+        for (var i = 0; i < corrects.length; i++) {
+            var j= i+1;
+            if($('input[name=q'+ j +']:checked').val()==corrects[i]){//correct answer
+                $("#q" + j).css("color","green");//make everything green
+                correct++;
+            }else{//wrong answer
+                $("#q" + j).css("color","red");//make everything red
+            }
+            $("#q" + j + ""+ corrects[i] + "l").css("color","green");//make answer green
         }
-        if($('input[name=q2]:checked').val()==cor2){
-            $("#q2").css("color","green");
-            correct++;
-        }else{
-            $("#q2").css("color","red");
-        }
-
-        if($('input[name=q3]:checked').val()==cor3){
-            $("#q3").css("color","green");
-            correct++;
-        }else{
-            $("#q3").css("color","red");
-        }
-
-        if($('input[name=q4]:checked').val()==cor4){
-            $("#q4").css("color","green");
-            correct++;
-        }else{
-            $("#q4").css("color","red");
-        }
-        if($('input[name=q5]:checked').val()==cor5){
-            $("#q5").css("color","green");
-            correct++;
-        }else{
-            $("#q5").css("color","red");
-        }
-        answered+=5;
-         $("#q1" + cor1 + "l").css("color", "green");
-         $("#q2" + cor2 + "l").css("color", "green");
-         $("#q3" + cor3 + "l").css("color", "green");
-         $("#q4" + cor4 + "l").css("color", "green");
-         $("#q5" + cor5 + "l").css("color", "green");
+        answered+=corrects.length;  
          $("#next").prop('disabled', false);
 
         $("#score").text("Score: " + correct + "/" + answered);
@@ -167,35 +142,35 @@ document.getElementById("answer").onclick = function () {
 //new questions logic
 document.getElementById("next").onclick = function () {
     $("#score").text("Score: " + correct + "/" + answered);
-    for (var i = 0 ; i < 5; i++) {//move on to the next questions
-        q.splice(0,1);
-    }
-    
-    $("#q1" + cor1 + "l").css("color", "inherit");
-    $("#q2" + cor2 + "l").css("color", "inherit");
-    $("#q3" + cor3 + "l").css("color", "inherit");
-    $("#q4" + cor4 + "l").css("color", "inherit");
-    $("#q5" + cor5 + "l").css("color", "inherit");
+    q.splice(0,5);   
 
-    if (q[0] === undefined){
+    for (var i = 0; i <5; i++) {
+        var j=i+1;
+        $("#q" + j + ""+ corrects[i] + "l").css("color","inherit");
+    }
+
+    if (q[0] === undefined ){
         barFn("out");
         for (var j = 1; j < 6; j++) {
-            document.getElementById("q" + j).style.color = "grey";
+            $("#q" + j).css("color", "grey");
         }
         $("#next").prop('disabled', true);
         $("#answer").prop('disabled', true);
     }else{
-        cor1= ((q[0].ans).trim()).toLowerCase();//NEED .trim!!!!!
-        cor2= ((q[1].ans).trim()).toLowerCase();
-        cor3= ((q[2].ans).trim()).toLowerCase();
-        cor4= ((q[3].ans).trim()).toLowerCase();
-        cor5= ((q[4].ans).trim()).toLowerCase();
-        
-        arrayLoadPage(q);
+        var smaller = Math.min(q.length, 5);
+        //reset correct answers
+        for (var i = 0; i <smaller; i++) {
+            corrects[i]=((q[i].ans).trim()).toLowerCase();
+        }
+        corrects.splice(smaller, 5);
         //insert info into quiz
+        console.log("nextbutton, correctlength: " + corrects.length);
+        arrayLoadPage(q, corrects.length);
+        clearPage(corrects.length);
+        
         for (var j = 1; j < 6; j++) {
             //reset colors to black
-            document.getElementById("q" + j).style.color = "inherit";
+            $("#q" + j).css("color", "inherit");
             //clear radio button
             $("input:radio[name=q" + j +"]").each(function () { $(this).prop('checked', false); });
         }        
@@ -204,14 +179,18 @@ document.getElementById("next").onclick = function () {
     }
 }
 
+//error bar functions
+function barFn(nom){
+    $("#" + nom).addClass("show");
+    setTimeout(function(){ $("#" + nom).removeClass("show").addClass(""); }, 3000);
+}
 //error popup
 document.getElementById("errorpopper").onclick = function () {
-    var bar = document.getElementById("errorpop");
-    bar.className = "show";
-    $("#errorpop").css("visibility", "visible")
+    $("#errorpop").addClass("show");
+    $("#errorpop").css("visibility", "visible");
 }
 document.getElementById("errorpop").onclick = function (){
     $("#errorpop").fadeOut("slow"); 
-    setTimeout(function() {$("#errorpop").css("visibility", "hidden"); }, 400);
+    setTimeout(function() { $("#errorpop").removeClass("show").addClass(""); }, 400);
 }
 })
