@@ -1,0 +1,458 @@
+E
+Isomers have
+ZzZ
+(a) different atomic masses but the same atomic numbers.
+(b) the same molecular structure and molecular masses.
+(c) the same atomic number but different atomic masses.
+(d) different molecular masses but the same molecular structures.
+(e) different molecular structures but the same number and kind of atoms.
+D
+The molar heat of complete combustion of a hydrocarbon will 
+ZzZ
+(a) be the same as that of the partial combustion
+(b) be lower than that of the partial combustion
+(c) be greater than that of the partial combustion
+(d) vary in comparison to the partial combustion depending upon the specific hydrocarbon
+(e) blank
+A
+Ethanol, C2H5OH, and dimethyl ether, (CH3)2O, are examples of
+ZzZ
+(a) isomers.	
+(b) isobars.	
+(c) isotones.   
+(d) isotopes.	
+(e) allotropes.
+A
+Ethyl benzene, C6H5-C2H5, and dimethyl benzene, C6H4(CH3)2, are examples of
+ZzZ
+(a) isomers.			
+(b) isotopes.			
+(c) allotropes.
+(d) homogeneous mixtures.
+(e) heterogeneous mixtures.
+B
+The compounds 1-propanol, CH<sub>3</sub>-CH<sub>2</sub>-CH<sub>2</sub>-OH, and 2-propanol, CH<sub>3</sub>-CHOH-CH<sub>3</sub>, are
+ZzZ
+(a) hybrids	
+(b) isomers	
+(c) isotopes	
+(d) polymers	
+(e) allotropes
+A
+Compounds that have the same molecular formula but different structural formulas are known as
+ZzZ
+(a) isomers	
+(b) polymers	
+(c) isotopes	
+(d) allotropes
+(e) blank
+D
+Which of the following is the correct addition reaction product for the reaction between hydrochloric acid and 1-butene, CH<sub>3</sub>CH<sub>2</sub>CHCH<sub>2</sub>?
+ZzZ
+(a) CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>Cl			
+(b) CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>3</sub>		
+(c) CH<sub>3</sub>CH<sub>2</sub>CHClCH<sub>2</sub>Cl			
+(d) CH<sub>3</sub>CH<sub>2</sub>CHClCH<sub>3</sub>
+(e) blank
+C
+The element most often found in organic compounds is
+ZzZ
+(a) phosphorus.	
+(b) nitrogen.	
+(c) carbon 	
+(d) sulfur.	 
+(e) chlorine.
+B
+The formula of an unsaturated hydrocarbon is
+ZzZ
+(a) CH4		
+(b) C2H2	
+(c) C2H6	
+(d) C3H8	
+(e) C4H10
+A
+C<sub>3</sub>H<sub>7</sub>OH is an example of an organic compound classified as
+ZzZ
+(a) an alcohol.		
+(b) a ketone.	
+(c) an ether.	 
+(d) an ester. 
+(e) an acid.
+B
+The kind of molecules found in gasoline are mainly
+ZzZ
+(a) carbohydrates.	
+(b) hydrocarbons. 	
+(c) esters. 	
+(d) ketones.	
+(e) alcohols.
+C
+The general formula for the unsaturated hydrocarbons containing only one double bond per molecule is
+ZzZ
+(a) C<sub>n</sub>H<sub>n+2</sub>		
+(b) C<sub>2n</sub>H<sub>n+2</sub>	
+(c) C<sub>n</sub>H<sub>2n</sub>
+(d) C<sub>n</sub>H<sub>n</sub>	 
+(e) C<sub>n</sub>H<sub>n+2</sub>
+A
+In a homologous series of hydrocarbons, the third member is C<sub>3</sub>H<sub>8</sub>. Which is the seventh member?
+ZzZ
+(a) C<sub>7</sub>H<sub>16</sub>	
+(b) C<sub>7</sub>H<sub>14</sub>	
+(c) C<sub>7</sub>H<sub>12</sub>	
+(d) C<sub>7</sub>H<sub>18</sub>	
+(e) C<sub>7</sub>H<sub>20</sub>
+C
+An organic compound with the formula C<sub>3</sub>H<sub>7</sub>OH should be classified as
+ZzZ
+(a) an aldehyde	
+(b) an acid		
+(c) an alcohol		
+(d) a base
+(e) blank
+D
+The products of the complete combustion of methyl mercaptan (CH3SH) are
+ZzZ
+(a) water, carbon dioxide, sulfur.
+(b) water, carbon monoxide, sulfur.
+(c) hydrogen, carbon dioxide, sulfur dioxide.
+(d) water, carbon dioxide, sulfur dioxide.
+(e) water, carbon, sulfur.
+E
+When an organic acid and an alcohol react, the product other than water is
+ZzZ
+(a) an aldehyde		
+(b) a ketone	
+(c) an ether	
+(d) a carbohydrate	
+(e) an ester
+D
+Which class of compounds would give only carbon dioxide and water on complete combustion?
+ZzZ
+(a) salts	
+(b) bases	
+(c) proteins	
+(d) hydrocarbons	
+(e) basic oxides
+D
+What are the products of the complete combustion of thiophenol, C6H5SH?
+ZzZ
+(a) carbon, sulfur, and water
+(b) carbon, sulfur dioxide, and water
+(c) carbon monoxide, sulfur dioxide, and water
+(d) carbon dioxide, sulfur dioxide, and water
+(e) blank
+D
+The complete combustion of ethane, C2H6, produces
+ZzZ
+(a) C2H5OH		
+(b) CH3COOH 	
+(c) CO2 and H2	
+(d) CO2 and H2O
+(e) blank
+C
+The equation representing the complete combustion of vitamin C is:
+C<sub>6</sub>H<sub>8</sub>O<sub>6</sub> + 5O<sub>2</sub> -> 6CO<sub>2</sub> + 4H<sub>2</sub> O
+What is the number of moles of oxygen needed for the complete combustion of 3.00 mol of vitamin C?
+ZzZ
+(a) 0.600	
+(b) 5.00	
+(c) 15.0	
+(d) 160
+(e) blank
+E
+Which statement is true?
+ZzZ
+(a) Wohler was unsuccessful in preparing urea from inorganic sources. This is the reason scientists believe in the vital force. 
+(b) In modern chemistry an organic substance is any substance found in or produced by a living organism.
+(c) Most organic substances have high melting points.
+(d) When organic substances are burned, the most abundant products are carbon monoxide and formaldehyde.
+(e) It is common for a given molecular formula to represent two or more organic compounds.
+C
+Which statement is correct?
+ZzZ
+(a) Different compounds with the same molecular formula are called isotopes. 
+(b) The most common intermolecular force for organic substances is the covalent bond.
+(c) The ability of atoms to join together in long chains is called catenation. 
+(d) A compound that contains only carbon and hydrogen should be quite soluble in water because of hydrogen bonding.
+(e) The size of stable hydrocarbon molecules is limited to about 20 carbon atoms, because larger molecules are too easily broken apart.
+A
+Which of the following statements is TRUE?
+ZzZ
+(a) The most common bond angle in organic compounds is the tetrahedral bond angle, approximately 109&#8728;. 
+(b) A condensed formula does not give information about  molecular structure. 
+(c) The smallest cyclic hydrocarbon contains four carbon atoms.
+(d) A molecule of cyclobutane has the same number of hydrogen atoms as a molecule of butane.
+(e) There are three possible structural isomers of C4H10.
+B
+Which statement is TRUE?
+ZzZ
+(a) In general, as molecular size increases in a homologous series of hydrocarbons, there is a decrease in boiling points. 
+(b) In the alkane series, branched chain isomers have lower boiling points than their straight-chain isomers.
+(c) Molecules of straight chain alkanes have 90&#8728; and 180&#8728; bond angles. 
+(d) Since alkanes have hydrogen atoms in them, and are capable of hydrogen bonding with water, alkanes are quite miscible with water.
+(e) Because of the strong covalent bonding in hydrocarbons, they are denser than water.
+D
+Which of the following is TRUE about the reaction of alkanes with oxygen?
+ZzZ
+(a) The reaction is endothermic.
+(b) The reaction has low activation energy.
+(c) The reaction is a substitution.
+(d) The reaction is slow initially because strong covalent bonds must be broken. 
+(e) Regardless of conditions, the reaction produces carbon dioxide and water as the only products.
+C
+What is the name of the process used to separate petroleum into components with similar molecular size?
+ZzZ
+(a) cracking    
+(b) reforming   
+(c) fractional distillation	
+(d) polymerization      
+(e) combustion
+A
+Which statement is true?
+ZzZ
+(a) Alkynes can exhibit structural isomerism but not geometric (cis-trans) isomerism.
+(b) Alkynes are neither acidic nor basic.
+(c) There are three isomers of C<sub>24</sub>H<sub>6</sub>  containing a triple bond.
+(d) Methyne is the first member of the alkyne series.
+(e) Alkynes do not readily undergo addition or hydration.
+A
+Which statement is true?
+ZzZ
+(a) Benzene has the molecular formula C<sub>6</sub>H<sub>6</sub>.
+(b) Benzene is a prism-shaped molecule.
+(c) Benzene undergoes addition reactions in preference to substitution reactions.
+(d) If one hydrogen is replaced in a benzene molecule, two different structures result, depending on whether the hydrogen was attached to a double-bonded carbon or a single- bonded carbon.
+(e) The carbon-carbon bonds in benzene are of two different lengths and strengths.
+E
+Which statement is true?
+ZzZ
+(a) In naming an alkene, the main chain is the longest carbon chain, even if it does not contain the double bond.
+(b) An alkene molecule is free to rotate around a double bond.
+(c) Addition reactions involving alkenes result in cis-trans isomers. 
+(d) Alkenes will not react as readily with potassium permanganate solution as will alkanes.
+(e) Ethene is used to accelerate the ripening of fruit for sale.
+C
+Which statement is true?
+ZzZ
+(a) Cyclobutane is an isomer of butyne.
+(b) Alkanes are capable of cis-trans isomerism.
+(c) Optical isomers are mirror images.
+(d) Hydrogenation of an alkyne produces an isomer of the alkyne.
+(e) Diethyl zinc is an important gasoline additive to improve octane rating.
+C
+Which statement is true?
+ZzZ
+(a) Chromatography is the trade name for a photographic process for developing coloured pictures.
+(b) Hydrogenation of benzene is used in the preparation of margarine. 
+(c) Light stimulates the optic nerve by converting the cis isomer of a derivative of Vitamin A to a trans isomer.
+(d) Acetylene is the common name of benzene.
+(e) Bubbling propane into a solution of silver nitrate produces a silver salt which is explosive when dry
+A
+What test may be used to determine whether a hydrocarbon is unsaturated? 
+ZzZ
+(a) It turns alkaline permanganate solution from purple to green.
+(b) It ignites when tested with a flaming splint.
+(c) It dissolves in water.
+(d) It turns litmus blue.
+(e) It has a pungent odour.
+A
+Which statement is true?
+ZzZ
+(a) Different compounds with the same molecular formula are called isomers.
+(b) The bond angle around carbon in most organic molecules is 90&#8728;.
+(c) In a tetrahedral molecule such as CH4 the four bonds are directed to the vertices of a trigonal bipyramid.
+(d) If a hydrogen atom is removed from a methane molecule the fragment that remains is called an ethane radical.
+(e) The ending -ane indicates that a carbon atom has formed a double bond.
+C
+Which statement is TRUE?
+ZzZ
+(a) Aliphatic hydrocarbons are those that contain a benzene ring. 
+(b) Aromatic hydrocarbons are those that do not contain a benzene ring. 
+(c) The benzene ring contains six carbon-carbon bonds which are stronger than single bonds. 
+(d) Alkynes contain a carbon-carbon double bond.
+(e) Alkenes contain a carbon-carbon single bond.
+E
+Which statement is true?
+ZzZ
+(a) In general, as we ascend a homologous series, we observe an decrease in boiling points.
+(b) In the alkane series, branched-chain isomers have higher boiling points than their straight-chain isomers.
+(c) A hydrocarbon that does contains a double bond, a triple bond, or a benzene ring is said to be saturated.
+(d) The general formula of a straight-chain alkane is C<sub>n</sub>H<sub>2n</sub>   
+(e) Cyclic alkanes contain fewer hydrogen atoms than straight-chain alkanes that have the same number of carbon atoms. 
+B
+Which statement is true?
+ZzZ
+(a) Ethene is C<sub>2</sub>H<sub>2</sub>.
+(b) Ethene is used in ripening fruit after shipment.
+(c) The ethene molecule is pyramidal in shape around each carbon. 
+(d) The bond angles in ethene are about 90&#8728;.
+(e) Ethene will polymerize by addition to form a plastic commonly known as polyethylene.
+D
+When an alkene is hydrated, the product is a(n)
+ZzZ
+(a) acid     
+(b) aldehyde       
+(c) ketone       
+(d) alcohol
+(e) blank
+B
+Which of the following will decolorize bromine water most quickly?
+ZzZ
+(a) C<sub>2</sub>H<sub>6</sub>       
+(b) C<sub>2</sub>H<sub>4</sub>      
+(c) C<sub>2</sub>H<sub>4</sub>Br<sub>2</sub>         
+(d) CO<sub>2</sub>   
+(e) blank
+A
+Which of the following applies to unsaturated hydrocarbons?
+ZzZ
+(a) the names of hydrocarbons containing double bonds end in -ene
+(b) the prefix "butyl" denotes three carbons
+(c) they are quite unreactive
+(d) the most characteristic reaction is one of esterification
+(e) blank
+A
+The structural isomers C<sub>2</sub>H<sub>5</sub> OH and CH<sub>3</sub> OCH<sub>3</sub>  would be expected to have the same values for which of the following? (Assume ideal behavior.)
+ZzZ
+(a) Gaseous densities at the same temperature and pressure
+(b) Vapor pressures at the same temperature
+(c) Boiling points
+(d) Melting points
+(e) Heats of vaporization
+B
+The formula for methyl acetate is
+ZzZ
+(a) CH<sub>3</sub>CH<sub>2</sub> COCH<sub>3</sub>  
+(b) CH<sub>3</sub>COOCH<sub>3</sub>  
+(c) CH<sub>3</sub>COOCH<sub>2</sub> CH<sub>3</sub>   
+(d) CH<sub>3</sub>CHOHCH<sub>3</sub>  
+(e) blank
+C
+Which of the following may be a structural isomer of ethanol?
+ZzZ
+(a) CH<sub>3</sub>CHO      
+(b) CH<sub>3</sub>OH      
+(c) CH<sub>3</sub>OCH<sub>3</sub>      
+(d) CH<sub>3</sub>CH<sub>3</sub>  
+(e) blank
+A
+When butanoic acid reacts with ethanol, the product is
+ZzZ
+(a) ethyl butanoate      
+(b) isobutyl acetate	
+(c) ethyl propionate     
+(d) butyl ethanoate
+(e) blank
+B
+In the preparation of an ester by the action of an acid on an alcohol, concentrated sulphuric acid is also added in order to
+ZzZ
+(a) prevent the reaction taking place too fast
+(b) act as a catalyst
+(c) prevent hydrolysis of the ester
+(d) act as an oxidizing agent
+(e) blank
+B
+In saturated hydrocarbons, the hybridization of carbon is
+ZzZ
+(a)  sp3d2	
+(b)  sp3	
+(c)  sp		
+(d)  sp2d	
+(e)  sp2
+E
+A homologous series of carbon compounds is a group of compounds in which one member of the group differs from the next by
+ZzZ
+(a)  CH<sub>3</sub>  
+(b)  CH<sub>4</sub>
+(c)  C
+(d)  CH
+(e)  CH<sub>2</sub>
+A
+Which of the following compounds has the highest bond strain?
+ZzZ
+(a)  cyclopropane
+(b)  cyclobutane
+(c)  all have the same strain
+(d)  cyclohexane
+(e)  cyclopentane
+B
+An amine is characterized by what functional group?
+ZzZ
+(a)  -CO<sub>2</sub>CH<sub>3</sub>          
+(b)  -NH<sub>2</sub>          
+(c)  -OH          
+(d)  -CO<sub>2</sub>H          
+(e)  -CHO
+D
+The primary building blocks of lipids are
+ZzZ
+(a)  nucleotides          
+(b)  monosaccharides          
+(c)  enzymes          
+(d)  fatty acids          
+(e)  amino acids
+A
+The correct formula for cyclopentane is
+ZzZ
+(a)  C<sub>5</sub>H<sub>10</sub>          
+(b)  C<sub>5</sub>H<sub><sub>12</sub></sub>          
+(c) C<sub>3</sub>H<sub>6</sub>         
+(d)  C<sub>5</sub>H<sub>8</sub>         
+(e)  C<sub>5</sub>H<sub>14</sub>
+E
+A noncyclic compound with the formula C5Hl0 is a
+ZzZ
+(a)  butane
+(b)  pentane
+(c)  pentyne
+(d)  heptane
+(e)  pentene
+A
+The correct formula for butane is
+ZzZ
+(a)  C<sub>4</sub>H<sub>10</sub>
+(b)  C<sub>8</sub>Hl<sub>8</sub>
+(c)  C<sub>4</sub>H<sub>8</sub>
+(d)  C<sub>4</sub>H<sub>l2</sub>
+(e)  C<sub>2</sub>H<sub>6</sub>
+E
+The C-A-C bond angle in cyclopropane is
+ZzZ
+(a)  90&#8728;	
+(b)  120&#8728;	
+(c)  180&#8728;	
+(d)  109&#8728;	
+(e)  60&#8728;
+A
+The correct formula for propyne is
+ZzZ
+(a)  C<sub>3</sub>H<sub>4</sub>	
+(b)  C<sub>3</sub>H<sub>8</sub>	
+(c)  C<sub>3</sub>H<sub>6</sub>	
+(d)  C<sub>3</sub>H	
+(e)  C<sub>3</sub>H<sub>3</sub>
+E
+What results when a secondary alcohol is oxidized?
+ZzZ
+(a)  no reaction	
+(b)  an acid	
+(c)  an aldehyde	
+(d)  an amine	
+(e)  a ketone
+B
+How many actual double bonds does the benzene rings possess?
+ZzZ
+(a)  4		
+(b)  0		
+(c)  1		
+(d)  2		
+(e)  3
+B
+When two alcohols undergo a self condensation, what is formed?
+ZzZ
+(a)  an aldehyde	
+(b)  an ether	
+(c)  liquid alcohol	
+(d)  a ketone	
+(e)  an ester
