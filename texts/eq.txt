@@ -322,7 +322,7 @@ ZzZ
 (e) blank
 D
 Consider the reaction:
-		2 SO <sub>2(g)</sub>  +  O<sub>2(g)</sub> <-> 2 SO<sub>3(g)</sub>l
+		2 SO <sub>2(g)</sub>  +  O<sub>2(g)</sub> <-> 2 SO<sub>3(g)</sub>
 The equilibrium concentrations at a given temperature are as follows:
 SO2 = 0.20 mol/L,	[O2 ] = 0.10 mol/L	[SO3] = 0.50 mol/L.l
 What is the value of the equilibrium constant for this system?

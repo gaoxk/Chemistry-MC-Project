@@ -1,0 +1,598 @@
+B
+When acidified K<sub>2</sub>Cr<sub>2</sub>O<sub>7</sub> solution is added to Na<sub>2</sub> S solution, green Cr<sup>3+</sup> ions and free S are formed. When acidified K<sub>2</sub>Cr<sub>2</sub>O<sub>7</sub> solution is added to NaCl,  no change occurs. Of the substances involved in these reactions, which is the best reducing agent?
+ZzZ
+(a) K<sub>2</sub>Cr<sub>2</sub>O<sub>7</sub>	
+(b) Na<sub>2</sub>S
+(c) Cr<sup>3+</sup>
+(d) S	
+(e) NaCl
+B
+If 0.060 faraday is passed through an electrolytic cell containing a solution of In3+ ions, the maximum number of moles of In that could be deposited at the cathode is
+ZzZ
+(a) 0.010 mole	
+(b) 0.020 mole
+(c) 0.030 mole
+(d) 0.060 mole	
+(e) 0.18 mole
+E
+Which of the following species CANNOT function as an oxidizing agent?
+ZzZ
+(a) Cr<sub>2</sub>O<sub>7</sub><sup>2-</sup>
+(b)MnO<sub>4</sub><sup>-</sup>
+(c) NO<sub>3</sub><sup>-</sup>
+(d) S
+(e) I<sup>-</sup>
+E
+Which of the following exhibits the greatest number of different oxidation states?
+ZzZ
+(a) O	
+(b)La	
+(c) Rb	
+(d) Mg	
+(e) N
+A
+For the reaction
+MnO<sub>4</sub><sup>-</sup>+  5 Fe<sup>2+</sup> +  8 H<sup>+</sup> <-> Mn<sup>2+</sup>  +  5 Fe<sup>3+</sup>  +  4 H2O  
+which of the following statements is FALSE?
+ZzZ
+(a) Hydrogen is reduced.    	
+(b)Iron is oxidized.
+(c) Manganese is reduced.   	
+(d) The equation is balanced.
+(e) In accounting for oxidation numbers, each manganese atom gains 5 electrons. 
+D
+Which of the following is not a redox reaction?
+ZzZ
+(a) Cl2  +  2 Br  <->  2 Cl  +  Br2 
+(b) Sn4+  +  2 Fe2+   <->  Sn2+  +  2 Fe3+  
+(c) Ba  +  S  <->  BaS
+(d) SO3  +  H2O   <->  H2SO4
+(e) 2 H2O2  <->  2 H2O   +  O2
+C
+According to the equation
+    2 Cr(OH)<sub>3</sub>  +  IO<sub>3</sub> <sup>-</sup> +  4 OH <->  2 CrO<sub>4</sub> <sup>-2</sup> +  I  +  5 H<sub>2</sub>O  
+the change is oxidation number for Cr is equivalent to how many electrons?
+ZzZ
+(a) 5 electrons gained  
+(b)5 electrons lost
+(c) 3 electrons lost        
+(d) 3 electrons gained
+(e) 4 electrons lost
+A
+When the following equation is balanced, what will be the coefficients from left to right?
+    H2O   +  Cr2O<sup>2</sup> <sub>7</sub> +  S  <-> SO<sub>2</sub>   +  <span>Cr<sub>2</sub></span>O<sub>3</sub>   +  OH
+ 
+ZzZ
+(a) 2,2,3,3,2,4 
+(b) 2,1,1,1,1,4 
+(c) 2,2,3,2,2,4
+(d) 1,1,3,3,1,2 
+(e) 1,2,4,4,2,1
+B
+Which of the following is the strongest reducing agent?
+ZzZ
+(a) Ag   
+(b) Li  
+(c) Fe   
+(d) O<sub>2</sub>   
+(e) H<sub>2</sub>   O<sub>2</sub>  
+A
+The metals A, B, C, and D react in the following way:
+    A  +  B2+  <->  B  +  A2+ 
+    C  +  D2+  <->  D  +  C2+ 
+    C  +  B2+  <->  no reaction 
+The best reducing agent is which of the following?
+ZzZ
+(a) A   	
+(b) B   	
+(c) C   	
+(d) D
+(e) blank
+A
+Which of the following processes is a redox reaction?
+ZzZ
+(a) recovering copper from copper ore
+(b) neutralization of hydrochloric acid by sodium hydroxide
+(c) double displacement resulting in precipitation when sodium chloride solution is mixed with silver nitrate solution
+(d) dissolving ammonia in water
+(e) decomposition of sulfurous acid giving off sulfur dioxide gas and water
+C
+Which rule is correct regarding the maximum oxidation numbers of the elements?
+ZzZ
+(a) The maximum oxidation number is always predicted by the octet rule.
+(b) The oxidation number of transition elements never  exceeds 3+.
+(c) The oxidation number of an A group element never exceeds the group number.
+(d) The maximum oxidation number of transition elements remains constant going across the period.
+(e) The maximum oxidation number of an element is equal to the number of vacancies in its valence shell.
+B
+Which statement is true with respect to the concept of oxidation numbers?
+ZzZ
+(a) The oxidation number for an element is given by the subscript in its formula.
+(b) When there is a covalent bond with dissimilar atoms we assume that the more electronegative atom has possession of the bonding electrons.
+(c) The oxidation number for oxygen is always 2
+(d) The oxidation number for hydrogen is always 1+.
+(e) The oxidation number for an atom other than hydrogen and oxygen is determined from the number of electrons needed to complete its octet.
+B
+Which reducing agent will reduce Pb2+ to Pb but will not reduce Ni2+ to Ni? 
+ZzZ
+(a) Cr   
+(b)Sn  	 
+(c) Cu   
+(d) I
+(e) Fe2+  
+B
+Which statement is true?
+ZzZ
+(a) The product of oxidation potential and reduction potential equals the equilibrium constant.
+(b) Oxidation potential tends to be lower for metals with a  higher electronegativity.
+(c) When an oxidizing agent reacts, it loses electrons.
+(d) Oxidation is gain of electrons.
+(e) When a strong oxidizing agent gains electrons, it forms a strong reducing agent.
+D
+Which compound is unlikely to exist because it contains an atom with an improbable oxidation state?
+ZzZ
+(a) Na2O   
+(b) HBrO4   
+(c) H3PO3   
+(d) HNO4   
+(e) Na2S2O8
+E
+Which reaction is not a redox reaction?
+ZzZ
+(a)  Zn  +  2 HCl  <->  ZnCl2   +  H2
+(b)  2 CO  +  O2  <->  2 CO2
+(c)  H2S  +  Cl2   <->  2 HCl
+(d)  2 CuS  +  3 O2  <->  2 CuO  +  2 SO2
+(e)  Na2O  +  CO2  <->  Na2CO3
+D
+Several iron nails were prepared.  One was left untreated.  One was wrapped with zinc. One was wrapped with copper wire.  The nails were placed in a dish and covered with a solution of agar, phenolphthalein and potassium ferricyanide. Which statement best describes their appearance after sitting overnight?
+ZzZ
+(a) The nail wrapped in zinc developed a reddish brown deposit of rust.
+(b) The nail wrapped in copper turned blue in the region of the copper and pink in the spaces between the copper and at the ends.
+(c) All three nails corroded somewhat.
+(d) The untreated nail developed a blue colour at the head and point and pink in the middle.
+(e) The nail wrapped in zinc rusted most.
+E
+The experiment in the previous question made use of
+ZzZ
+(a) agar as a corrosion accelerator
+(b) potassium ferricyanide as a corrosion inhibitor
+(c) Cu<sup>2+</sup><sub>(aq)</sub>to detect the sites of corrosion
+(d) salt as a catalyst
+(e) phenolphthalein as the indicator of the cathodic reaction
+A
+Four iron nails were placed in four liquids, hydrochloric acid solution, sodium hydroxide solution, sodium chloride solution, and distilled water.  After sitting overnight they were observed and tested with a solution of potassium ferricyanide.  Which statement best describes the observations?
+ZzZ
+(a) The acid solution turned blue when potassium ferricyanide solution was added.
+(b) The nail in the base solution had a brown deposit of rust.
+(c) The nail in water did not rust.
+(d) The water turned pink when potassium ferricyanide was added.
+(e) Bubbles formed around the nail in the base solution.
+C
+Which of the following will inhibit corrosion of iron?
+ZzZ
+(a) water
+(b)acid   
+(c) base   
+(d) salt   
+(e) stress
+E
+Why is magnesium attached to the hulls of ocean ships?
+ZzZ
+(a) It acts as a cathode.
+(b) It does not corrode as readily as iron.
+(c) It produces a protective coating on the iron.
+(d) It is cheaper than copper.
+(e) Its oxidation potential is greater than that of iron.
+A
+Why does steel made of iron and carbon corrode more rapidly than pure iron.
+ZzZ
+(a) Steel contains crystals with different compositions, some of which will act as cathodes encouraging the oxidation of the iron.
+(b) The carbon is more easily oxidized than the iron.
+(c) Carbon reduces the strength of the crystal lattice.
+(d) Iron is more readily reduced than carbon.
+(e) Covalent bonds are more easily broken than metallic bonds.
+B
+Which statement correctly describes the effect of contact with a second metal on the corrosion of iron?
+ZzZ
+(a) Lead would protect iron from corrosion by making the iron cathodic.
+(b) Contact with a metal that is lower in the table of standard reduction potentials will provide protection for iron even if it does not cover the entire surface of the iron.
+(c) Contact with calcium metal accelerates the corrosion of iron.
+(d) Contact with copper has no effect on the corrosion of iron.
+(e) Tin will oxidize more readily than iron, and so may be used as a sacrificial anode to protect iron.
+E
+Why would it be a bad idea to try protecting a car body from corrosion by connecting it to the negative terminal of the car battery.
+ZzZ
+(a) In fact, car batteries are usually connected this way, but to inhibit corrosion the car body should be connected to the positive terminal instead.
+(b) The car battery contains acid which accelerates corrosion rather than inhibiting it.
+(c) It would require too much electricity to protect the entire car continually, and this would drain the battery.
+(d) It would protect the car body, but car manufacturers don't do this because it would be bad for business.
+(e) The potential must be applied between points on the surface of the iron which are wet by the same continuous film of water, since this water acts as the electrolyte medium.  If this were done the negative point would be protected, but the positive point would corrode even more rapidly.
+A
+Iron may be protected from corrosion by
+ZzZ
+(a) contact with magnesium
+(b) contact with tin
+(c) immersion in water
+(d) salt solution
+(e) acids
+A
+The oxidation state of hydrogen in sodium hydride is
+ZzZ
+(a) 1 
+(b) 0 
+(c) +1 
+(d) +2 
+(e) +3
+B
+Which is the strongest reducing agent?
+ZzZ
+(a) H2O2 
+(b) H2S 
+(c) Hg 
+(d) Fe2+ 
+(e) H
+D
+Consider the equation
+	3<span> N<sub>2</sub></span>O<sub>4(g)</sub> + NaBr<sub>(aq)</sub>  + 6 NaOH<sub>(aq)</sub>  <-> 6 NaNO3 <sub>(aq)</sub> + NaBrO<sub>(aq)</sub>  + 3 H2O <sub>(l)</sub>
+Which of the following is correct?
+ZzZ
+(a) <span> N<sub>2</sub></span>O<sub>4(g)</sub> is the reducing agent and NaBr is the oxidizing agent
+(b) <span> N<sub>2</sub></span>O<sub>4(g)</sub> is the reducing agent and NaOH is the oxidizing agent 
+(c) NaBr is the reducing agent and NaOH is the oxidizing agent
+(d) NaBr is the reducing agent and <span> N<sub>2</sub></span>O<sub>4(g)</sub>  is the oxidizing agent 
+(e) blank
+A
+The oxidation number of Bi in BiO<sub>3</sub><sup>-</sup>  is
+ZzZ
+(a) +5
+(b) +6
+(c) +3
+(d) +7
+(e) blank
+D
+The sum of the coefficients for the following equation
+		Al + Fe3O4 (s)  <-> Fe + Al2O3 (s) 
+once balanced is
+ZzZ
+(a) 7	
+(b) 10	
+(c) 15	
+(d) 24 
+(e) blank
+A
+Consider the following reaction
+K<sub>2</sub>CrO <sub>4(aq)</sub> + FeCl<sub>2(aq)</sub> + HCl<sub>(aq)</sub>  <->  FeCl <sub>3(aq)</sub> + CrCl<sub>3(aq)</sub>  + KCl<sub>(aq)</sub> + H<sub>2</sub>O <sub>(l)</sub>
+ZzZ
+(a) Cr is reduced and Fe is oxidized
+(b) Fe is reduced and Cr is oxidized
+(c) O is reduced and Cr is oxidized
+(d) Cr is reduced and H is oxidized 
+(e) blank
+C
+Experiments were performed with five strips, V, W, X ,Y and Z and their corresponding 1.0 M nitrate solutions, V(NO3)2, WNO3, X(NO3)2, Y(NO3)2  and Z(NO3)3. A strip of metallic Y was inserted into each of the solutions and rections were observed only in solutions containing X2+ and V2+  ions. Metallic W reacted in solutions containing Y2+ and Z3+ ions but was not tested in the other solutions. Metallic X did not react in any of the solutions. A list of the metals in order of decreasing strength as reducing agents is
+ZzZ
+(a) V W X Y Z
+(b)Z Y X W V
+(c) W Z Y V X
+(d) X V Z Y W
+(e) blank
+D
+In which compound does bromine have the highest oxidation number?
+ZzZ
+(a) KBr	
+(b)KBrO	
+(c) KBrO2 	
+(d) KBrO3  
+(e) blank
+C
+What is the oxidation number of X in the compound H3X2O5?
+ZzZ
+(a) +1	
+(b)+2	
+(c) +7/2	
+(d) +7
+(e) blank
+B
+If a 50mmilliliter sample of a 2 molar Cd(NO3)2 solution is added to the left beaker, which of the following occurs?
+ZzZ
+(a) Voltage increases.
+(b) Voltage decreases but remains above zero.
+(c) Voltage becomes zero and remains at zero.
+(d) No change in voltage occurs.
+(e) Direction of voltage change cannot be predicted without additional information.
+D
+If the silver electrode is made larger, which of the following occurs?
+ZzZ
+(a) Voltage increases.
+(b) Voltage decreases but remains above zero.
+(c) Voltage becomes zero and remains at zero.
+(d) No change in voltage occurs.
+(e) Direction of voltage change cannot be predicted without additional information.
+C
+If the salt bridge is replaced by a platinum wire, which of the following occurs?
+ZzZ
+(a) Voltage increases.
+(b) Voltage decreases but remains above zero.
+(c) Voltage becomes zero and remains at zero.
+(d) No change in voltage occurs.
+(e) Direction of voltage change cannot be predicted without additional information.
+B
+If current is allowed to flow for 5 minutes, which of the following occurs?
+ZzZ
+(a) Voltage increases.
+(b) Voltage decreases but remains above zero.
+(c) Voltage becomes zero and remains at zero.
+(d) No change in voltage occurs.
+(e) Direction of voltage change cannot be predicted without additional information.
+A
+Which metal is most easily oxidized?
+ZzZ
+(a) potassium  
+(b) aluminum   
+(c) iron
+(d) mercury 
+(e) lead
+A
+Which container would be best for storing a solution of nickel(II) nitrate?
+ZzZ
+(a) tin   
+(b) zinc  
+(c) aluminum  
+(d) magnesium
+(e) calcium
+A
+Elements A, B, and C are tested by adding each of them to solutions containing the cations, A+, B+, and C+. B reacts with C+; C does not react; A reacts with B+ and C+. According to these results, which is the best reducing agent?
+ZzZ
+(a) A  
+(b) B  	
+(c) C
+(d) blank
+(e) blank
+D
+For the cell 
+				Zn | Zn2+ || Cu2+ | Cu     
+if the cell reaction is exothermic then which of the following would increase the cell voltage
+ZzZ
+(a) increasing the Zn2+ concentration in the zinc half cell 
+(b) decreasing the Cu2+ concentration in the copper half cell 
+(c) increasing the temperature
+(d) decreasing the Zn2+ concentration in the zinc half cell 
+(e) increasing the pressure on the system
+B
+What will happen when the electrodes of the following cell are connected by an external conductor?
+   		Cd | Cd2+(aq)(1.0 mol/L)   || Cd2+(aq)(2.0 mol/L)   | Cd 
+ZzZ
+(a) nothing
+(b) Cd will dissolve on the left and deposit on the right
+(c) electrons will flow through the conductor from the right to the left
+(d) the electrode on the left will be more positive than that on the right when they are connected to a volt meter.
+(e) cadmium will deposit at both electrodes
+D
+Iron corrodes faster when it is in contact with which of the following? 
+ZzZ
+(a) a basic solution		
+(b)dry air 	
+(c) a more reactive metal 
+(d) a metal with a lower oxidation potential
+(e) blank
+A
+What is the oxidizing agent in the LeClanché  dry cell?
+ZzZ
+(a) manganese(IV) oxide
+(b)ammonium chloride
+(c) water
+(d) graphite
+(e) zinc
+A
+Which statement is TRUE?
+ZzZ
+(a) A high cell potential corresponds to a large value of Ke.
+(b) The cell potential is directly proportional to the equilibrium constant for  the cell reaction.
+(c) The cell potential is independent of temperature.
+(d) A negative potential for a cell reaction shows that the reaction is spontaneous.
+(e) The cell potential is independent of concentration for ions involved in the reaction.
+A
+What is true for the cell potential if the cell reaction has come to equilibrium?
+ZzZ
+(a) E = 0
+(b)E > 0  
+(c) E < 0
+(d) blank
+(e) blank
+D
+Which statement is true for the lead
+acid battery?
+ZzZ
+(a) The anode is PbO<sub>2</sub>.
+(b) The electrolyte is Pb(NO<sub>3</sub>)<sub>2(aq)</sub>
+(c) The electrolyte becomes denser as the cell discharges.
+(d) Lead(II) sulfate is produced at both electrodes during discharge. 
+(e) During recharging, lead is converted to lead(IV) oxide.
+A
+Consider the following half cell reactions;
+	Q2+ + 2 e  -> Q(s)		E° = + 0.80 V
+	R2+ + 2 e  -> R(s)		E° = + 0.34 V
+	S2+ + 2 e  -> S(s)		E° = + 0.25V
+	T2+ + 2 e  -> T(s)		E° = + 0.74 V
+Which half cell, when combined with the standard hydrogen half cell under standard conditions, will produce the greatest voltage?
+ZzZ
+(a) Q
+(b) R
+(c) S
+(d) T
+(e) blank
+B
+What is the standard cell potential for the cell
+			Mg|Mg2+(aq)  || Sn2+(aq)   |Sn
+ZzZ
+(a) 2.51 V   
+(b) 2.23 V   
+(c) 2.51 V  
+(d) 2.23 V   
+(e) 2.52 V
+E
+The cathode reaction in the discharging of a lead
+acid storage battery involves the reduction of 
+ZzZ
+(a) Zn 
+(b) Pb 
+(c) HgO
+(d) MnO2 	 
+(e) PbO2
+B
+In an electrochemical cell, the anode 
+ZzZ
+(a) is connected to the positive terminal of any device which receives power from the cell 
+(b) is where oxidation occurs 
+(c) is where electrons enter from the external circuit
+(d) attracts positive ions in the electrolyte 
+(e) generally increases in mass as metal is deposited there 
+B
+If 2.0 M NaCl is added to the Ag half cell in the following electrochemical cell;
+		Cr|Cr3+(aq)(1.0 M)   || Ag+1(aq)(1.0 M)  |Ag 
+ZzZ
+(a) the chromium ion concentration will increase
+(b) the voltage of the cell will drop
+(c) the voltage will increase
+(d) the voltage will remain constant
+(e) blank
+D
+Consider the electrochemical cell
+		Fe|Fe2+(aq) (1.0 M)   || Cu 2+(aq) (1.0 M)  |Cu
+If the current is allowed to flow until the iron electrode loses 2.79 g, the copper electrode will have increased by 
+ZzZ
+(a) 1.59 g
+(b) S2.45 g
+(c) 2.79 g
+(d) 3.18 g
+(e) blank
+C
+Refer to the data sheet supplied with the exam to determine which one of the following reactions, if any, will not be spontaneous under standard conditions.
+ZzZ
+(a)  2Fe<sup>3+</sup> + 3Mn -> 3Mn<sup>2+</sup> + 2Fe
+(b)  2H+ + Ni -> Ni<sup>2+</sup> + H<sub>2</sub>
+(c)  Ni<sup>2+</sup> + 2Br -> Ni + Br<sub>2</sub>
+(d)  All are spontaneous.
+(e)  3Mn + 2Cr<sup>3+</sup> -> 2Cr + 3Mn<sup>2+</sup>
+B
+The function of a salt bridge in a galvanic cell is to ...
+ZzZ
+(a)  form complex ions with the products of oxidation at the anode and the products of reduction at the cathode.
+(b)  allow positive ions to enter the cathode compartment and permit negative ions to leave.
+(c)  permit electrons to flow through the solution.
+(d)  maintain a steady flow of reactants from the cathode to the anode, and vice versa.
+(e)  act as a catalyst.
+A
+The function of a salt bridge in a galvanic cell is to maintain electrical contact between the two electrolytes and to ...
+ZzZ
+(a)  allow negative ion to diffuse into the anode compartment and positive ions to diffuse into the cathode compartment.
+(b)  permit the reactants in the two half cell compartments to mix freely with each other.
+(c)  provide reactants for oxidation in the anode compartment.
+(d)  provide a path for electrons to flow from one solution to another.
+(e)  prevent reduction from taking place in the anode compartment.
+B
+In the lead storage battery during discharge,
+ZzZ
+(a)  the electrolyte is a H<sub>2</sub>SO4 solution.
+(b)  PbSO4 is formed at the cathode.
+(c)  PbO<sub>2</sub> is the anode.
+(d)  the Pb electrode carries a positive charge.
+(e)  the electrolyte gradually becomes more concentrated.
+C
+Which of the following is most easily oxidized?
+ZzZ
+(a)  F<sub>2</sub>
+(b)  H<sub>2</sub>
+(c)  K
+(d)  F
+(e)  K+
+A
+In the discharge cycle of the lead storage battery,
+ZzZ
+(a)  H<sub>2</sub>SO<sub>4</sub> is consumed.
+(b)  PbO<sub>2</sub> is formed at the anode.
+(c)  PbSO4 is consumed at the anode.
+(d)  the cathode material is Pb.
+(e)  the electrolyte is NaCl.
+B
+Consider the reaction 
+		3Ag<sup>+</sup><sub>(aq)</sub> + Cr(s) -> Cr<sup>3+</sup><sub>(aq)</sub> + 3Ag(s) 
+for which E° = 1.540 V.  If the Ag+<sup>+</sup> concentration in a cell is 0.010 M and the Cr<sup>3+</sup> concentration is 0.40 M, what is the potential of the cell?
+ZzZ
+(a)  1.508 V 
+(b)  1.429 V
+(c)  1.651 V
+(d)  1.620 V
+(e)  1.540 V
+B
+Given the following equations and their standard reduction potentials, select the correct statement.
+	Li+ + e -> Li(s)   	 	E&#8728 = 3.05 V 
+	Fe<sup>2+</sup> + 2 e -> Fe(s)   		E&#8728 = 0.74 V 	
+	Ni<sup>2+</sup> + 2 e ->  Ni(s)   		E&#8728 = 0.25 V 
+	2H<sup>+</sup>+ 2 e -> H2<sub>(g)</sub>   		E&#8728 =  0.00 V 
+	Cu<sup>2+</sup> + 2 e -> Cu(s)  	 	E&#8728 = +0.34 V
+ZzZ
+(a)  A cell with the reaction Cu<sup>2+</sup> + Ni ->  Ni<sup>2+</sup> + Cu has a standard potential of 0.09 V.    
+(b)  Ni will deposit on Fe from a Ni(NO<sub>3</sub>)<sub>2</sub> solution.    
+(c)  The best oxidizing agent shown here is Li+.    
+(d)  The most easily reduced substance shown here is Cu(s).    
+(e)  H+ has no tendency to form H<sub>2</sub>.
+C
+What is the function of a salt bridge in a galvanic cell?
+ZzZ
+(a) functions as cathode		
+(b)adds taste
+(c) maintains electrical neutrality	
+(d) functions as anode
+(e) keeps levels of liquids equal in both half cells
+A
+In the zinc carbon dry cell
+ZzZ
+(a) the zinc electrode carries a negative charge.
+(b) the cell potential depends on the size of the cell.
+(c) MnO<sub>2</sub> is oxidized.
+(d) the electrolyte is dilute H<sub>2</sub>SO4.
+(e) Zn<sup>2+</sup> is reduced at the cathode.
+D
+For a zinc copper cell (Zn + Cu<sup>2+</sup> -> Zn<sup>2+</sup> + Cu) the value of E&#8728 = 1.10 V.  In a particular experiment the cell potential was measured to be 1.07 V when the Cu<sup>2+</sup> concentration in the copper half cell was 0.10 M.  What was the concentration of Zn<sup>2+</sup> in the zinc half cell?
+ZzZ
+(a)  0.0010 M
+(b)  0.010 M
+(c)  10 M
+(d)  1.0 M
+(e)  0.10 M
+B
+With which of the following will Br<sub>2</sub> spontaneously react, assuming all species are at unit concentration?
+ZzZ
+(a)  F
+(b)  Pb
+(c)  Cl<sub>2</sub>
+(d)  I<sub>2</sub>
+(e)  none of the other answers
+E
+What is the cell potential of the Zn/Cu cell, at 25 &#8728;C, under the conditions given below? E&#8728;cell = 1.10 V Zn(s) + Cu<sup>2+</sup>(0.100 M) <-> Cu(s) + Zn<sup>2+</sup>(1.00 M)
+ZzZ
+(a)  1.16 V
+(b)  1.00 V
+(c)  1.10 V
+(d)  1.13 V
+(e)  1.07 V
+C
+The reaction 
+	Al + Cr<sup>3+</sup> -> Al<sup>3+</sup> + Cr 
+has E° = 0.930 V.  Calculate  &#x2206;G° for the reaction in kilojoules.
+ZzZ
+(a)  +92 kJ
+(b)  -92 kJ
+(c)  -270 kJ
+(d)  -103 kJ
+(e)  +270 kJ
+A
+The anode in a dry cell is composed of
+ZzZ
+(a)  Zn	
+(b) NH<sub>4</sub>Cl	
+(c)  Cu	
+(d)  graphite	
+(e)  MnO2

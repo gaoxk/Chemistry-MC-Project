@@ -117,7 +117,7 @@ document.getElementById("answer").onclick = function () {
         ($('input[name=q4]:checked').val() + "" =="undefined") ||
         ($('input[name=q5]:checked').val() + "" =="undefined")){
         barFn("notDone");*/
- //   }else{
+ //   }else{ 
         $(".reveal").css("visibility","visible");
         if($('input[name=q1]:checked').val()==cor1){//correct answer
             $("#q1").css("color","green");//make everything green
