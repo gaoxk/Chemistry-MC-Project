@@ -27,61 +27,18 @@ it looks like salt
 ANSWER it melts over the range 245C to 300C
 le E
 A
-SET2 Q1
+hey
 ZzZ
-ANSWER iron rusting 
-condensing steam
-sawing a piece of wood
-shredding a piece of paper
-dissolving a lump of sugar in water
-D
-SET2 Q2
-I - all pure substances which melt rather than decompose have a "sharp" melting point
-II - only pure substances can have a "sharp" melting point
-III - addition of more contaminant i.e. impurity, will always further depress the melting point
-ZzZ
-II and III
-II
-I and III
-ANSWER I and II
-all of the above
-D
-SET2 Q3
-ZzZ
-it is a uniform white powder
-it is completely soluble in water
-it looks like salt
-ANSWER it melts over the range 245C to 300C
-le lovely E
+le ANSWER
+le b
+le c
+le d
+le e
 A
-SET3
+IN THE TEXT FILE ALL QUESTIONS AFTER THIS ARE LEGIT
 ZzZ
 le ANSWER
 le b
 le c
 le d
 le e
-C
-SET3
-ZzZ
-le a
-le b
-le ANSWER
-le d
-le e
-B
-SET3
-ZzZ
-le a
-le ANSWER
-le c
-le d
-le e
-E
-SET3
-ZzZ
-le a
-le b
-le c
-le d
-le ANSWER

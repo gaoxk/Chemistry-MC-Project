@@ -1,0 +1,757 @@
+A
+An example of a chemical change is:
+ZzZ
+ANSWER iron rusting 
+condensing steam
+sawing a piece of wood
+shredding a piece of paper
+dissolving a lump of sugar in water
+D
+Select the set of CORRECT statements from the following;
+I - all pure substances which melt rather than decompose have a "sharp" melting point
+II - only pure substances can have a "sharp" melting point
+III - addition of more contaminant i.e. impurity, will always further depress the melting point
+ZzZ
+II and III
+II
+I and III
+ANSWER I and II
+all of the above
+D
+You have examined a material. Which one of the following factors suggests that the substance is a
+mixture?
+ZzZ
+it is a uniform white powder
+it is completely soluble in water
+it looks like salt
+ANSWER it melts over the range 245C to 300C
+le E
+A
+IN THE TEXT FILE ALL QUESTIONS AFTER THIS ARE LEGIT
+ZzZ
+le ANSWER
+le b
+le c
+le d
+le e
+D 
+The equilibrium equation for the Haber process at 500 &#8728;C is
+N<sub>2</sub>  + 3H<sub>2</sub> <-> 2NH<sub>3</sub>  + heat
+If heat is added in the above equilibrium mixture at constant pressure, then the concentration of
+ZzZ
+(a) nitrogen decreases.
+(b) hydrogen decreases.
+(c) ammonia increases.
+(d) ammonia decreases.
+(e) ammonia remains constant.
+E 
+A chemical reaction in water solution in which two or more products are formed will go nearly to completion when
+ZzZ
+(a) two salts are mixed.
+(b) the reactants are soluble.
+(c) ionization of the products occurs.
+(d) the proportions of the reactants are equal.
+(e) one of the products escapes as a gas.
+D 
+In the reaction, represented by the equation
+H<sub>2</sub>F<sub>2</sub> + energy <-> 2HF
+which set of conditions favors the formation of HF?
+ZzZ
+(a) low temperature and high pressure
+(b) low temperature and low pressure
+(c) high temperature and high pressure
+(d) high temperature and low pressure
+(e) addition of water to the reaction mixture
+D 
+Note the equation:
+AgCl<sub>(s)</sub> + 2S2O32-<sub>(aq)</sub> <-> Ag(S2O3)23-<sub>(aq)</sub> + Cl-<sub>(aq)</sub>
+If more S2O32-<sub>(aq)</sub> is added to the system at equilibrium, the
+ZzZ
+(a) amount of AgCl<sub>(s)</sub> increases.
+(b) system cannot achieve equilibrium.
+(c) rate of forward reaction decreases.
+(d) concentration of Cl-<sub>(aq)</sub> increases.
+(e) concentration of Ag(S2O3)23-<sub>(aq)</sub> decreases.
+C 
+How can the concentration of substance AB be increased in this equilibrium system?
+A2<sub>(g)</sub> + B2<sub>(g)</sub> + heat <-> 2AB<sub>(g)</sub>
+ZzZ
+(a) Increase the pressure.
+(b) Decrease the pressure.
+(c) Increase the temperature.
+(d) Decrease the temperature.
+(e) blank
+C 
+Consider the equation:
+CO + 2H<sub>2</sub> <-> CH<sub>2</sub> OH + heat
+All substances are gaseous. How will lowering the temperature affect this equilibrium system?
+ZzZ
+(a) increase the concentration of H2
+(b) increase the concentration of CO
+(c) increase the concentration of CH3OH
+(d) increase the concentrations of CO and H2
+(e) increase the concentrations of all components
+A 
+What is the hydrogen ion concentration, [H<sup>+</sup>], in a 0.020 M solution of acetic acid, CH3COOH, which is 3.0% ionized?
+ZzZ
+(a) 6.0 e-4 M	
+(b) 1.4 e-3 M
+(c) 2.0 e-2 M	
+(d) 3.0 e-2 M
+(e) blank
+B 
+Solid ammonium hydrogen sulfide, NH4HS, decomposes at 25  &#8728;C and is in equilibrium with two gases according to this equation.
+NH4HS<sub>(s)</sub> <-> NH3<sub>(g)</sub> + H2S<sub>(g)</sub>
+The molar concentration of each gas at equilibrium is 1.4 102 M. What is the value of the equilibrium constant at 25  &#8728;C?
+ZzZ
+(a) 1.4 e-4		
+(b) 2.0 e-4		
+(c) 2.8 e-4
+(d) 1.4 e-2
+(e) blank
+D
+What must be true when the reaction below is at equilibrium?
+				2 NO <sub>2(g)</sub> <-> N<sub>2</sub>O<sub>4(g)</sub>
+ZzZ
+(a) the concentration of NO2 must be twice as large as that of N2O4
+(b) the concentration of NO2 and N2O4 must be equal
+(c) NO2 must be reacting twice as fast as N2O4
+(d) the reaction of NO2 and the decomposition of N2O4 must occur at equal rates
+(e) blank
+C
+A cube of ice is added to some hot water in a rigid, insulated container, which is then sealed. There is no heat exchange with the surroundings. What has happened to the total energy and the total entropy when the system reaches equilibrium?
+	Energy 		Entropy
+ZzZ
+(a) Remains constant		Remains constant
+(b) Remains constant		Decreases
+(c) Remains constant 		Increases
+(d) Decreases			Increases
+(e) Increases			Decreases
+D
+For the reaction
+S<sub>2</sub>Cl <sub>2(l)</sub> + CCl<sub>4(l)</sub> <-> CS <sub>2(g)</sub> + 3 Cl <sub>2(g)</sub>
+the standard enthalpy change of reaction is 84.3 kJmol-1. If the above reactants and products are contained in a closed vessel and the system is at equilibrium, the number of moles of CS2 present in the system can be increased by
+ZzZ
+(a) adding some S2Cl2 to the system		
+(b) decreasing the size of the reaction vessel
+(c) adding some Cl2 to the system		
+(d) increasing the temperature of the reaction system
+(e) blank
+C
+When the substances in the equation below are at equilibrium at pressure P and temperature T, the equilibrium can be shifted to favor the products by 
+			CuO<sub>(s)</sub>  +  H<sub>2(g)</sub> -> Cu<sub>(s)</sub> + H<sub>2</subO<sub>(g)</sub>	
+&#x2206;H = -2.0 kJ
+ZzZ
+(a) increasing the pressure by means of a moving piston at constant T
+(b) increasing the pressure by adding an inert gas such as nitrogen
+(c) decreasing the temperature
+(d) allowing some gases to escape at constant P and T
+(e) adding a catalyst
+E
+In which of the following systems would the number of moles of the substances present at equilibrium NOT be shifted by a change in the volume of the system at constant temperature?
+ZzZ
+(a) CO<sub>(g)</sub> + NO<sub>(g)</sub> <-> CO<sub>2(g)</sub> + 1/2 N<sub>2(g)</sub>
+(b) N<sub>2(g)</sub>  + 3H<sub>2(g)</sub> <-> 2 NH<sub>3(g)</sub>
+(c) N<sub>2(g)</sub> + 2 O<sub>2(g)</sub> <-> 2 NO<sub>2(g)</sub>
+(d) N<sub>2</sub>O<sub>4(g)</sub> <-> 2 NO<sub>2(g)</sub>
+(e) NO<sub>(g)</sub> + O<sub>3(g)</sub> <-> NO<sub>2(g)</sub> + O<sub>2(g)</sub>
+D
+How do the rates of forward and reverse reactions compare at equilibrium? 
+ZzZ
+(a) the forward reaction is much faster
+(b) the forward reaction is only slightly faster
+(c) both rates are zero
+(d) the reverse rate equals the forward rate
+(e) the reverse rate is much faster
+C
+For a chemical reaction at equilibrium, which statement is TRUE?
+ZzZ
+(a) equilibrium can be approached from only the forward direction
+(b) the concentrations of products equal the concentrations of reactants 
+(c) the concentrations of products and reactants are constant
+(d) no reactions are occurring as long as the system remains at equilibrium
+(e) the system is not necessarily closed 
+A
+A homogeneous equilibrium is one where
+ZzZ
+(a) the products and reactants are all in the same phase.
+(b) the products and reactants are not all in the same phase.
+(c) the reactants are all in the same phase.
+(d) the products are all in the same phase.
+(e) blank
+A
+What happens to a reaction at equilibrium when a product concentration is decreased by removing some of the product? 
+ZzZ
+(a) The reaction makes more products.
+(b) The reaction makes more reactants.
+(c) There is no affect on the reaction.
+(d) The reaction speeds up.
+(e) blank
+B
+For the equilibrium system
+	4 HCl<sub>(g)</sub>  +  O<sub>2(g)</sub>  <-> 2 Cl<sub>2(g)</sub>  +  2 H2O<sub>(g)</sub>
+&#x2206;H = 114.4 kJ
+what happens to the equilibrium constant if the temperature is increased? 
+ZzZ
+(a) Kc  increases     
+(b) Kc  decreases   
+(c) Kc  does not change
+(d) blank
+(e) blank
+B
+If the value of &#x2206;G &#8728; for a reaction is large and positive, then Kc  is _____.
+ZzZ
+(a) very large      
+(b) very small       
+(c) zero           
+(d) equal to one
+(e) blank
+A
+What kind of value for Kc  will give a small yield of products at equilibrium?
+ZzZ
+(a) Kc <<1    
+(b) Kc >>1     
+(c) Kc = 1 
+(d) blank
+(e) blank
+B
+Which of the following factors will increase the rate but decrease equilibrium yield in the reaction
+    	3 H<sub>2(g)</sub>  +  N<sub>2(g)</sub>   <->   2 NH<sub>3(g)</sub> 
+&#x2206;H = 92.4 kJ
+ZzZ
+(a) raising the pressure
+(b) raising the temperature
+(c) using a catalyst
+(d) mixing the substances
+(e) blank
+B
+Consider the following systems;
+I    A container is half filled with alcohol, stoppered and allowed to stand for several days
+II   Crystals of potassium permanganate are dissolved in water until the water becomes a uniform purple color and a constant amount of crystal remains undissolved
+III  An ice cube floats in a beaker of water in a normal classroom
+IV   Moth balls are placed in an empty flask which is then stoppered and allowed to stand for several days
+Which of the above are equilibrium systems
+ZzZ
+(a) I and II     
+(b) I, II and IV    
+(c) II and III      
+(d) all
+(e) blank
+D
+Identify the one FALSE statement in the following:
+ZzZ
+(a) A system at chemical equilibrium has a constant mass.
+(b) A system in chemical equilibrium acts so as to oppose slight disturbances.
+(c) Forward and reverse reactions proceed at the same rate in a system at chemical equilibrium.
+(d) Reactant and product concentrations vary with time in a system at chemical equilibrium.
+(e) A system at chemical equilibrium must have a constant temperature. 
+A
+The equilibrium concentrations of X, Y, W and Z are 7.0 mol/L, 6.0 mol/L, 5.0 mol/L and 7.0 mol/L respectively. If the system corresponds to the following balanced equation, what is the value of the equilibrium constant?
+				3 X + Y   <->   2 W + Z
+ZzZ
+(a) 0.085          
+(b) 0.56          
+(c) 1.8          
+(d) 12
+(e) blank
+D
+Consider the following system.
+			H<sub>2(g)</sub>   + I<sub>2(g)</sub> <-> 2HI<sub>(g)</sub>
+A quantity of pure HI was placed in an empty vessel at 731 K and the system allowed to come to equilibrium. An increase in the pressure in the reaction vessel would cause which of the following?
+ZzZ
+(a) The reaction proceeds to completion.
+(b) Some hydrogen iodide decomposes.
+(c) Some of the hydrogen and iodine combine.
+(d) There is no change in amounts of products at equilibrium.
+(e) The pressure lowers as the reaction proceeds to equilibrium 
+C
+For the reaction,
+		CH<sub>4(g)</sub>   +  2 O<sub>2</sub>    <->    CO<sub>2</sub>      +  2 H<sub>2</sub> O<sub>(g)</sub>  +  heat
+what will be the effect on the system at equilibrium if the temperature is increased?
+ZzZ
+(a) [H2O] increases		
+(b) [CO2] increases		
+(c) [O2] increases
+(d) only the forward reaction speeds up
+(e) both the forward and reverse reactions speed up but the forward reaction speeds up most
+E
+The equilibrium constant for a reaction changes when
+ZzZ
+(a) the volume of the reaction vessel changes
+(b) the pressure on the system changes
+(c) the concentration of the reactants is changed
+(d) a catalyst is added
+(e) the temperature of the system changes
+C
+For the reaction
+		CH<sub>4(g)</sub>   +  2 O<sub>2(g)</sub>  <-> CO<sub>2(g)</sub>  +  2 <span>H<sub>2<sub></span>O<sub>(l)</sub> +  heat
+what will be the effect on the system at equilibrium if the temperature is increased?
+ZzZ
+(a) [H2O] increases		
+(b) [CO2] increases
+(c) [O2] increases		
+(d) only the forward reaction speeds up
+(e) both the forward and reverse reactions speed up but the forward reaction speeds up most
+D
+The following equation represents a closed chemical system in dynamic equilibrium at a certain temperature and pressure:
+		2 NO<sub>(g)</sub>  +  O <sub>2(g)</sub>  <->  2 NO<sub>2(g)</sub>
+What does the term dynamic equilibrium mean?
+ZzZ
+(a) All molecular activity has stopped.
+(b) All of the NO<sub>(g)</sub> and O<sub>2(g)</sub> have reacted to form NO <sub>2(g)</sub> 
+(c) The number of molecules of NO <sub>2(g)</sub>  is equal to the number of molecules of  NO<sub>(g)</sub> 
+(d) A chemical reaction and its reverse reaction are proceeding at equal rates.
+(e) The number of molecules of gases on the left side in the equation is equal to the number of molecules of gases on the right side.
+A
+In a closed system
+ZzZ
+(a) no matter is added or removed
+(b) any changes must be at equilibrium
+(c) no reactions can occur
+(d) the temperature must be kept constant
+(e) any chemical change must not alter the number of molecules
+C
+The value of the equilibrium constant is 50 for the reaction:
+		H<sub>2(g)</sub>  +  I<sub>2(s)</sub>  <-> 2 HI<sub>(aq)</sub>
+If [H<sub>2(g)</sub>] = 1.2 mol/L and [I<sub>2(s)</sub>] = 0.60 mol/L at equilibrium, the equilibrium concentration of HI<sub>(aq)</sub> is
+ZzZ
+(a) 1.4 e2 mol/L   
+(b) 2.4 mol/L	
+(c) 6.0 mol/L    
+(d) 36 mol/L
+(e) blank
+D
+Consider the reaction:
+		2 SO <sub>2(g)</sub>  +  O<sub>2(g)</sub> <-> 2 SO<sub>3(g)</sub>l
+The equilibrium concentrations at a given temperature are as follows:
+SO2 = 0.20 mol/L,	[O2 ] = 0.10 mol/L	[SO3] = 0.50 mol/L.l
+What is the value of the equilibrium constant for this system?
+ZzZ
+(a) 0.55     
+(b) 5.5     
+(c) 25     
+(d) 63     
+(e) 6.3 e3
+B
+Which equilibrium is shifted to the left by an increase in external pressure but to the right by an increase in temperature?
+ZzZ
+(a) N2 +  3 H2 <-> 2 NH3 +  100kJ
+(b) 2 NO2 <-> 2  NO +  O2 ,  &#x2206;H = 27 kJ/mol
+(c) PCl3 +  Cl2 <-> PCl5 , &#x2206;H = l6.6 kJ/mol
+(d) CaO+  CO2 <-> CaCO3 +  heat
+(e) H2 +  I2 <-> 2 HI +  heat
+A
+Which of the following reactions, initially at equilibrium, shifts equilibrium in such a way as to release heat when the pressure is increased?
+ZzZ
+(a) SO3  <-> SO2   +  1/2 O2 		&#x2206;H = +98 kJ/mol
+(b) N2   +  O2  <-> 2 NO			&#x2206;H = +182 kJ/mol
+(c) C +  1/2 O2  <-> CO, 	&#x2206;H = 111 kJ/mol
+(d) C  +  O2  <-> CO2 			&#x2206;H = 394 kJ/moll
+(e) 3 O2  <-> 2 O3  				&#x2206;H=+285kJ/mol
+E
+Which pair of changes insures that a chemical system undergoes a spontaneous reaction?
+ZzZ
+(a) a decrease in enthalpy and entropy
+(b) an increase in enthalpy and entropy
+(c) an increase in enthalpy with entropy constant
+(d) an increase in enthalpy and a decrease in entropy
+(e) a decrease in enthalpy and an increase in entropy
+C
+In which system does randomness decrease?
+ZzZ
+(a) ice melting
+(b) solid iodine subliming
+(c) methane gas crystallizing
+(d) salt dissolving in water
+(e) liquid alcohol evaporating
+A
+Which forward reaction shows an increase in entropy (disorder)?
+ZzZ
+(a) CaCO<sub>3(s)</sub> -> CaO<sub>(s)</sub> + CO<sub>2(g)</sub>
+(b) 2H<sub>2(g)</sub> + O<sub>2(g)</sub> -> 2H<sub>2</sub>O<sub>(l)</sub>
+(c) H<sub>2(g)</sub> + CuO<sub>(s)</sub> -> H<sub>2</sub>O<sub>(l)</sub> + Cu<sub>(s)</sub>
+(d) HCl<sub>(g)</sub> + NH<sub>3(g)</sub> -> NH<sub>4</sub>Cl<sub>(s)</sub>
+(e) blank
+B
+Which is a correct statement regarding this spontaneous reaction?
+H<sub>2</sub>O<sub>(l)</sub> -> H<sub>2</sub>O<sub>(g)</sub>
+ZzZ
+(a) There is a decrease in enthalpy.
+(b) There is an increase in entropy.
+(c) There is a decrease in entropy.
+(d) There is an increase in free energy.
+(e) blank
+A
+In which state does a sample of benzene have the lowest entropy?
+ZzZ
+(a) crystalline benzene at 5.5  &#8728;C
+(b) liquid benzene at 5.5  &#8728;C
+(c) benzene vapor at 5.5  &#8728;C
+(d) a mixture of benzene vapor and air at 5.5  &#8728;C
+(e) blank
+D
+Which of the following reactions has the largest positive value of &#x2206;S per mole of Cl2
+ZzZ
+(a)H2 + Cl2 -> 2 HCl
+(b) C12 + 1/2 O2 -> Cl2O
+(c) Mg+ Cl2 -> MgCl2
+(d) 2 NH4Cl4 -> H2 + Cl2
+(e) Cl2 -> 2 Cl
+C
+Which of the following must be true for a reaction that proceeds spontaneously from initial standard state conditions?
+ZzZ
+(a) &#x2206;G &#8728; > 0 and Keq > 1
+(b) &#x2206;G &#8728; > 0 and Keq < 1
+(c) &#x2206;G &#8728; < 0 and Keq > 1
+(d) &#x2206;G &#8728; < 0 and Keq < 1
+(e) &#x2206;G &#8728; = 0 and Keq = 1
+E
+When ice melts at its normal melting point, 273.16 K and 1 atmosphere, which of the following is true for the process shown below?
+			H<sub>2</sub>O<sub>(s)</sub> -> H<sub>2</sub>O<sub>(l)</sub>
+ZzZ
+(a) &#x2206;H < 0, &#x2206;S > 0, &#x2206;V > 0
+(b) &#x2206;H < 0, &#x2206;S < 0, &#x2206;V > 0
+(c) &#x2206;H > 0, &#x2206;S < 0, &#x2206;V < 0
+(d) &#x2206;H > 0, &#x2206;S > 0, &#x2206;V >0
+(e) &#x2206;H > 0, &#x2206;S > 0, &#x2206;V < 0
+B
+Which of the following is responsible for the fact that the melting of ice is a spontaneous process at room temperature and standard pressure?
+ZzZ
+(a) Melting is accompanied by a decrease in entropy.
+(b) Melting is accompanied by an increase in entropy.
+(c) Melting is accompanied by a decrease in energy.
+(d) Melting is accompanied by an increase in energy.
+(e) Melting is accompanied by a no change in entropy.
+D
+In which of these systems is the entropy decreasing?
+ZzZ
+(a) air escaping from a tire		
+(b) snow melting
+(c) salt dissolving in water		
+(d) a liquid cooling
+(e) a meal being digested
+B
+The spontaneous evaporation of methanol is evidence of 
+ZzZ
+(a) a natural tendency towards minimum potential energy
+(b) a natural tendency towards increasing randomness
+(c) the existence of a state of equilibrium
+(d) a high activation energy
+(e) blank
+A
+When the temperature of a system is low, the reaction generally proceeds as predicted by the enthalpy change, &#x2206;H, because 
+ZzZ
+(a) the product T&#x2206;S may be small compared to &#x2206;H
+(b) the product T&#x2206;S may be large compared to &#x2206;H
+(c) the product T&#x2206;S is equal to &#x2206;H
+(d) &#x2206;S is negative
+(e) blank
+C
+The freezing point depression which results from the addition of a dissolved solute is due to
+ZzZ
+(a) increased interparticle forces within the solvent
+(b) decreases interparticle forces within the solvent
+(c) less solvent-solvent molecule contact and reduced crystallization
+(d) reduced solvent - vapor surface area and thus a lower vapor pressure.
+(e) blank
+D
+The boiling point elevation which results from the addition of a dissolved solute is due to
+ZzZ
+(a) increased interparticle forces within the solvent
+(b) decreases interparticle forces within the solvent
+(c) less solvent-solvent molecule contact and reduced crystallization
+(d) reduced solvent - vapor surface area and thus a lower vapor pressure.
+(e) blank
+D
+One molar NaCl will depress the freezing point of water
+ZzZ
+(a) exactly twice as much as one molar sugar since there are twice as many dissolved particles
+(b) the same amount as one molar sugar since the same amount of solute is present
+(c) an amount which is proportional to the mass of sugar dissolved to make a one molar sugar solution
+(d) less than twice as much as one molar sugar since the salt does not 100% ionize 
+(e) blank
+D
+One molar NaCl will elevate the boiling point of water
+ZzZ
+(a) exactly twice as much as one molar sugar since there are twice as many dissolved particles
+(b) the same amount as one molar sugar since the same amount of solute is present
+(c) an amount which is proportional to the mass of sugar dissolved to make a one molar sugar solution
+(d) less than twice as much as one molar sugar since the salt does not 100% ionize 
+(e) blank	 
+D
+What is the net ionic equation for the reaction between potassium iodide solution, KI<sub>(aq)</sub>, and silver nitrate solution, AgNO3<sub>(aq)</sub>?
+ZzZ
+(a) K+<sub>(aq)</sub> + I-<sub>(aq)</sub> -> KI<sub>(s)</sub>
+(b) K+<sub>(aq)</sub> + NO-<sub>3(aq)</sub> -> KNO<sub>3(s)</sub>
+(c) Ag+<sub>(aq)</sub> + NO-<sub>3(aq)</sub> -> AgNO<sub>3(s)</sub>
+(d) Ag+<sub>(aq)</sub> + I-<sub>(aq)</sub> -> AgI<sub>(s)</sub>
+(e) blank
+C
+The solubility product constant, Ksp for silver bromide, AgBr, is 4.8 e-13 When equal volumes of 2.0 e3 M AgNO3 and 2.0 10-3 M NaBr are mixed, the mixing produces
+ZzZ
+(a) no visible precipitate.
+(b) a visible precipitate of NaNO3.
+(c) a visible precipitate of AgBr.
+(d) a visible precipitate of AgNO3.
+(e) blank
+D
+How many moles of NaF must be dissolved in 1.00 liter of a saturated solution of PbF2 at 25 &#8728;Cto reduce the [Pb2+] to 1e-6 molar? (Ksp PbF2 at 25 &#8728;C= 4.0e-8)
+ZzZ
+(a) 0.020 mole
+(b) 0.040 mole	
+(c) 0.10 mole
+(d) 0.20 mole	
+(e) 0.40 mole
+A
+Which of the following aqueous solutions has the highest boiling point?
+ZzZ
+(a) 0.10 M potassium sulfate, K2SO4
+(b) 0.10 M hydrochloric acid, HCl
+(c) 0.10 M ammonium nitrate, NH4NO3
+(d) 0.10 M magnesium sulfate, MgSO4
+(e) 0.20 M sucrose, C12H22O11
+C
+What kind of intermolecular forces exist between molecules of methanol, CH3OH?
+ZzZ
+(a) dispersive forces only			
+(b) hydrogen bonds only
+(c) dispersive forces and hydrogen bonds	
+(d) dipoledipole forces only
+(e) blank
+E
+Silver chloride is precipitated by mixing aqueous solutions of silver nitrate and hydrogen chloride.  Which of the following will redissolve the precipitate of silver chloride?
+ZzZ
+(a) evaporating the water   	
+(b) cooling the mixture
+(c) stirring                		
+(d) neutralizing the solution with NaOH
+(e) adding NH3
+A
+Which of the following is the largest concentration of Ba2+ that will not give a precipitate of BaF2 in a solution that has a F concentration of 1.5 e2 M?  For BaF<sub>2</sub>, Ksp = 1.7 e6.
+ZzZ
+(a)  6.0 e3 M
+(b)  5.0 e4 M
+(c)  1.0 el M
+(d)  2.0 e5 M
+(e)  4.0 e2 M
+B
+What is the molar solubility of Zn(OH)<sub>2</sub> in 0.10 M Zn(N0<sub>3</sub>)<sub>2</sub>? Ksp = 4.5  e17   for Zn(OH)2.
+ZzZ
+(a)  6.7 e8 M
+(b)  1.1 e8 M
+(c)  4.5 e16 M
+(d)  1.5 e17 M
+(e)  2.5 e6 M
+C
+The Ksp  for Pb(IO<sub>3</sub>)<sub>2</sub> is 2.8 e13.  What is the molar solubility of Pb(IO<sub>3</sub>)<sub>2</sub> in 0.100 M NaIO<sub>3</sub> solution?
+ZzZ
+(a)  4.1 e5 M
+(b)  2.8 e15 M
+(c)  2.8 e11 M
+(d)  5.3 e7 M
+(e)  5.3 e9 M
+B
+The solubility of MgCO<sub>3</sub> (F.W. = 84) in water at 25 &#8728;C is 0.012 g/L. What is the value of Ksp for magnesium carbonate?
+ZzZ
+(a)  4.3 e7
+(b)  2.0 e8
+(c)  1.4 e4
+(d)  2.4 e3
+(e)  3.6 e4
+A
+The molar solubility of Ag<sub>2</sub>CrO4 in water is 7.8 e
+5 M.  What is Ksp for this salt?
+ZzZ
+(a)  1.9 e12
+(b)  3.5 e15
+(c)  4.7 e13
+(d)  9.5 e13
+(e)  4.2 e1
+B
+The Ksp of Zn(OH)<sub>2</sub> is 4.5 e17.  What is the molar solubility of Zn(OH)<sub>2</sub> in 0.10 M NaOH?
+ZzZ
+(a)  3.6 e6 M
+(b)  4.5 e15 M
+(c)  2.8 e6 M
+(d)  1.1 e15 M
+(e)  2.2 e6 M
+D
+What is the molar solubility of BaF<sub>2</sub> in water?  For BaF<sub>2</sub>, Ksp = 1.7 e6 .
+ZzZ
+(a)  1.3 e3 M
+(b)  1.2 e2 M
+(c)  9.4 e3 M
+(d)  7.5 e3 M
+(e)  3.5 e4 M
+E
+The value of Ks  for Zn(OH)<sub>2</sub> is 4.5 e17. What is the molar solubility of zinc hydroxide in water?
+ZzZ
+(a)  6.7 e9 M
+(b)  4.5 e17 M
+(c)  1.8 e6 M
+(d)  3.6 e6 M
+(e)  2.2 e6 M
+D
+The solubility product of AgCl at 373 K is 1.4 e4 .  The concentration of a saturated solution of silver chloride at this temperature is
+ZzZ
+(a) 0.60 e4  mol/L 
+(b) 0.70 e4  mol/L 	
+(c) 1.4 e4  mol/L 
+(d) 1.2 e2 mol/L 	
+(e) 2.0 e8  mol/L 
+D
+If the molar concentration of Ca(OH)2 is 0.04 mol/L, the concentration of the OH is   
+ZzZ
+(a) 0.01  
+(b) 0.02   
+(c) 0.04   
+(d) 0.08    
+(e) 0.16
+B
+25.0 mL of 0.100 mol/L Na2SO4. and 350.0 mL of 0.150 mol/L BaCl2   are mixed and diluted to exactly one litre volume.  What is the concentration of chloride ions in the final solution?
+ZzZ
+(a) 0.0515 mol/L     	
+(b) 0.105 mol/L     	
+(c) 0.132 mol/L
+(d) 0.150 mol/L      	
+(e) 0.264 mol/L
+D
+Which of the following pairs of substances does not mix readily to form a solution? 
+ZzZ
+(a) mercury and tin
+(b) water and methanol, CH3OH
+(c) acetone, CH3COCH3, and water, H2O
+(d) sodium chloride and carbon tetrachloride, CCl4
+(e) calcium chloride and water
+C
+What is the concentration of nitrate ions in 100 mL of an aqueous solution which contains 5.00 g of aluminum nitrate, Al(NO3)3?
+ZzZ
+(a) 0.705 mol/L  
+(b) 0.0782 mol/L   
+(c) 0.235 mol/L	
+(d) 14.2 mol/L 
+(e) blank
+C
+The value of the solubility product of AX is 1.6 e5 . The solubility of AX in mol/L is 
+ZzZ
+(a) 0.80 e5    
+(b) 1.6 e5    
+(c) 4.0 e3    
+(d) 3.2 e2   
+(e) blank
+C
+The correct Ksp expression for Ag2S is  
+ZzZ
+(a) [Ag2+] [S=]    	
+(b) [Ag+][S=]2  		 
+(c) [Ag+]2[S=]    	
+(d) 2[Ag+][S=] 
+(e) blank
+B
+A solution was treated with HCl, causing a white precipitate to form.  When ammonia solution was added, the precipitate redissolved.  When nitric acid was added, the white precipitate reappeared.  The solution contained
+ZzZ
+(a) Si+ 		
+(b) Ag+ 		
+(c) Na+		
+(d) Pb2+ 	
+(e) Hg2+2 
+C
+Which of the following white solids turns black when ammonia is added?
+ZzZ
+(a) AgCl        
+(b) PbCl2      
+(c) Hg2Cl2	
+(d) BaSO4      
+(e) NaCl
+E
+Which of the following will cause a precipitate to form when added to a saturated solution of silver acetate?
+ZzZ
+(a) ammonium nitrate        		
+(b) sodium nitrate		
+(c) nitric acid                   
+(d) potassium nitrate			
+(e) ammonium acetate
+A
+What kind of intermolecular forces act between molecules of carbon tetrachloride, CCl4?
+ZzZ
+(a) dispersive forces only			
+(b) dispersive forces and dipoledipole forces
+(c) hydrogen bonds only			
+(d) dipole dipole forces only
+(e) blank
+B
+What will happen to the oxygen concentration of a saturated aqueous solution exposed to air when the temperature is increased? 
+ZzZ
+(a) It will increase.		
+(b) It will decrease.		
+(c) It will remain constant.
+(d) blank
+(e) blank
+C
+The dissolving of sodium acetate in water is endothermic. What will be observed when a warm saturated aqueous solution of sodium acetate is cooled?
+ZzZ
+(a) The solution will become unsaturated.
+(b) The sodium acetate will crystallize and the solution will become unsaturated.
+(c) The sodium acetate will crystallize and the solution will remain saturated.
+(d) The sodium acetate will crystallize and the remaining solution will be supersaturated.
+(e) blank
+B
+How much glucose (C6H12O6) is present in 150 mL of a 0.750 mol/L aqueous solution?
+ZzZ
+(a) 27.0 g   	
+(b) 20.3 g   	
+(c) 135 g   	
+(d) 36.0 g  	 
+(e) 73.9 g
+E
+When copper(II) hydroxide is freshly precipitate from a solution it may be redissolved by any of several methods. Which of the following will NOT redissolve some of the solid?
+ZzZ
+(a) adding more water		
+(b) raising the temperature	
+(c) adding hydrochloric acid
+(d) adding ammonia   		
+(e) stirring
+D
+What volume of 1.50 mol/L aqueous sodium chloride contains 20.0 g of NaCl?
+ZzZ
+(a) 0.075 L 
+(b) 0.513 L  
+(c) 0.342 L  
+(d) 0.228 L  
+(e) 0.244 L
+C
+Which answer is closest to the chloride ion concentration of the mixture obtained when 25.0 mL of 0.500 mol/L NaCl<sub>(aq)</sub> is added to 40.0 mL of 0.400 mol/L BaCl2<sub>(aq)</sub>?
+ZzZ
+(a) 0.5 mol/L  	 
+(b) 0.6 mol/L   
+(c) 0.7 mol/L	
+(d) 0.8 mol/L   
+(e) 0.9 mol/L
+B
+A salt containing the metal M and the nonmetal X has the formula M2X.  If the concentration a saturated solution of  M2X is 1.3 e
+6 mol/L,  the Ksp value of this compound is 
+ZzZ
+(a) 1.6 e18                     
+(b) 8.8 e18		
+(c) 1.7 e12 
+(d) 2.2 e18		
+(e) 1.7 e12
+A
+Which of the following reactions, initially at equilibrium, shifts equilibrium in such a way as to release heat when the pressure is increased?
+ZzZ
+(a) SO3<sub>(g)</sub>    <->   SO2<sub>(g)</sub>   +  1/2 O2<sub>(g)</sub> 	&#x2206;H = +98  kJ/mol
+(b) N2<sub>(g)</sub>  +  O2<sub>(g)</sub>   <->   2 NO<sub>(g)</sub> 		&#x2206;H = +182 kJ/mol
+(c) C<sub>(s)</sub>  +  1/2 O2<sub>(g)</sub>  <->   CO<sub>(g)</sub>		&#x2206;H = +111 kJ/mol
+(d) C<sub>(s)</sub>  +  O2<sub>(g)</sub>     <->   CO2<sub>(g)</sub> 		&#x2206;H = 394 kJ/mol
+(e) 3 O2<sub>(g)</sub>    <->   2 O3<sub>(g)</sub> 			&#x2206;H = +285 kJ/mol
+D
+Which of the following equilibria will be shifted to the right by an increase in temperature but to the left by an increase in pressure?
+(1)  CaCO3<sub>(s)</sub>    <->   CaO<sub>(s)</sub>  +  CO2<sub>(g)</sub> 	&#x2206;H>0                     
+(2)  2 SO2<sub>(g)</sub>   +  O2<sub>(g)</sub>    <->   2 SO3<sub>(g)</sub>,	&#x2206;H<0                     
+(3)  2 HI<sub>(g)</sub>   <->   H2<sub>(g)</sub>  +  I2<sub>(g)</sub> ,		&#x2206;H>0 
+ZzZ
+(a) (1) and (3) only	
+(b)(1) and (2) only
+(c)(2) and (3) only
+(d) (1) only			
+(e) (2) only

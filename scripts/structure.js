@@ -108,13 +108,16 @@ var cor5= ((q[4].ans).trim()).toLowerCase();
 $("#next").prop('disabled', true);
 
 document.getElementById("answer").onclick = function () {    
-    if(($('input[name=q1]:checked').val() + "" =="undefined") || 
+
+    //if statement removed for testing only
+
+  /*  if(($('input[name=q1]:checked').val() + "" =="undefined") || 
         ($('input[name=q2]:checked').val() + "" =="undefined") || 
         ($('input[name=q3]:checked').val() + "" =="undefined") ||
         ($('input[name=q4]:checked').val() + "" =="undefined") ||
         ($('input[name=q5]:checked').val() + "" =="undefined")){
-        barFn("notDone");
-    }else{
+        barFn("notDone");*/
+ //   }else{
         $(".reveal").css("visibility","visible");
         if($('input[name=q1]:checked').val()==cor1){//correct answer
             $("#q1").css("color","green");//make everything green
@@ -157,7 +160,7 @@ document.getElementById("answer").onclick = function () {
          $("#next").prop('disabled', false);
 
         $("#score").text("Score: " + correct + "/" + answered);
-    }
+  ///  }
 };
 
 
