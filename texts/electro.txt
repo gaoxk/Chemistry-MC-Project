@@ -411,10 +411,10 @@ ZzZ
 (e) During recharging, lead is converted to lead(IV) oxide.
 A
 Consider the following half cell reactions;
-	Q2+ + 2 e  -> Q(s)		E° = + 0.80 V
-	R2+ + 2 e  -> R(s)		E° = + 0.34 V
-	S2+ + 2 e  -> S(s)		E° = + 0.25V
-	T2+ + 2 e  -> T(s)		E° = + 0.74 V
+	Q2+ + 2 e  -> Q(s)		E&#8728; = + 0.80 V
+	R2+ + 2 e  -> R(s)		E&#8728; = + 0.34 V
+	S2+ + 2 e  -> S(s)		E&#8728; = + 0.25V
+	T2+ + 2 e  -> T(s)		E&#8728; = + 0.74 V
 Which half cell, when combined with the standard hydrogen half cell under standard conditions, will produce the greatest voltage?
 ZzZ
 (a) Q
@@ -518,7 +518,7 @@ ZzZ
 B
 Consider the reaction 
 		3Ag<sup>+</sup><sub>(aq)</sub> + Cr(s) -> Cr<sup>3+</sup><sub>(aq)</sub> + 3Ag(s) 
-for which E° = 1.540 V.  If the Ag+<sup>+</sup> concentration in a cell is 0.010 M and the Cr<sup>3+</sup> concentration is 0.40 M, what is the potential of the cell?
+for which E&#8728; = 1.540 V.  If the Ag+<sup>+</sup> concentration in a cell is 0.010 M and the Cr<sup>3+</sup> concentration is 0.40 M, what is the potential of the cell?
 ZzZ
 (a)  1.508 V 
 (b)  1.429 V
@@ -581,7 +581,7 @@ ZzZ
 C
 The reaction 
 	Al + Cr<sup>3+</sup> -> Al<sup>3+</sup> + Cr 
-has E° = 0.930 V.  Calculate  &#x2206;G° for the reaction in kilojoules.
+has E&#8728; = 0.930 V.  Calculate  &#x2206;G&#8728; for the reaction in kilojoules.
 ZzZ
 (a)  +92 kJ
 (b)  -92 kJ
@@ -592,7 +592,101 @@ A
 The anode in a dry cell is composed of
 ZzZ
 (a)  Zn	
-(b) NH<sub>4</sub>Cl	
+(b)  NH<sub>4</sub>Cl	
 (c)  Cu	
 (d)  graphite	
 (e)  MnO2
+A
+A current of 1.5e4 A was used for the electrolysis of molten  magnesium chloride, MgCl2.  How many kilograms of magnesium is produced by the cell in one day?
+ZzZ
+(a) 1.6e2
+(b) 3.2e2
+(c) 6.4e2    	
+(d) 16     
+(e) 32 
+D
+Two hours of electrolysis at a current of 0.50 A  deposits 0.70 g of iron on a cathode.  How many moles of electrons are required to deposit one mole of iron?
+ZzZ
+(a) one half mole
+(b) one mole
+(c) two moles	
+(d) three moles  
+(e) four moles 
+C
+What is the mimimum potential needed to plate Cadmium metal from a 1.0 M solution of CdCl2 given that
+	Cl2 (g) + 2 e-1   -> 2 Cl-1(aq)   			E&#8728; = +1.36 volts
+	Cd2+(aq)   + 2 e-1   -> Cd(s)			E&#8728; = -0.400 volts
+ZzZ
+(a) 0.880 V	(b) 0.96 V	(c) 1.76 V	(d) 3.52 V
+D
+How many grams of Na will be deposited from molten NaCl by a current of 3.0 A flowing for 5.0 hour?
+ZzZ
+(a)  29 g
+(b)  0.057 g
+(c)  1.4 9
+(d)  13 g
+(e)  23 g
+D
+How many faradays are needed to oxidize 0.20 mol of Mn<sup>2+</sup> to MnO<sub>4</sub><sup>-</sup>?
+ZzZ
+(a)  0.20
+(b)  3.0
+(c)  0.40
+(d)  1.0
+(e)  0.80
+C
+What is produced at the cathode when brine (NaCl solution) is electrolyzed?
+ZzZ
+(a)  O2
+(b)  H2O
+(c)  OH-
+(d)  Na(s)
+(e)  NaCl
+E
+How long will it take to plate 0.100 g Cu from a Cu(NO3)2 solution if a current of 8.00 A is used?
+ZzZ
+(a)  3O4 s
+(b)  52.0 s
+(c)  9 . 00 s
+(d)  19.0 s
+(e)  38.0 s
+B
+Which statement below is INCORRECT about the production of aluminum by electrolysis?
+ZzZ
+(a)  Aluminum oxide is the raw material for the process.
+(b)  Aluminum metal is formed at the anode.
+(c)  Aluminum metal is formed in the liquid state.
+(d)  Cryolite  is used as a solvent so the electrolysis can proceed at a relatively low temperature.
+(e)  Oxide ion is oxidized at the anode.
+E
+How many hours will it take to deposit 25.0 g of Cr (at. wt. = 52.0) from a Cr3+ solution using a current of 2.50 A
+ZzZ
+(a)  32.2 hr
+(b)  12.8 hr
+(c)  96.7 hr
+(d)  2.44 hr
+(e)  15.5 hr
+E
+How many coulombs does it take to reduce the Ti in 0.487 moles of Na2TiO3 to the free element?
+ZzZ
+(a)  96,500
+(b)  47,000
+(c)  62,700
+(d)  31,300
+(e)  188,000
+A
+How many grams of Al will be deposited from molten AlCl3 by a current of 15.0 A flowing for 24.0 hr?
+ZzZ
+(a)  121 g
+(b)  0.538 g
+(c)  1090 g
+(d)  0.0335 g
+(e)  363 g
+A
+An electrolytic cell is constructed by dipping a zinc metal electrode into a 6.0 M ZnSO4 solution for one half-cell and by dipping a zinc metal electrode into a 0.0100 M ZnSO4 solution for the other half-cell. This is called a concentration cell. What is Ecell for this cell at 25&#8728;C?
+ZzZ
+(a)  0.082 V
+(b)  0.164 V
+(c)  0.85 V
+(d)  0.00 V
+(e)  1.10 V
