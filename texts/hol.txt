@@ -1,0 +1,290 @@
+﻿D
+Why does magnesium oxide have a higher melting point than sodium chloride?
+ZzZ
+(a) The bonds are more ionic in magnesium oxide.
+(b) The sodium chloride has smaller atoms.
+(c) Magnesium oxide has more electrons.
+(d) The ions have greater charges in magnesium oxide.
+(e) The atoms in sodium chloride have greater kinetic energy.
+C
+The elements sodium, magnesium and aluminum have increasing melting points in that order. Why is this so?
+ZzZ
+(a) The mass of the atoms increases.
+(b) The size of the molecules increases.
+(c) The strength of the metallic bonds depends on the number of valence electrons.
+(d) The polarity of the bonds increases.
+(e) The Strength of the van der waals forces increases.
+A
+What is the basis of metallic bonding?
+ZzZ
+(a) the attraction of metal ions for delocalized electrons
+(b) the attraction between neutral metal ions
+(c) the neutralization of protons by electrons
+(d) the attraction of oppositely charged ions
+(e) the sharing of two valence electrons between two atoms
+D
+Which of the following statements about a substitutional alloy is true?
+ZzZ
+(a) The added metal removes electrons from the valence level.
+(b) The added metal atoms fit into spaces between atoms in the pure metal crystal.
+(c) The added metal usually makes the alloy softer than the pure metal.
+(d) The added metal atoms replace original atoms in the metal crystals. 
+(e) The added metal causes the alloy to conduct electricity only at high temperatures.
+B
+Polar covalent bonds occur between which kinds of atoms?
+ZzZ
+(a) atoms which both have equally high electronegativities
+(b) atoms which have high but unequal electronegativities
+(c) atoms which both have equally low electronegativities
+(d) atoms which both have equally low ionization energies
+(e) atoms which both have low but unequal ionization energies
+E
+Which one of the ions below would not have a noble gas electron configuration in its outer shell?
+ZzZ
+(a)  Li+
+(b)  Cl~
+(c)  O2-
+(d)  Mg2+
+(e)  Sn2+
+A
+Which of the following statements is incorrect?
+ZzZ
+(a)  In a nonpolar covalent bond, the electrons are shared unequally.
+(b)  A very electronegative element tends to have a partial negative charge in a covalent bond, or it tends to form a negative ion.
+(c)  A dipole is a pair of opposite charges  of equal magnitude at a specific distance from each other.
+(d)  The most electronegative element in the periodic table is fluorine.
+(e)  If two atoms joined by a bond have an electronegativity difference of two or more, generally the bond will be more than 50 % ionic.
+B
+Compared to a carbon-carbon single bond, a carbon-carbon double bond has a smaller ...
+ZzZ
+(a)  vibrational frequency
+(b)  bond length
+(c)  bond order
+(d)  bond energy
+(e)  number of electrons
+D
+Which of the following statements is not true about the lattice energy?
+ZzZ
+(a)  It contributes to a lowering of the potential energy when a crystal of an ionic compound is formed.
+(b)  It is a major factor contributing to the stability of ionic compounds.
+(c)  It must be large enough to make the reaction of a metal with a nonmetal exothermic.
+(d)  It is equal to the energy lost when electrons are transferred from a metal atom to a nonmetal atom.
+(e)  It is released if ions at infinite separation are brought together to form the ionic solid.
+E
+Based on the valence shell electron pair repulsion theory, the ion IF4- (iodine is the central atom) would be expected to have which of the following shapes?
+ZzZ
+(a)  square pyramidal
+(b)  distorted tetrahedral
+(c)  trigonal bipyramidal
+(d)  regular tetrahedral
+(e)  square planar
+B
+In the ion SbF4-, the electron pairs in the valence shell of Sb are arranged in a geometry that is described as
+ZzZ
+(a)  distorted tetrahedral
+(b)  trigonal bipyramidal
+(c)  hexahedral
+(d)  square planar
+(e)  tetrahedral
+B
+In the ICl3 molecule,
+ZzZ
+(a)  the I atom uses sp3 hybrids and the molecule is planar triangular.
+(b)  the I atom uses sp3d hybrids and the molecule is T-shaped.
+(c)  the I atom uses sp2 hybrids and the molecule is planar triangular.
+(d)  the I atom uses sp3d2 hybrids and the molecule is T-shaped.
+(e)  the I atom uses sp3 hybrids and the molecule is pyramidal.
+A
+When a falling stream of water is tested with an electrically charged rod held nearby,
+ZzZ
+(a) the water is attracted by the charge whether it is positive or negative.
+(b) the water is attracted by a negative charge but repelled by a positive charge.
+(c) the water is attracted by a positive charge but repelled by a negative charge.
+(d) the water is repelled by both positive and negative charges.
+(e) the water is unaffected by either.
+D
+What are intermolecular forces?
+ZzZ
+(a) forces within covalent molecules that hold them together 
+(b) electrostatic forces between ions
+(c) bonds between hydrogen and oxygen atoms in water molecules
+(d) attractive forces between separate covalent molecules
+(e) covalent bonds within a network solid
+A
+A solid substance has the following properties:
+       high boiling point
+       silvery lustre
+       conducts electricity
+       ductile
+Which type of lattice forces could account for these properties?
+ZzZ
+(a) positive ions attracting loose electrons
+(b) transient dipoles attracting transient dipoles
+(c) positive ions attracting negative ions
+(d) hydrogen atoms in one molecule attracting oxygen atoms in another molecule
+(e) covalent bonds
+B
+A liquid substance has the following properties:
+       soluble in water
+       stream of liquid is attracted into electric fields
+       electrical insulator when pure or in aqueous solution 
+Which type of lattice forces could account for these properties?
+ZzZ
+(a) positive ions attracting loose electrons
+(b) transient dipoles attracting transient dipoles
+(c) positive ions attracting negative ions
+(d) hydrogen atoms in one molecule attracting oxygen atoms in another molecule
+(e) covalent bonds
+B
+Carbon and silicon are group IV elements and form the oxides CO2, and SiO2.  CO2, is a gas at room temperature and pressure, while SiO2 melts at about 1700°C.  The great difference in melting points is best accounted for the fact that
+ZzZ
+(a) CO2 (s)has nonpolar molecules, but SiO2  (s) has polar molecules
+(b) CO2 (s) is a molecular solid, but SiO2 (s) is a covalent network
+(c) bonds between silicon and oxygen in SiO2  molecules are many times stronger than bonds between carbon and oxygen in CO2, molecules
+(d) silicon-silicon bonds are stronger than carbon-carbon bonds
+(e) blank
+D
+Why does magnesium oxide have a higher melting point than sodium chloride?
+ZzZ
+(a) The bonds are more ionic in magnesium oxide.
+(b) The sodium chloride has smaller atoms.
+(c) Magnesium oxide has more electrons.
+(d) The ions have greater charges in magnesium oxide.
+(e) The atoms in sodium chloride have greater kinetic energy.
+C
+The elements sodium, magnesium and aluminum have increasing melting points in that order. Why is this so?
+ZzZ
+(a) The mass of the atoms increases.
+(b) The size of the molecules increases.
+(c) The strength of the metallic bonds depends on the number of valence electrons.
+(d) The polarity of the bonds increases.
+(e) The Strength of the van der waals forces increases.
+A
+What is the basis of metallic bonding?
+ZzZ
+(a) the attraction of metal ions for delocalized electrons
+(b) the attraction between neutral metal ions
+(c) the neutralization of protons by electrons
+(d) the attraction of oppositely charged ions
+(e) the sharing of two valence electrons between two atoms
+D
+Which of the following statements about a substitutional alloy is true?
+ZzZ
+(a) The added metal removes electrons from the valence level.
+(b) The added metal atoms fit into spaces between atoms in the pure metal crystal.
+(c) The added metal usually makes the alloy softer than the pure metal.
+(d) The added metal atoms replace original atoms in the metal crystals. 
+(e) The added metal causes the alloy to conduct electricity only at high temperatures.
+B
+Polar covalent bonds occur between which kinds of atoms?
+ZzZ
+(a) atoms which both have equally high electronegativities
+(b) atoms which have high but unequal electronegativities
+(c) atoms which both have equally low electronegativities
+(d) atoms which both have equally low ionization energies
+(e) atoms which both have low but unequal ionization energies
+E
+Which one of the ions below would not have a noble gas electron configuration in its outer shell?
+ZzZ
+(a)  Li+
+(b)  Cl~
+(c)  O2-
+(d)  Mg2+
+(e)  Sn2+
+A
+Which of the following statements is incorrect?
+ZzZ
+(a)  In a nonpolar covalent bond, the electrons are shared unequally.
+(b)  A very electronegative element tends to have a partial negative charge in a covalent bond, or it tends to form a negative ion.
+(c)  A dipole is a pair of opposite charges  of equal magnitude at a specific distance from each other.
+(d)  The most electronegative element in the periodic table is fluorine.
+(e)  If two atoms joined by a bond have an electronegativity difference of two or more, generally the bond will be more than 50 % ionic.
+B
+Compared to a carbon-carbon single bond, a carbon-carbon double bond has a smaller ...
+ZzZ
+(a)  vibrational frequency
+(b)  bond length
+(c)  bond order
+(d)  bond energy
+(e)  number of electrons
+D
+Which of the following statements is not true about the lattice energy?
+ZzZ
+(a)  It contributes to a lowering of the potential energy when a crystal of an ionic compound is formed.
+(b)  It is a major factor contributing to the stability of ionic compounds.
+(c)  It must be large enough to make the reaction of a metal with a nonmetal exothermic.
+(d)  It is equal to the energy lost when electrons are transferred from a metal atom to a nonmetal atom.
+(e)  It is released if ions at infinite separation are brought together to form the ionic solid.
+E
+Based on the valence shell electron pair repulsion theory, the ion IF4- (iodine is the central atom) would be expected to have which of the following shapes?
+ZzZ
+(a)  square pyramidal
+(b)  distorted tetrahedral
+(c)  trigonal bipyramidal
+(d)  regular tetrahedral
+(e)  square planar
+B
+In the ion SbF4-, the electron pairs in the valence shell of Sb are arranged in a geometry that is described as
+ZzZ
+(a)  distorted tetrahedral
+(b)  trigonal bipyramidal
+(c)  hexahedral
+(d)  square planar
+(e)  tetrahedral
+B
+In the ICl3 molecule,
+ZzZ
+(a)  the I atom uses sp3 hybrids and the molecule is planar triangular.
+(b)  the I atom uses sp3d hybrids and the molecule is T-shaped.
+(c)  the I atom uses sp2 hybrids and the molecule is planar triangular.
+(d)  the I atom uses sp3d2 hybrids and the molecule is T-shaped.
+(e)  the I atom uses sp3 hybrids and the molecule is pyramidal.
+A
+When a falling stream of water is tested with an electrically charged rod held nearby,
+ZzZ
+(a) the water is attracted by the charge whether it is positive or negative.
+(b) the water is attracted by a negative charge but repelled by a positive charge.
+(c) the water is attracted by a positive charge but repelled by a negative charge.
+(d) the water is repelled by both positive and negative charges.
+(e) the water is unaffected by either.
+D
+What are intermolecular forces?
+ZzZ
+(a) forces within covalent molecules that hold them together 
+(b) electrostatic forces between ions
+(c) bonds between hydrogen and oxygen atoms in water molecules
+(d) attractive forces between separate covalent molecules
+(e) covalent bonds within a network solid
+A
+A solid substance has the following properties:
+       high boiling point
+       silvery lustre
+       conducts electricity
+       ductile
+Which type of lattice forces could account for these properties?
+ZzZ
+(a) positive ions attracting loose electrons
+(b) transient dipoles attracting transient dipoles
+(c) positive ions attracting negative ions
+(d) hydrogen atoms in one molecule attracting oxygen atoms in another molecule
+(e) covalent bonds
+B
+A liquid substance has the following properties:
+       soluble in water
+       stream of liquid is attracted into electric fields
+       electrical insulator when pure or in aqueous solution 
+Which type of lattice forces could account for these properties?
+ZzZ
+(a) positive ions attracting loose electrons
+(b) transient dipoles attracting transient dipoles
+(c) positive ions attracting negative ions
+(d) hydrogen atoms in one molecule attracting oxygen atoms in another molecule
+(e) covalent bonds
+B
+Carbon and silicon are group IV elements and form the oxides CO2, and SiO2.  CO2, is a gas at room temperature and pressure, while SiO2 melts at about 1700°C.  The great difference in melting points is best accounted for the fact that
+ZzZ
+(a) CO2 (s)has nonpolar molecules, but SiO2  (s) has polar molecules
+(b) CO2 (s) is a molecular solid, but SiO2 (s) is a covalent network
+(c) bonds between silicon and oxygen in SiO2  molecules are many times stronger than bonds between carbon and oxygen in CO2, molecules
+(d) silicon-silicon bonds are stronger than carbon-carbon bonds
+(e) blank

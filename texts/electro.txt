@@ -484,7 +484,7 @@ ZzZ
 (d)  maintain a steady flow of reactants from the cathode to the anode, and vice versa.
 (e)  act as a catalyst.
 A
-The function of a salt bridge in a galvanic cell is to maintain electrical contact between the two electrolytes and to ...
+The function of a salt bridge in a galvanic cell is to maintain electrical contact between the two electrolytes and to
 ZzZ
 (a)  allow negative ion to diffuse into the anode compartment and positive ions to diffuse into the cathode compartment.
 (b)  permit the reactants in the two half cell compartments to mix freely with each other.
