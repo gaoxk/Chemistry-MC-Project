@@ -1,11 +1,14 @@
 body {
-  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-family: "Nunito" !important;
   margin: 0;
   width: auto;
   height: 100%;
   color: rgb(50, 4, 124);
 } 
-
+h1, h2, h3 {
+  font-family: "Oswald" !important;
+  text-transform: uppercase;
+}
 .wrapper {
   display: flex;
   align-items: stretch;
@@ -17,7 +20,7 @@ body {
   min-height: 100vh;
 }
 
-.quiz {
+.quiz { 
   height: auto;
 }
 
@@ -50,13 +53,10 @@ nav > ul {
   font-weight: normal;
 }
 
-a{
+a{    
   color: inherit !important;
-  text-decoration: none !important
-}
-
-h1 {
-  font-size: 48px;
+  text-decoration: none !important;
+  opacity: 0.75;
 }
 
 p {
