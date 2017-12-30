@@ -1,0 +1,900 @@
+D 
+Certain solutions are strongly basic due to the high concentration of
+ZzZ 
+(a) oxide ions	
+(b) potassium ions	 
+(c) ammonium ions
+(d) hydroxide ions	
+(e) hydronium ions.
+C 
+The hydronium ion is a complex ion composed of water and
+ZzZ 
+(a) an electron	
+(b) a deuteron 	
+(c) a proton 
+(d) a neutron	
+(e) a positron
+E 
+The characteristic ions present in water solutions of acids are
+ZzZ 
+(a) oxide ions.		
+(b) chloride ions.		
+(c) nitride ions.
+(d) sulfide ions. 
+(e) hydronium ions.
+E 
+Which ions account for the alkalinity of bases in water solution?
+ZzZ 
+(a) oxide ions		
+(b) hydronium ions	
+(c) sodium ions
+(d) ammonium ions
+(e) hydroxide ions
+E 
+The combination of hydronium ions with hydroxide ions is known as
+ZzZ 
+(a) catalysis.		
+(b) hydrolysis.		
+(c) electrolysis.
+(d) hydrogenation.
+(e) neutralization.
+A 
+Which term is applied to an aqueous solution whose hydrogen ion concentration, [H+], is less than its hydroxide ion concentration, [OH-]?
+ZzZ 
+(a) basic	
+(b) acidic	
+(c) neutral	
+(d) unsaturated
+(e) blank
+E 
+What role does the water play in this reaction?
+				HCl(g) + H2O(l) <-> H3O+(aq) + Cl-(aq)
+ZzZ 
+(a) electron acceptor
+(b) acid anhydride
+(c) proton donor
+(d) acid
+(e) base
+B 
+According to the Bronsted-Lowry theory, a base is any substance that
+ZzZ 
+(a) donates a proton			
+(b) accepts a proton
+(c) donates an electron pair		
+(d) accepts an electron pair.
+(e) blank
+C 
+Solutions of strong acids and strong bases are alike in that they both
+ZzZ 
+(a) taste sour		
+(b) taste bitter		 
+(c) are electrolytes	
+(d) turn red litmus blue.
+(e) blank
+A 
+Which compound acts either as an acid or a base in solution?
+ZzZ 
+(a) HOH	
+(b) NaOH	
+(c) H2SO4	
+(d) Ca(OH)2
+(e) blank
+B Assuming complete ionization, the pH of a 0.01 M HCl solution would be
+ZzZ 
+(a) l	
+(b) 2	
+(c) 3	
+(d) 4	
+(e) 0.5
+D 
+What is the hydrogen ion, H+(aq), concentration in a solution having a pH of 3?
+ZzZ 
+(a) 30 M		
+(b) 3 M		
+(c) 0.3 M	 
+(d) 1 e -3M	
+(e) 1 e -11M
+C 
+What is the hydrogenion concentration, [H+], in an aqueous solution of pH 2?
+ZzZ 
+(a) l2 M	
+(b) 2 M	
+(c) 10<sub>-2</sub> M	
+(d) 10<sub>2</sub>  M
+(e) blank
+D 
+When an acid is added to a solution of a base, what change in pH of the solution could be observed?
+ZzZ 
+(a) an increase from 7 to 8	
+(b) an increase from 3 to 8
+(c) a decrease from 7 to 6
+(d) a decrease from 9 to 5
+(e) blank
+B 
+Nitric acid ionizes completely in water. What is the pH of a 0.01 M HNO3 solution?
+ZzZ 
+(a) l	
+(b) 2	
+(c) 7	
+(d) 12
+(e) blank
+C 
+What is the pH of 0.001 M HCl, assuming complete ionization?
+ZzZ 
+(a) l	
+(b) 2	
+(c) 3	
+(d) 4
+(e) blank
+C 
+Which pH is nearest to neutral?
+ZzZ 
+(a)1.0	
+(b) 0.0	
+(c) 6.5	
+(d) 8.0
+(e) blank
+A 
+Which pH value signifies the highest hydrogen ion concentration?
+ZzZ 
+(a) pH 5
+(b) pH 7
+(c) pH 9
+(d) pH 11
+(e) pH 14
+D 
+What is the pH of a 0.01 M potassium hydroxide solution, KOH(aq)?
+ZzZ 
+(a) 0.01	
+(b) 2	
+(c) 10	
+(d) 12
+(e) blank
+C 
+What is the pH of a 0.001 M solution of KOH?
+ZzZ 
+(a)  3	
+(b) 7	
+(c) 11	
+(d) 14
+(e) blank
+B 
+The reaction of water with a soluble metallic oxide produces
+ZzZ 
+(a) a salt.			
+(b) a base.			
+(c) an acid.
+(d) a hydride.
+(e) an anhydride.
+D
+Hydrogen chloride gas dissolved in pure water produces
+ZzZ 
+(a) a chlorate.		
+(b) a precipitate.		
+(c) a salt solution.
+(d) an acidic solution.
+(e) blank
+B 
+Which equation most nearly represents the reaction between hydrogen chloride and water?
+ZzZ 
+(a) HCl + H2O -> 3H+ + ClO-
+(b) HCl + H2O -> H3O+ + Cl-
+(c) HCl + H2O -> 2H+ + OH- + O2- + Cl-
+(d) HCl + H2O -> 3H+ + Cl- + O2-
+(e) HCl + H2O -> H3+ + ClO-
+A 
+The salt-water solution that tests nearest to 7 on the pH scale is
+ZzZ 
+(a) NaCl	
+(b) NaHSO3	
+(c) NaHSO4
+(d) NaHCO3
+(e) Na2CO3
+E 
+Under the same conditions, which mixture by volume of 
+1 M potassium hydroxide, KOH, and 1 M nitric acid, HNO3, solutions produces the highest temperature?
+ZzZ 
+(a) 20 - 80	
+(b) 25 - 75	
+(c) 33 - 67	
+(d) 40 - 60
+(e) 50 - 50
+D 
+Which substance, in solution, could be titrated against hydrochloric acid, HCl?
+ZzZ 
+(a) HBr 
+(b) KHSO4 
+(c) CH3COOH
+(d) Ba(OH)2
+(e) blank
+B 
+One product of the reaction between KOH and HBr is
+ZzZ 
+(a) OH-
+(b) H2O	
+(c) H2	
+(d) Br2
+(e) blank
+A 
+Which equation represents a neutralization reaction?
+ZzZ 
+(a) LiOH + HBr -> LiBr + H2O
+(b) 2HCl + Zn -> ZnCl2 + H2
+(c) H2CO3 -> H2O + CO2
+(d) 2NaHCO3 -> Na2CO3 + H2O + CO2
+(e) blank
+B 
+An aqueous solution of strontium hydroxide, Sr(OH)4, has a concentration of 1.5 x 10-3 M. The pH of this solution is
+ZzZ 
+(a) 11.8
+(b) 11.5
+(c) 11.2
+(d) 2.9
+(e) blank
+D 
+The pH of 0.1-molar ammonia is approximately
+ZzZ 
+(a) 1	
+(b) 4	
+(c) 7	
+(d) 11
+(e) 14
+B 
+Which, if any, of the following species is in the greatest concentration in a 0.100-molar solution of H<sub>2</sub>SO<sub>4</sub>  in water?
+ZzZ 
+(a) H<sub>2</sub>SO<sub>4</sub> molecules	
+(b) H<sub>3</sub>O<sup>+</sup> ions	
+(c) HSO<sub>4-</sub>ions	
+(d) SO<sub>4</sub><sup>2-</sup>ions
+(e) All species are in equilibrium and therefore have the same concentrations.
+D 
+All of the following species can function as Bronsted-Lowry bases in solution EXCEPT
+ZzZ 
+(a) H<sub>2</sub>O	
+(b) NH<sub>3</sub>	
+(c) S<sup>2-</sup>	
+(d) NH<sub>4</sub><sup>+</sup>	
+(e) HCO<sub>3</sub><sup>-</sup>
+E 
+As the number of oxygen atoms increases in any series of oxygen acids, such as HXO, HXO2, HXO3, . . . which of the following is generally true?
+ZzZ 
+(a) The acid strength varies unpredictably.
+(b) The acid strength decreases only if X is a nonmetal.
+(c) The acid strength decreases only if X is a metal.
+(d) The acid strength decreases whether X is a nonmetal or a metal.
+(e) The acid strength increases.
+D 
+Which statement is true?
+ZzZ 
+(a) All acids are strong electrolytes.
+(b) All bases are strong electrolytes.
+(c) Water is one of the strongest electrolytes because it can act either as an acid or as a base.
+(d) In an aqueous solution, nothing can be a stronger acid than the hydronium ion.
+(e) In an aqueous solution, nothing can be a stronger base than the ammonium ion.
+C 
+Which statement is true of an Arrhenius acid?
+ZzZ 
+(a) It is an ionic compound which contains hydrogen atoms.
+(b) It produces an aqueous solution having a pH greater than 7.
+(c) It forms hydronium ions in aqueous solution.
+(d) It is a neutral molecule.
+(e) It is an electron pair donor.
+B 
+Which statement is true of the hydronium ion concentration in PURE water? 
+ZzZ 
+(a) It is always 1.0 e-7 at any temperature. 
+(b) It is always equal to the [OH-] at any temperature. 
+(c) It decreases as the temperature increases.
+(d) It is zero regardless of the temperature.
+(e) blank
+D 
+Which statement is true concerning acidity? 
+ZzZ 
+(a) Acidity is a property of all hydrogen compounds.
+(b) The acidity of two solutions of different acids will be identical if they have the same concentration. 
+(c) The acidity of two solutions of different acids will be identical if they have the same strength. 
+(d) A solution with a lower pH has a greater acidity.
+(e) blank
+E 
+Which of the following properties of water is NOT known as amphiprotism? 
+ZzZ 
+(a) Water can behave as both an acid and a base.
+(b) Water is able to supply protons and accept protons.
+(c) Water will react with both acids and bases.
+(d) Water ionizes to give both H3O+ and OH-..
+(e) Water can be both reduced and oxidized.
+C 
+What can be concluded from the fact that a solution of HBr in toluene does not conduct current as well as a solution of HBr in water?
+ZzZ 
+(a) HBr reacts with toluene.
+(b) The ions are not as mobile in toluene.
+(c) HBr remains relatively unionized in toluene.
+(d) HBr donates electrons to water molecules.
+(e) HBr delocalizes the electrons in water.
+A 
+Why does aluminum chloride produce an acidic solution in water?
+ZzZ 
+(a) The high charge density of the Al3+ ion polarizes one of the  attached water molecules causing it to lose a proton.
+(b) Chloride ion is acidic because of its four lone pairs of electrons. 
+(c) AlCl3 molecules combine in pairs to form Al2Cl6.
+(d) AlCl3 is a strong electrolyte.
+(e) The aluminum is a highly reactive metal.
+B 
+A Brönsted acid is defined as which of the following?
+ZzZ 
+(a) an electron pair acceptor
+(b) a proton donor
+(c) an electron donor
+(d) a hydroxide acceptor
+(e) a substance that forms hydronium ions in aqueous solution
+D 
+The pH of an aqueous solution of NaH2PO4 will be _____
+ZzZ 
+(a) greater than 7 because the dihydrogen phosphate ion readily accepts a proton.
+(b) greater than 7 because sodium ion is basic.
+(c) exactly 7 because sodium dihydrogen phosphate is a salt.
+(d) lower than 7 because the dihydrogen phosphate ion readily donates a proton.
+(e) exactly 7 because the dihydrogen phosphate ion is amphiprotic.
+B 
+Which answer is closest to the pOH of a 1.0 x10-5 mol/L solution of HCl?
+ZzZ 
+(a) 10   
+(b) 9   
+(c) 5   
+(d) 3   
+(e) 2
+C 
+What is transferred between a Bronsted acid and a Bronsted base?
+ZzZ 
+(a) an electron    	
+(b) a pair of electrons  	
+(c) a hydronium ion  	
+(d) a water molecule
+(e) a hydrogen ion
+D 
+An Arrhenius acid 
+ZzZ 
+(a) is an ionic compound which contains hydrogen atoms
+(b) produces an aqueous solutions which has a pH > 7
+(c) is always a neutral molecule
+(d) releases hydrogen ions in aqueous solution.
+(e) blank
+B 
+As the concentration of acid in a solution is decreases, the 
+ZzZ 
+(a) [H3O+ ] increases and pH decreases 
+(b) [H3O+] decreases and pH increases 
+(c) [H3O+]and pH both increase 
+(d) [H3O+]and pH both decrease 
+(e) blank
+D 
+A Bronsted-Lowry base is defined as 
+ZzZ 
+(a) a hydroxide ion               	
+(b) a proton donor
+(c) an electron pair acceptor     	
+(d) a proton acceptor
+(e)blank
+A 
+The hydrogen ion concentration in an aqueous solution whose pH is 4.70 is 
+ZzZ 
+(a) 2.0 e-5 M  	
+(b) 5.0 e-4 M  	
+(c) 4.7 M  	
+(d) 9.3 M 
+(e) blank
+D 
+A Brønsted-Lowry base is defined as 
+ZzZ 
+(a) a hydroxide ion               	
+(b) a proton donor
+(c) an electron pair acceptor     	
+(d) a proton acceptor
+(e)blank
+A 
+The hydrogen ion concentration in an aqueous solution whose pH is 4.70 is 
+ZzZ 
+(a) 2.0 e-5 M  	
+(b) 5.0 e-4 M  	
+(c) 4.7 M  	
+(d) 9.3 M 
+(e) blank
+D 
+If a 0.10 M solution of a weak acid is diluted to 0.010 M at constant temperature, the 
+ZzZ 
+(a) hydrogen ion concentration will increase
+(b) pH will decrease
+(c) ionization constant of the weak acid will decrease
+(d) percentage ionization will increase
+(e) blank
+C 
+The pH of a solution is 5. The hydrogen ion and hydroxide ion concentrations are, respectively 
+	
+ZzZ 
+(a) 10<sup>-9</sup> and 10-5       
+(b) 10<sup>-5</sup>   and 10<sup>-5</sup>  
+(c) 10<sup>-5</sup>   and 10<sup>-9</sup>        
+(d) 10<sup>-7</sup>  and 10<sup>-7</sup>  
+(e) blank
+B
+Acetic acid ionizes in water according to the following equation; 
+		CH<sub>3</sub>COOH(aq) -> H<sup>+</sup><sub>(aq)</sub>+ CH<sub>3</sub>COO<sup>-</sup><sub>(aq)</sub>
+If CH<sub>3</sub>COONa is added to the acid, which of the following will occur?
+ZzZ 
+(a) the hydrogen ion concentration will increase
+(b) the hydrogen ion concentration will decrease
+(c) a precipitate will form
+(d) the hydrogen ion concentration will remain unchanged
+(e) blank
+A 
+Ka for acetic acid is 1.8x10^-5.  What is the concentration of hydronium ion for an aqueous solution of 0.02 mol/L acetic acid?
+ZzZ 
+(a) 6.0x10^-4  mol/L     
+(b) 3.0x10^-3 mol/L     
+(c) 6.0x10^-3 mol/L 
+(d) 1.8x10^-5 mol/L     
+(e) 2x10^-2 mol/L 
+A 
+If 21.0 mL of 0.80 mol/L HCl is required to neutralize completely 1.12 g of an impure sample of CaO, what is the percentage purity of the sample?
+ZzZ 
+(a) 42%   
+(b) 22%   
+(c) 35%   
+(d) 70%   
+(e) 84%
+C 
+If 2.5 g of ammonium chloride is added to 250 mL of an aqueous 0.10 mol/L solution of ammonia, which answer is closest to the pOH of the solution?
+ZzZ 
+(a) 3   
+(b) 4   
+(c) 5   
+(d) 6   
+(e) 7
+D 
+It was found that when a solution of calcium hydroxide, Ca(OH)2, was added to 25 mL of a solution of nitric acid, HNO3, neutralization occurred when 50 mL of the base had been added. Which of the following can be concluded.
+ZzZ 
+(a) The acid had the same concentration as the base.
+(b) The base was twice as concentrated as the acid.
+(c) The acid was twice as concentrated as the base.
+(d) The acid was four times as concentrated as the base.
+(e) The base was four times as concentrated as the acid.
+B 
+Which statement is true concerning acid-base titrations.
+ZzZ 
+(a) The end point of a titration is when the solution becomes neutral. 
+(b) The equivalence point of titration is when a stoichiometric amount of the titrant has been added.
+(c) The equivalence point is when the indicator changes colour.
+(d) The end point is always the same as the equivalence point.
+(e) The pH changes very slowly at the equivalence point.
+B 
+A solution of a weak acid, HA, is labeled 0.10 mol/L. It was found to contain 1.3x10-3 mol/L of H+ and an equal  concentration of the anion A-.  What was the percent dissociation of the acid?
+ZzZ 
+(a) 0.003 %   
+(b) 1.3 %   
+(c) 7%   
+(d) 13 %   
+(e) 15%
+B 
+Which answer is closest to the Ka of a weak acid, HA, if a aqueous 0.33 mol/L solution contains 1.0x10^-3 mol/L of hydronium 
+ZzZ 
+(a) 3x10^-3     
+(b) 3x10^-6     
+(c) 3x10^-9 	
+(d) 3x10^-12    
+(e) 3x10^-15 
+C 
+If 22.5 mL of 2.50 mol/L NaOH solution was required to neutralize 10.5 mL of sulfuric acid solution having a density of 1.16 g/mL, what was the percent by mass of H2SO4, in the acid?
+ZzZ 
+(a) 51.2%   
+(b) 35.5%   
+(c) 22.6%    
+(d) 11.3%    
+(e) 7.2%
+B 
+What is the pH of a 0.04 mol/L solution of NH<sub>4</sub><sup>+</sup><sub>(aq)</sub>?
+ZzZ 
+(a) 4.7   
+(b) 5.3   
+(c) 6.5   
+(d) 7.3   
+(e) 9.2
+E 
+A base solution (NaOH) was standardized by titrating potassium hydrogen phthalate (molar mass 204 g).  0.975 g of potassium hydrogen phthalate was neutralized by 32.9 ml of base solution. The concentration of the base is closest to
+ZzZ 
+(a) 0.06 mol/L   
+(b) 0.08 mol/L
+(c) 0.10 mol/L   
+(d) 0.12 mol/L   
+(e) 0.15 mol/L
+A 
+Suppose that 10.0 ml of a 1.0 mol/L hydrochloric acid solution is diluted by the addition of 990 ml of pure water.  During this dilution, the pH
+ZzZ 
+(a) rises by about 2 pH units
+(b) rises by about 0.5 pH units
+(c) changes by less than 0.1 pH unit
+(d) falls by about 0.5 pH unit
+(e) falls by about 2.0 pH units
+A 
+A 0.13 mol/L solution of acetic acid at 25&#8728;C is prepared. Predict its hydrogen ion concentration if Ka = 1.8 x 10^-5
+ZzZ 
+(a) 1.5 x 10^-3 mol/L
+(b) 2.3 x 10^-4  mol/L
+(c) 1.8 x 10^-5 mol/L	
+(d) 2.3 x 10^-6 mol/L
+(e) 1.3 x 10^-6 mol/L
+B
+An artificial lemon drink powder containing citric acid was titrated with 0.45 mol/L NaOH solution using phenolphthalein indicator. Citric acid is a triprotic acid with a molar mass of 192 g.  If 2.0 g of the powder required 15.7 ml of the base solution to neutralize it, which of the following is closest to the percentage of citric acid in the powder?
+ZzZ 
+(a) 5
+(b) 25
+(c) 45
+(d) 65
+(e) 85
+D 
+Which is the strongest of these oxyacids?
+ZzZ 
+(a)  H2SO4
+(b)  HBrO4
+(c) H2SeO4
+(d)  HClO4
+(e)  H3AsO4
+A 
+Among the following, which one is the strongest acid?
+ZzZ 
+(a)  HClO4
+(b)  H3PO4
+(c)  H2SO4
+(d)  H2SeO4
+(e)  HBrO4
+E 
+The position of equilibrium lies to the right in each of the following:
+	HBr + N2H4 <-> N2H5+ + Br~ 
+	N2H5+ + NH3 <-> NH4+  + N2H4 
+	HBr + NH3 <-> NH4+ + Br~
+Based on this information, the order of acid strength is 
+ZzZ 
+(a) NH4+<sup>+</sup> + > HBr > N2H5<sup>+</sup> 
+(b) N2H5<sup>+</sup>  > HBr > NH4<sup>+</sup>
+(c) NH4+ > N2H5<sup>+</sup>  > HBr 
+(d) HBr > NH4<sup>+</sup> > N2H5<sup>+</sup>
+(e) HBr > N2H5<sup>+</sup>  > NH4<sup>+</sup>
+A 
+Which is the strongest of these binary acids? 
+ZzZ 
+(a)  HBr 
+(b)  HCl 
+(c)  H2Se 
+(d)  H2S 
+(e)  H3P
+A 
+Which one of the following could not be amphoteric (amphiprotic)? 
+ZzZ 
+(a)  SO42-
+(b)  HCO3-
+(c)  H2O
+(d)  NH3
+(e)  HPO42-
+B 
+Consider the reaction:
+		CH3OH + NH3 <-> CH3O- + NH4+
+From the choices below, pick the one that contains an acid-ba6e pair in which the acid is written first. 
+ZzZ 
+(a)  NH3, NH4+ 
+(b)  CH3OH, CH3O-
+(c)  NH4+, CH3O-
+(d)  CH3OH, NH4+ 
+(e) CH3OH, NH3
+A 
+Which of the following is a basic anhydride? 
+ZzZ 
+(a)  K2O
+(b)  HSO3
+(c)  Ca(OH)2
+(d)  BCl3
+(e)  SO3
+B 
+Which one of the following could never serve as a Lewis acid? 
+ZzZ 
+(a)  SO2
+(b)  F-
+(c)  CO2
+(d)  BF3
+(e)  Al3+
+E 
+In the reaction
+		NH4+ + NH20H <-> NH3 + NH30H+
+the two Bronsted-Lowry acids are: 
+ZzZ 
+(a)  NH4+ and NH3 
+(b)  NH4+ and NH20H 
+(c)  NH3 and NH20H 
+(d)  NH3 and NH30H+ 
+(e)  NH4+ and NH30H+
+B 
+The compound Na2O is an example of
+ZzZ 
+(a)  an amphoteric oxide.    
+(b)  a basic anhydride.    
+(c)  an acid salt.    
+(d)  an acidic anhydride.    
+(e)  a conjugate acid.
+E 
+Which of the following is the strongest acid? 
+ZzZ 
+(a)  H2SO4
+(b)  H3AsO4
+(c)  H3PO4
+(d)  HClO3
+(e)  HClO4
+D 
+Which choice does not contain a conjugate acid-base pair? 
+ZzZ 
+(a)  H3O+  and H2O
+(b)  H3PO4  and  H2PO4-
+(c)  H2PO4-  and  HPO42-
+(d)  NH4+  and  NH2-
+(e)  HSO4-  and  SO42-
+B 
+In water, the acid HNO3 is stronger than the acid HCN. Which of the following is the strongest base? 
+ZzZ 
+(a)  HCN	
+(b)  CN	
+(c)  NO3-	
+(d)  HNO3	
+(e)  H2O
+A 
+Lewis bases always 
+ZzZ 
+(a)  donate a pair of electrons.
+(b)  donate protons
+(c)  accept protons
+(d)  accept a pair of electrons
+(e)  donate hydroxide ion
+E 
+Which one of the following is an acidic anhydride? 
+ZzZ 
+(a)  CaO
+(b)  Na2O
+(c)  FeO
+(d)  MgO
+(e)  SO2
+E 
+Which one of the following is a weak acid? 
+ZzZ 
+(a)  HBr
+(b)  HNO3 
+(c)  H2SO4
+(d)  HCl
+(e)  HBrO
+B 
+The reaction between an acid and a base in the Lewis system leads to the formation of 
+ZzZ 
+(a)  assault and battery
+(b)  a coordinate covalent bond
+(c)  a salt and water
+(d)  a conjugate acid and base
+(e)  an acid anhydride
+B 
+Which of the following is an Arrhenius base? 
+ZzZ 
+(a)  KCl
+(b)  NH3
+(c)  H2O2
+(d)  C2H50H
+(e)  H2
+E 
+Which of these is the strongest acid? 
+ZzZ 
+(a)  H2Se
+(b)  H3As 
+(c) H2S
+(d)  H3P
+(e)  H2Te
+C 
+Which of the following is a strong acid? 
+ZzZ 
+(a)  H3P
+(b)  HNO2
+(c)  HBr
+(d)  HF
+(e)  HCHO2
+C 
+What is the hydroxide ion concentration is a solution that has a pH = 4.80?
+ZzZ 
+(a)  1.6 x 10-5 M
+(b)  1.0 x 10-7 M
+(c)  6.3 x 10-10 M
+(d)  9.5 x 10-12 M
+(e)  3.3 x 10-7 M
+B 
+For H2SO3, Ka1 = 1.5 x 10-2 and Ka2 = 1.0 x 10-7.  The concentration of SO32- in 0.10 M H2SO3 is
+ZzZ 
+(a) 1.5 e-2
+(b)  1.0 e-7
+(c)  2.5 e-4
+(d)  1.7 e-9
+(e)  1.4 e-5
+D 
+A 0.50 M solution of the weak base C6H5NH2 has a pH of 9.16.  What is Kb for C6H5NH2?
+ZzZ 
+(a)  6.9 e-10 
+(b)  4.8 e-11
+(c)  2.1 e-10
+(d)  4.2 e-10
+(e)  3.6 e-9
+E 
+What is the S-2 concentration in a saturated solution (0.10 M) of H2S in which the pH has been adjusted to 5.00 by the addition of HCl? For H2S, Ka1 = 1.1 e-7 and Ka2 = 1.0 e-14.
+ZzZ 
+(a)  1.1 e-18 M
+(b)  1.0 e-4 M
+(c)  3.2 e-8 M 
+(d)  1.1 e-15 M
+(e)  1.1 e-12 M
+A 
+What is the pH of a 0.40 M solution of NaNO2?  For HNO2, Ka = 4.5 e-4.
+ZzZ 
+(a) 8.47
+(b) 5.52
+(c) 6.24
+(d) 9.74
+(e) 10.25
+D 
+The weak base C2H5NH2 has Kb = 4.7 e-4.  What is the pH of a solution that contains 0.30 M C2H5NH2 and 0.20 M C2H5NH3  (from the salt C2H5NH3Cl)?
+ZzZ 
+(a)  10.49
+(b)  11.25
+(c)  10.30
+(d)  10.85
+(e)  10.67
+B 
+For H2CO3, Ka1 = 4.3 e-7 and Ka2 = 5.6 e-11.  What is the concentration of HCO3- in a 0.10 M solution of H2CO3?
+ZzZ 
+(a)  4.3 e-7 M
+(b)  2.1 e-4 M
+(c)  3.4 e-9 M
+(d)  5.6 e-1l M
+(e)  6.S e-12 M
+D 
+What is the pH of a solution of 0.010 M NH3 dissolved in 0.050 NH4Cl? Kb = 1.8 e-5 for NH3.
+ZzZ 
+(a)  9.95
+(b)  10.63
+(c)  13.05
+(d)  8.56
+(e)  10.98
+D 
+In the titration of 50.0 mL of 0.20 M HC2H3O2 (Ka = 1.8 e-5) with 0.20 M NaOH, what will be the pH at the equivalence point?
+ZzZ 
+(a)  7.00
+(b)  7.95
+(c)  9.36
+(d)  8.87
+(e)  10.43
+B 
+When 2.0 e-4 mol HCl is added to 300 mL of H2O, the pH of the resulting solution is
+ZzZ 
+(a)  3.70	
+(b)  3.18	
+(c)  5.15	
+(d)  4.22	
+(e)  6.18
+D 
+A 0.20 M solution of formic acid, HCHO2, is "neutralized" by adding solid NaOH (so there is no volume change during the reaction). What is the pH of the solution at the equivalence point?  For HCHO2, Ka = 1.8 e-4
+ZzZ 
+(a)  9.13
+(b)  7.00
+(c)  7.46
+(d)  8.52
+(e)  5.48
+E 
+What is the pH of 0.10 M H2S?  For H2S, Ka1 = 1.1 e-7 and Ka2 = 1.0 E-14 .
+ZzZ 
+(a)  3.65
+(b)  4.63
+(c)  4.87
+(d)  2.86
+(e)  3.98
+D 
+What is the pH of a 0.0060 M KOH solution?
+ZzZ 
+(a)  8.88
+(b)  2.22
+(c)  7.00
+(d)  11.78
+(e)  5.12
+A 
+HNO2 has Ka = 4.5 e-4.  What is the pH of a solution containing 0.20 M HNO2 and 0.10 M NaNO2?
+ZzZ 
+(a)  3.05
+(b)  3.16
+(c)  3.35
+(d)  3.65
+(e)  2.88
+B 
+A buffer that contains 1.00 mol of NaAc and 1.00 mol of HAc has a pH of 4.74.  How much will the pH change if 0.30 mol of NaOH is added to this buffer?  For HAc, Ra = 1.8 e-5.
+ZzZ 
+(a)  decrease by 0.45
+(b)  increase by 0.27
+(c)  increase by 0.15
+(d)  decrease by 0.33
+(e)  increase by 0.33
+B 
+Sodium hypochlorite, NaOCl, is the active ingredient in liquid household bleach.  What is the molar concentration of OH- in a 1.0 M solution of NaOCl?  For HOCl Ka = 3.1 e-8
+ZzZ 
+(a)  1.8 e-1
+(b)  5.7 e-4
+(c)  3.2 e-7
+(d)  1.8 e-7
+(e)  3.2 e-4
+D 
+What is the concentration of OCl- in a 0.40 M solution of HOCl? Ka=3.1 e-8.
+ZzZ 
+(a)  1.8 e-4 M
+(b)  0.40 M
+(c)  7.8 e-8 M
+(d)  1.1 e-4 M
+(e)  2.2 e-6 M
+D 
+What is the pH of 0.20 M KF?  For HF, Ka = 6.5 e-4.
+ZzZ 
+(a)  8.76
+(b)  5.76
+(c)  7.00
+(d)  8.24
+(e)  9.37
+A 
+What is the pH of a 2.5 e-3 M NaOH solution?
+ZzZ 
+(a)  11.4
+(b)  2.6
+(c)  9.6
+(d)  10.5
+(e)  4.3
+C 
+In the titration of 25.0 mL of 0.10 M HCHO2 (Ka = 1.8 e-4) with 0.10 M NaOH, what will be the pH at the equivalence point?
+ZzZ 
+(a)  9.14
+(b)  6.35
+(c)  8.22
+(d)  8.86
+(e)  7.00
+E 
+A sample of milk was found to have a pH of 6.30. What is the OH concentration in the milk?
+ZzZ 
+(a)  5.0 e-7 M
+(b)  5.0 e-21 M
+(c)  3.0 e-7 M
+(d)  1.0 e-7 M
+(e)  2.0 e-8 M
+A 
+What is Ka for an acid HA, which undergoes 1.3 % dissociation in a 0.10 M solution?
+ZzZ 
+(a)  1.7 e-6
+(b)  1.3 e-8
+(c)  1.7 e-4
+(d)  1.3 e-10
+(e)  1.7 e-2
+A 
+HNO2 has Ka = 4.5 e-4.  In a titration of 50.0 mL of 0.10 M HNO2 with 0.10 M NaOH, what will the pH be when 25% of the HNO2 has been neutralized?
+ZzZ 
+(a)  2.87
+(b)  4.86
+(c)  3.92
+(d)  3.35
+(e)  5.22
+E 
+Formic acid  HCO2H has a Ka value of 1.8 e-4.  What is the pH of a 0.97 M solution of formic acid?
+ZzZ 
+(a)  0.88
+(b)  12.12
+(c)  3.76 
+(d)  0.967
+(e)  1.88
+A 
+In which of the following reactions does hydrogen nitrate act as a base?
+ZzZ 
+(a) HNO3   +  H2SO4  <->  H2NO3<sup>+<sup> +  HSO4 <sup>-<sup>
+(b) HNO3     <->  H<sup>+<sup>    +  NO3<sup>-<sup>
+(c) Cu  +  4 HNO3   <->  Cu<sup>2+<sup>   +  2 NO3<sup>1<sup> +  2 H2O  +  2 NO2
+(d) HNO3   +  H2O  <->  H3O<sup>+<sup>    +  NO3<sup>-<sup>
+(e) Zn  +  HNO3   <->  H2   +  Zn(NO3)2
