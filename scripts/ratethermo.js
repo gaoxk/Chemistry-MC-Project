@@ -13,6 +13,8 @@ function quest (ans, question, a, b, c, d,e){
     this.e = e;
 }
 
+
+
 //function to shuffle an array
 function shuffle(array) {
   var currentIndex = array.length, temporaryValue, randomIndex;
@@ -83,7 +85,7 @@ $(window).on('load', function () {
        // alert("readyState " + this.readyState + " stats " + this.status );   
         if (this.readyState == 4 && this.status == 200) {
           text = this.responseText;
-        }o
+        }
     };
     //file path is relative to HTML file, NOT this JS file. 
     //Third argument false indicates synchronous
@@ -93,6 +95,25 @@ $(window).on('load', function () {
 
 
 $(document).ready(function(){
+//error bar functions
+function barFn(nom){
+    $("#" + nom).addClass("show");
+    setTimeout(function(){ $("#" + nom).removeClass("show").addClass(""); }, 3000);
+}
+//error popup
+document.getElementById("errorpopper").onclick = function () {
+    $("#errorpop").addClass("show");
+    $("#errorpop").css("visibility", "visible");
+}
+document.getElementById("errorpop").onclick = function (){
+    $("#errorpop").fadeOut("slow"); 
+    setTimeout(function() { $("#errorpop").removeClass("show").addClass(""); }, 400);
+}
+
+
+
+
+
 var q = arrayLoad();
 arrayLoadPage(q, 5);
 barFn("refresher");
@@ -109,15 +130,13 @@ var corrects = [cor1, cor2, cor3, cor4, cor5];
 $("#next").prop('disabled', true);
 
 document.getElementById("answer").onclick = function () {    
-    //if statement removed for testing only
-
-  /*  if(($('input[name=q1]:checked').val() + "" =="undefined") || 
+    if(($('input[name=q1]:checked').val() + "" =="undefined") || 
         ($('input[name=q2]:checked').val() + "" =="undefined") || 
         ($('input[name=q3]:checked').val() + "" =="undefined") ||
         ($('input[name=q4]:checked').val() + "" =="undefined") ||
         ($('input[name=q5]:checked').val() + "" =="undefined")){
-        barFn("notDone");*/
- //   }else{ 
+        barFn("notDone");
+   }else{ 
         $(".reveal").css("visibility","visible");
         for (var i = 0; i < corrects.length; i++) {
             var j= i+1;
@@ -130,16 +149,17 @@ document.getElementById("answer").onclick = function () {
             $("#q" + j + ""+ corrects[i] + "l").css("color","green");//make answer green
         }
         answered+=corrects.length;  
-         $("#next").prop('disabled', false);
-
+        $("#next").prop('disabled', false);
+        $("#answer").prop('disabled', true);
         $("#score").text("Score: " + correct + "/" + answered);
-  ///  }
+   }
 };
 
 
 //new questions logic
 document.getElementById("next").onclick = function () {
     $("#score").text("Score: " + correct + "/" + answered);
+    $("#answer").prop('disabled', false);
     q.splice(0,5);   
 
     for (var i = 0; i <5; i++) {
@@ -176,18 +196,5 @@ document.getElementById("next").onclick = function () {
     }
 }
 
-//error bar functions
-function barFn(nom){
-    $("#" + nom).addClass("show");
-    setTimeout(function(){ $("#" + nom).removeClass("show").addClass(""); }, 3000);
-}
-//error popup
-document.getElementById("errorpopper").onclick = function () {
-    $("#errorpop").addClass("show");
-    $("#errorpop").css("visibility", "visible");
-}
-document.getElementById("errorpop").onclick = function (){
-    $("#errorpop").fadeOut("slow"); 
-    setTimeout(function() { $("#errorpop").removeClass("show").addClass(""); }, 400);
-}
+
 })
