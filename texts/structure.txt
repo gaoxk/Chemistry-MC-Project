@@ -1,104 +1,858 @@
-A
-An example of a chemical change is:
-ZzZ
-ANSWER iron rusting 
-condensing steam
-sawing a piece of wood
-shredding a piece of paper
-dissolving a lump of sugar in water
-D
-Select the set of CORRECT statements from the following;
-I - all pure substances which melt rather than decompose have a "sharp" melting point
-II - only pure substances can have a "sharp" melting point
-III - addition of more contaminant i.e. impurity, will always further depress the melting point
-ZzZ
-II and III
-II
-I and III
-ANSWER I and II
-all of the above
-D
-You have examined a material. Which one of the following factors suggests that the substance is a
-mixture?
-ZzZ
-it is a uniform white powder
-it is completely soluble in water
-it looks like salt
-ANSWER it melts over the range 245C to 300C
-le E
-A
-hey
-ZzZ
-le ANSWER
-le b
-le c
-le d
-le e
-A
-An example of a chemical change is:
-ZzZ
-ANSWER iron rusting 
-condensing steam
-sawing a piece of wood
-shredding a piece of paper
-dissolving a lump of sugar in water
-D
-Select the set of CORRECT statements from the following;
-I - all pure substances which melt rather than decompose have a "sharp" melting point
-II - only pure substances can have a "sharp" melting point
-III - addition of more contaminant i.e. impurity, will always further depress the melting point
-ZzZ
-II and III
-II
-I and III
-ANSWER I and II
-all of the above
-D
-You have examined a material. Which one of the following factors suggests that the substance is a
-mixture?
-ZzZ
-it is a uniform white powder
-it is completely soluble in water
-it looks like salt
-ANSWER it melts over the range 245C to 300C
-le E
-A
-hey
-ZzZ
-le ANSWER
-le b
-le c
-le d
-le e
 B
-hey
+A particle containing 5 protons, 4 electrons, and 6 neutrons weighs approximately as much as
 ZzZ
-le a
-le ans
-le c
-le d
-le e
+(a) 10 protons
+(b) 11 neutrons 
+(c) 15 neutrons 	
+(d) 4 electrons		
+(e) 5 protons
 A
-IN THE TEXT FILE ALL QUESTIONS AFTER THIS ARE LEGIT
+The number of protons in an atom of carbon-14 is
 ZzZ
-le ANSWER
-le b
-le c
-le d
-le e
+(a) 6	
+(b) 8	
+(c) 10		
+(d) 12		
+(e) 14
+A
+Which particle has a mass of approximately one atomic mass unit?
+ZzZ
+(a) proton		
+(b) electron	
+(c) alpha particle 	
+(d) carbon-12 nucleus	
+(e) oxygen-16 nucleus
+E
+The number of neutrons in an atom of an element is
+ZzZ
+(a) the same in each isotope.
+(b) the same as the atomic number.
+(c) equal to the number of electrons.
+(d) equal to the number of protons in the nucleus.
+(e) equal to the difference between the mass number and the atomic number.
+A
+The symbol <sup>65</sup><sub>30</sub>Zn indicates this isotope contains
+ZzZ
+(a) 30 protons and 35 neutrons.	
+(b) 35 protons and 30 neutrons.
+(c) 35 protons and 35 neutrons.	
+(d) 65 protons and 30 neutrons.
+(e) 95 protons and 30 electrons.
+A
+The symbol that represents 11 protons, 12 neutrons, and 10 electrons would be:
+ZzZ
+(a) 23-11 Na+		
+(b) 23-11 Na	
+(c) 23-12 Mg2+	
+(d) 23-12 Mg
+(e) blank
 B
-hey
+Which chemical species contains the greatest number of electrons?
 ZzZ
-le a
-le ans
-le c
-le d
-le e
+(a) 58-26 Fe3+		
+(b) 56-26 Fe0	
+(c) 58-26 Fe2+	
+(d) 56-26 Fe3+
+(e) blank
+B
+Compared to one atom of <sup>59</sup><sub>27</sub>Co, one atom of <sup>58</sup><sub>26</sub>Fe contains the same number of
+ZzZ
+(a) protons		
+(b) neutrons		
+(c) nucleons		
+(d) electrons
+(e) blank
+C
+The atomic masses of most elements are not whole numbers mainly because
+ZzZ
+(a) the mass of the electrons is neglected when the masses are calculated.
+(b) earlier means of measuring atomic masses were crude.
+(c) the atomic mass of an element is the average mass of all its isotopes.
+(d) the chemical and physical scales of masses differ.
+(e) the mass of a proton differs only slightly from the mass of a neutron.
+C
+Copper has an atomic molar mass of 63.5 g/mol. Why is the atomic molar mass not a whole number?
+ZzZ
+(a) All copper atoms have identical chemical properties.
+(b) The fractional number results from the fact that protons and neutrons have different masses.
+(c) There are at least two naturally occurring isotopes of copper.
+(d) Every copper atom has an atomic mass of 63.5 u.
+(e) blank
+B
+Which electron configuration represents the Cu2+ ion?
+ZzZ
+(a) [Ar]18 3d8		
+(b) [Ar]18 3d9		
+(c) [Ar]18 3d10
+(d) [Ar]18 3d10 4s1
+(e) [Ar]18 3d10 4s2
+B
+The correct electronic configuration for the sodium atom, <sup>23</sup><sub>117</sub>Na, is
+ZzZ
+(a) 1s2 2s2 2p6
+(b) 1s2 2s2 2p6 3s1
+(c) 1s2 2s2 2p4 3s2 3p1
+(d) 1s2 2s2 2p8 2d10 3s1
+(e) 1s2 2s2 2p6 2d10 3s2 3p1
+D
+Which element has the electron configuration 1s2 2s2 2p6 3s2 3p6 4s1 3d5?
+ZzZ
+(a) zinc		
+(b) copper	
+(c) nickel 	
+(d) chromium		
+(e) potassium
 A
-IN THE TEXT FILE ALL QUESTIONS AFTER THIS ARE LEGIT
+Which particle has the same electron configuration as an atom of argon?
 ZzZ
-le ANSWER
-le b
-le c
-le d
-le e
+(a) Ca2+	
+(b) Na+	
+(c) K
+(d) Cl
+(e) blank
+B
+For electrons to occupy the same orbital in an atom they must have different
+ZzZ
+(a) charges.
+(b) spin quantum numbers.
+(c) magnetic quantum numbers.
+(d) angular momentum quantum numbers.
+(e) blank
+A
+Which of the following molecules has the shortest bond length?
+ZzZ
+(a) N2	
+(b) O2		
+(c) Cl2		
+(d) Br2		
+(e) I2
+B
+For the types of radiation given, which of the following is the correct order of INCREASING ability to penetrate a piece of lead?
+ZzZ
+(a) Alpha particles < gamma rays < beta particles
+(b) Alpha particles < beta particles < gamma rays
+(c) Beta particles < alpha particles < gamma rays
+(d) Beta particles < gamma rays < alpha particles
+(e) Gamma rays < alpha particles < beta particles
+D
+Which is the correct ground state configuration for sulphur? 
+ZzZ
+(a) 1s2  2s2  2p4		
+(b) 1s2  2s2  2p6  3s1		
+(c) 1s2  2s2  2p3  3s5  3p6
+(d) 1s2  2s2  2p6  3s2  3p4 	
+(e) 1s2  2s2  2p3  3s2  3p3  4s2  4p4 
+E
+How many valence electrons are there in an atom of bromine?
+ZzZ
+(a) 71  	 
+(b) 49  
+(c) 31		 
+(d) 17		
+(e) 7
+D
+How many valence orbitals are there in the carbon atom?
+ZzZ
+(a) 1 	  
+(b) 2 		 
+(c) 3  		 
+(d) 4   		
+(e) 5
+A
+The number of sublevels in the fourth quantum level of an atom is
+ZzZ
+(a) 4    
+(b) 5     
+(c) 6     
+(d) 7     
+(e) 8
+E
+Bohr's theory of atomic structure was found to be inadequate partly because it did NOT account for which of the following facts?
+ZzZ
+(a) The emission spectra of the elements contain only certain specific colors of light.
+(b) Each element has its own characteristic emission spectrum.
+(c) The energies of the lines in the emission spectrum of hydrogen are spaced more and more closely together as the energy increases.
+(d) The hydrogen atom is stable; that is, it does not collapse by continually emitting radiation.
+(e) The electrons occupying the same principal energy level of an atom do not have the same energy.
+A
+In the sequence Cl-, Ar, K+ the ionization energy increases. This is due to
+ZzZ
+(a) a difference in nuclear charge
+(b) a difference in levels for the electron
+(c) a difference in sublevels for the electron
+(d) a change from single occupancy to double occupancy for the orbital
+(e) the stability of a noble gas structure
+D
+Selenium (atomic number 34) has a lower ionization energy than arsenic (atomic number 33). This is due to
+ZzZ
+(a) a difference in nuclear charge
+(b) a difference in levels for the electron
+(c) a difference in sublevels for the electron
+(d) a change from single occupancy to double occupancy for a 4p orbital.
+(e) the stability of a noble gas structure
+B
+Blue light has a frequency of 7.5 e14 Hz. What is the wavelength of this light expressed in centimeters?  (c = 3.00 e8 m s~1 )
+ZzZ
+(a)  5.0 e-6
+(b)  4.0 e-5
+(c)  8.0 e-4
+(d)  3.0 e-10
+(e)  3.0 e10
+E
+Many of the transition metals exhibit a +2 oxidation state.  Why is this true?
+ZzZ
+(a)  None of the other choices is correct.
+(b)  They are metals.
+(c)  They have partially completed d subshells.
+(d)  They have very low ionization energies as a result of their positions in the periodic table.
+(e)  Many have an outer shell consisting of a pair of electrons in an s subshell.
+D
+The total number of electrons in s orbitals  in an atom of copper in its ground state is
+ZzZ
+(a)  9
+(b)  4
+(c)  12
+(d)  7
+(e)  8
+A
+The reason there is no element alongside Mg and directly above Sc in the periodic table is
+ZzZ
+(a)  no atom can have a 2d subshell.
+(b)  it would have to be a nonmetal.
+(c)  its nucleus would be unstable.
+(d)  it would have to have an odd atomic mass.
+(e)  a p subshell can only hold six electrons.
+D
+How many subshells are in the shell with n = 5?
+ZzZ
+(a)  8
+(b)  4
+(c) 11
+(d)  5
+(e)  6
+B
+Which one of the quantum number values below would not be found for a valence electron of a phosphorus atom?
+ZzZ
+(a)  ml = 0
+(b)  1 = 2
+(c) n= 3
+(d) 1 = 0
+(e)  ml = -1
+D
+Which color light is composed of photons having the largest energy?
+ZzZ
+(a)  orange
+(b)  green
+(c)  red
+(d)  blue
+(e)  yellow
+B
+What is the energy in joules of a photon that has a wavelength of 589 nm?
+ZzZ
+(a)  1.30 e-30 J
+(b)  3.38 e-19 J
+(c)  3.91 e-22 J
+(d)  2.96 e18 J
+(e)  1.30 e-48 J
+B
+How many 3d electrons are in an atom of chromium in its ground state?
+ZzZ
+(a)  3
+(b)  5
+(c)  1
+(d)  10
+(e)  4
+D
+How many unpaired electrons are in the Mn3+ ion?
+ZzZ
+(a)  6
+(b)  2
+(c)  5
+(d)  4
+(e)  none
+E
+Which of the following is not paramagnetic?
+ZzZ
+(a)  Rb
+(b)  Cu
+(c)  As
+(d)  Te
+(e)  Ca
+D
+Calculate the energy, in joules, of a photon having a frequency of 3.5 e16 Hz.
+ZzZ
+(a)  2.9 e-17
+(b)  6.4 e-15
+(c)  1.6 e-12
+(d)  2.3 e-17
+(e)  3.5 e16
+E
+What is the frequency of infrared radiation that has a wavelength of 1.62 e3 nm? (c = 3.00 e8 m/s)
+ZzZ
+(a)  6.17 e-4 Hz
+(b)  5.4 e-15 Hz
+(c)  1.85 e5 Hz
+(d)  5.4 e-6 Hz
+(e)  1.85 e14 Hz
+E
+How many unpaired electrons are in the Co3+ ion?
+ZzZ
+(a)  2
+(b)  none
+(c)  3
+(d)  5
+(e)  4
+A
+Which of the following is not an allowed set of quantum numbers for an electron in an atom?
+ZzZ
+(a)  n= 3, 1 = 3, ml = ,2, ms = 1/2
+(b)  n= 4, 1 = 3, ml = , 3, ms = 1/2
+(c)  n= 2, 1 = 0, ml = 0, ms = -1/2
+(d)  n= 3, 1 = 2, ml = -1, ms = 1/2
+(e)  n= 3, 1 = 0, ml = 0, ms = 1/2
+C
+Which change would be endothermic?
+ZzZ
+(a)  O2- ->  O + 2e~
+(b)  Ca2+ + e~ ->  Ca
+(c)  S~ + e~ -> S2-
+(d)  F + e~ ->  F
+(e)  Rb+ + e~  ->   Rb
+B
+Light with a wavelength of 1.25 e4 nm has a frequency of ...
+ZzZ
+(a)  2.50 e12 Hz
+(b)  2.40 e13 Hz
+(c)  7.50 e17 Hz
+(d)  1.60 e14 Hz         
+(e)  6.77 e15 Hz
+E
+The valence shell configuration of an atom is 5s2 5p5.  What is the atom's chemical symbol?
+ZzZ
+(a)  At
+(b)  Bi
+(c)  Br
+(d)  As
+(e)  I
+A
+What wavelength corresponds to a frequency of 9.22 e9 Hz? (c = 3.00 e8 m/sec)
+ZzZ
+(a)  3.25 cm
+(b)  6.81 cm
+(c)  27.7 cm
+(d)  1.22 cm
+(e)  0.307 cm
+A
+A ls orbital has a shape that
+ZzZ
+(a)  concentrates electron density around the nucleus with points  of equal electron density at equal distances from the  nucleus.  
+(b)  places all the electron density in one "lobe" that is located  on one side of the nucleus.  
+(c)  spreads the electron density uniformly over the entire volume  of the atom.  
+(d)  places electron density in six "lobes" that lie along an  imaginary set of x,y,z coordinate axes.  
+(e)  cannot be described with pictures.
+E
+Which of the species below would be expected to have the most exothermic electron affinity?
+ZzZ
+(a)  Se
+(b)  S
+(c)  S
+(d)  Br
+(e)  Cl
+A
+Which of the following is an endothermic process?
+ZzZ
+(a)  Ca(g) -> Ca+(g) + e~
+(b)  H2O(g) -> H2O(l)
+(c)  Na+(g) + Cl-(g) -> NaCl(s)
+(d)  H(g) + H(g) -> H2(g)
+(e)  Cl(g) + e~ -> Cl-(g)
+D
+Which has a different electron configuration than the others?
+ZzZ
+(a)  Na+
+(b)  N3-
+(c)  F-
+(d)  Ar
+(e)  A13+
+C
+Calculate the energy of a photon, in joules, given that its wavelength is 620 nm.
+ZzZ
+(a)  1.37 e-48 J
+(b)  4.63 e-23 J
+(c)  3.21 e-19 J
+(d)  1.37 e-30 J
+(e)  3.21 e-28 J 
+B
+Suppose an element was found to be composed of 27.00 % of an isotope with mass of 34.00 amu and 73.00 ~ of an isotope with mass 36.00 amu. What would be the average atomic mass of this element?
+ZzZ
+(a)  34.54
+(b)  35.46
+(c)  34.28
+(d)  35.00
+(e)  35.62
+C
+Which atom is paramagnetic?
+ZzZ
+(a)  Mg
+(b)  Ar
+(c)  N
+(d)  He
+(e)  Zn
+B
+According to Quantum Mechanics, which of the following statements is wrong?
+ZzZ
+(a)  Any atom (or chemical species) in which all of the electrons  are paired will be diamagnetic.  
+(b)  No two electrons in a given atom may have the same energy.  
+(c)  The need to describe each electron in a given atom by  assigning to it a value for each of three quantum numbers  arises because the electron behaves as a wave.  
+(d)  In any subshell there are always (2  + 1) orbitals.  
+(e)  In any shell there will always be n subshells.
+E
+Which of the following subshells has room for a maximum of 10 electrons?
+ZzZ
+(a)  4p
+(b)  6p
+(c)  3s
+(d)  4f
+(e)  5d
+D
+What are the numbers of electrons (e-), protons (p), and neutrons (n) in the ion 34Se
+ZzZ
+(a)  82 e~   80 p   34 n
+(b)  46 e~   44 p   34 n
+(c)  34 e~   32 p   46 n
+(d)  36 e~   34 p   46 n
+(e)  80 e~   78 p   34 n
+C
+All the isotopes of a given element contain the same number of ...
+ZzZ
+(a)  electrons
+(b)  photons
+(c)  protons
+(d)  neutrons
+(e)  alpha particles
+B
+What wavelength corresponds to a frequency of 110 MHz?
+ZzZ
+(a)  3.67 e-3 cm
+(b)  273 cm
+tc)  3.40 m
+(d)  3.81 e-3 cm
+(e)  330 cm
+E
+The first ionization energy of an atom is properly represented by which of the following?
+ZzZ
+(a)  Na(s) -> Na+(g) + e~
+(b)  Na2+(g) -> Na3+(g) + e~
+(c)  Cl2(g) -> 2Cl(g)
+(d)  Cl(g) + e~ ->   Cl-(g)
+(e)  Na(g) -> Na+(g) + e~
+E
+Which of the following statements is incorrect about the carbon-12 isotope?
+ZzZ
+(a)  It has the same number of protons as neutrons.
+(b)  A neutral atom of it has 6 electrons.
+(c)  It serves as the basis of the atomic mass scale.
+(d)  It is just one of several isotopes of carbon that are found  in naturally occurring carbon.
+(e)  Its actual atomic mass differs slightly from its mass number.
+C
+Which is not true about cathode rays?
+ZzZ
+(a)  Their paths can be curved by passing them through a magnetic  field.
+(b)  Their paths can be curved by passing them between  electrically charged metal plates.
+(c)  They are composed of fundamental particles called protons.
+(d)  They are composed of negatively charged particles.
+(e)  They travel toward the anode in a gas discharge tube.
+E
+Which is the smallest atom?
+ZzZ
+(a)  Al
+(b)  Bi
+(c)  Sn
+(d)  Se
+(e)  S 
+E
+Which of the following is most metallic?
+ZzZ
+(a)  F
+(b)  Li
+(c)  Al
+(d)  Fe
+(e)  Cs 
+E
+ Which of the following has the largest ionization energy?
+ZzZ
+(a)  Te
+(b)  C
+(c)  Sn
+(d)  As
+(e)  O
+B
+Which among the following is the largest atom?
+ZzZ
+(a)  F
+(b)  In
+(c)  I
+(d)  N
+(e)  B
+A
+Based on their positions in the periodic table, which of the following is likely to be least reactive (least easily oxidized)?
+ZzZ
+(a)  Ir (Z = 77)
+(b)  Co (Z = 27)
+(c)  Al (Z = 13)
+(d)  Ga (Z = 31)
+(e)  Ca (Z = 20)
+D
+Which of the following elements is a metalloid?
+ZzZ
+(a)  F
+(b)  H
+(c)  Li
+(d)  Ge
+(e)  Xe 
+A
+ Which one of the following elements has the lowest ionization energy?
+ZzZ
+(a)  K
+(b)  F
+(c)  Li
+(d)  Br
+(e)  C 
+A
+The metallic character of the elements
+ZzZ
+(a)  increases from top to bottom in a group and from right to left in a period.
+(b)  is greatest for elements in the upper left portion of the periodic table.
+(c)  increases from top to bottom in a group and from left to right in a period.
+(d)  increases from bottom to top in a group and from left to right in a period.
+(e)  increases from bottom to top in a group and from right to left in a period.
+D
+Which statement is false?
+ZzZ
+(a)  As is a representative element.
+(b)  Ag is a transition element.
+(c)  Ra is an alkaline earth metal.
+(d)  H is an alkali metal.
+(e)  Br is a halogen.
+B
+The elements with the lowest ionization energies are ...
+ZzZ
+(a)  the transition elements.
+(b)  the alkali metals.
+(c)  the metalloids.
+(d)  the noble gases.
+(e)  the halogens.
+C
+Based on their locations in the periodic table, which of the following metals is likely to be least reactive?
+ZzZ
+(a)  Pb (Z = 82)
+(b)  Al (Z = 13)
+(c)  Ir (Z = 77)
+(d)  Rb (Z = 37)
+(e)  Mn (Z = 25)
+D
+Which of the following atoms is likely to have the largest atomic  radius?
+ZzZ
+(a)  Cl
+(b)  Mn
+(c)  H
+(d)  Rb
+(e)  Ag
+B
+Which of the following descriptions does not fit the element?
+ZzZ
+(a)  Ge, a metalloid
+(b)  Ca, an alkali metal
+(c)  Br, a halogen
+(d)  Au, a transition element
+(e)  Xe, a noble gas
+D
+Why does magnesium oxide have a higher melting point than sodium chloride?
+ZzZ
+(a) The bonds are more ionic in magnesium oxide.
+(b) The sodium chloride has smaller atoms.
+(c) Magnesium oxide has more electrons.
+(d) The ions have greater charges in magnesium oxide.
+(e) The atoms in sodium chloride have greater kinetic energy.
+C
+The elements sodium, magnesium and aluminum have increasing melting points in that order. Why is this so?
+ZzZ
+(a) The mass of the atoms increases.
+(b) The size of the molecules increases.
+(c) The strength of the metallic bonds depends on the number of valence electrons.
+(d) The polarity of the bonds increases.
+(e) The Strength of the van der waals forces increases.
+A
+What is the basis of metallic bonding?
+ZzZ
+(a) the attraction of metal ions for delocalized electrons
+(b) the attraction between neutral metal ions
+(c) the neutralization of protons by electrons
+(d) the attraction of oppositely charged ions
+(e) the sharing of two valence electrons between two atoms
+D
+Which of the following statements about a substitutional alloy is true?
+ZzZ
+(a) The added metal removes electrons from the valence level.
+(b) The added metal atoms fit into spaces between atoms in the pure metal crystal.
+(c) The added metal usually makes the alloy softer than the pure metal.
+(d) The added metal atoms replace original atoms in the metal crystals. 
+(e) The added metal causes the alloy to conduct electricity only at high temperatures.
+B
+Polar covalent bonds occur between which kinds of atoms?
+ZzZ
+(a) atoms which both have equally high electronegativities
+(b) atoms which have high but unequal electronegativities
+(c) atoms which both have equally low electronegativities
+(d) atoms which both have equally low ionization energies
+(e) atoms which both have low but unequal ionization energies
+E
+Which one of the ions below would not have a noble gas electron configuration in its outer shell?
+ZzZ
+(a)  Li+
+(b)  Cl~
+(c)  O2-
+(d)  Mg2+
+(e)  Sn2+
+A
+Which of the following statements is incorrect?
+ZzZ
+(a)  In a nonpolar covalent bond, the electrons are shared unequally.
+(b)  A very electronegative element tends to have a partial negative charge in a covalent bond, or it tends to form a negative ion.
+(c)  A dipole is a pair of opposite charges  of equal magnitude at a specific distance from each other.
+(d)  The most electronegative element in the periodic table is fluorine.
+(e)  If two atoms joined by a bond have an electronegativity difference of two or more, generally the bond will be more than 50 % ionic.
+B
+Compared to a carbon-carbon single bond, a carbon-carbon double bond has a smaller ...
+ZzZ
+(a)  vibrational frequency
+(b)  bond length
+(c)  bond order
+(d)  bond energy
+(e)  number of electrons
+D
+Which of the following statements is not true about the lattice energy?
+ZzZ
+(a)  It contributes to a lowering of the potential energy when a crystal of an ionic compound is formed.
+(b)  It is a major factor contributing to the stability of ionic compounds.
+(c)  It must be large enough to make the reaction of a metal with a nonmetal exothermic.
+(d)  It is equal to the energy lost when electrons are transferred from a metal atom to a nonmetal atom.
+(e)  It is released if ions at infinite separation are brought together to form the ionic solid.
+E
+Based on the valence shell electron pair repulsion theory, the ion IF4- (iodine is the central atom) would be expected to have which of the following shapes?
+ZzZ
+(a)  square pyramidal
+(b)  distorted tetrahedral
+(c)  trigonal bipyramidal
+(d)  regular tetrahedral
+(e)  square planar
+B
+In the ion SbF4-, the electron pairs in the valence shell of Sb are arranged in a geometry that is described as
+ZzZ
+(a)  distorted tetrahedral
+(b)  trigonal bipyramidal
+(c)  hexahedral
+(d)  square planar
+(e)  tetrahedral
+B
+In the ICl3 molecule,
+ZzZ
+(a)  the I atom uses sp3 hybrids and the molecule is planar triangular.
+(b)  the I atom uses sp3d hybrids and the molecule is T-shaped.
+(c)  the I atom uses sp2 hybrids and the molecule is planar triangular.
+(d)  the I atom uses sp3d2 hybrids and the molecule is T-shaped.
+(e)  the I atom uses sp3 hybrids and the molecule is pyramidal.
+A
+When a falling stream of water is tested with an electrically charged rod held nearby,
+ZzZ
+(a) the water is attracted by the charge whether it is positive or negative.
+(b) the water is attracted by a negative charge but repelled by a positive charge.
+(c) the water is attracted by a positive charge but repelled by a negative charge.
+(d) the water is repelled by both positive and negative charges.
+(e) the water is unaffected by either.
+D
+What are intermolecular forces?
+ZzZ
+(a) forces within covalent molecules that hold them together 
+(b) electrostatic forces between ions
+(c) bonds between hydrogen and oxygen atoms in water molecules
+(d) attractive forces between separate covalent molecules
+(e) covalent bonds within a network solid
+A
+A solid substance has the following properties:
+       high boiling point
+       silvery lustre
+       conducts electricity
+       ductile
+Which type of lattice forces could account for these properties?
+ZzZ
+(a) positive ions attracting loose electrons
+(b) transient dipoles attracting transient dipoles
+(c) positive ions attracting negative ions
+(d) hydrogen atoms in one molecule attracting oxygen atoms in another molecule
+(e) covalent bonds
+B
+A liquid substance has the following properties:
+       soluble in water
+       stream of liquid is attracted into electric fields
+       electrical insulator when pure or in aqueous solution 
+Which type of lattice forces could account for these properties?
+ZzZ
+(a) positive ions attracting loose electrons
+(b) transient dipoles attracting transient dipoles
+(c) positive ions attracting negative ions
+(d) hydrogen atoms in one molecule attracting oxygen atoms in another molecule
+(e) covalent bonds
+B
+Carbon and silicon are group IV elements and form the oxides CO2, and SiO2.  CO2, is a gas at room temperature and pressure, while SiO2 melts at about 1700°C.  The great difference in melting points is best accounted for the fact that
+ZzZ
+(a) CO2 (s)has nonpolar molecules, but SiO2  (s) has polar molecules
+(b) CO2 (s) is a molecular solid, but SiO2 (s) is a covalent network
+(c) bonds between silicon and oxygen in SiO2  molecules are many times stronger than bonds between carbon and oxygen in CO2, molecules
+(d) silicon-silicon bonds are stronger than carbon-carbon bonds
+(e) blank
+D
+Why does magnesium oxide have a higher melting point than sodium chloride?
+ZzZ
+(a) The bonds are more ionic in magnesium oxide.
+(b) The sodium chloride has smaller atoms.
+(c) Magnesium oxide has more electrons.
+(d) The ions have greater charges in magnesium oxide.
+(e) The atoms in sodium chloride have greater kinetic energy.
+C
+The elements sodium, magnesium and aluminum have increasing melting points in that order. Why is this so?
+ZzZ
+(a) The mass of the atoms increases.
+(b) The size of the molecules increases.
+(c) The strength of the metallic bonds depends on the number of valence electrons.
+(d) The polarity of the bonds increases.
+(e) The Strength of the van der waals forces increases.
+A
+What is the basis of metallic bonding?
+ZzZ
+(a) the attraction of metal ions for delocalized electrons
+(b) the attraction between neutral metal ions
+(c) the neutralization of protons by electrons
+(d) the attraction of oppositely charged ions
+(e) the sharing of two valence electrons between two atoms
+D
+Which of the following statements about a substitutional alloy is true?
+ZzZ
+(a) The added metal removes electrons from the valence level.
+(b) The added metal atoms fit into spaces between atoms in the pure metal crystal.
+(c) The added metal usually makes the alloy softer than the pure metal.
+(d) The added metal atoms replace original atoms in the metal crystals. 
+(e) The added metal causes the alloy to conduct electricity only at high temperatures.
+B
+Polar covalent bonds occur between which kinds of atoms?
+ZzZ
+(a) atoms which both have equally high electronegativities
+(b) atoms which have high but unequal electronegativities
+(c) atoms which both have equally low electronegativities
+(d) atoms which both have equally low ionization energies
+(e) atoms which both have low but unequal ionization energies
+E
+Which one of the ions below would not have a noble gas electron configuration in its outer shell?
+ZzZ
+(a)  Li+
+(b)  Cl~
+(c)  O2-
+(d)  Mg2+
+(e)  Sn2+
+A
+Which of the following statements is incorrect?
+ZzZ
+(a)  In a nonpolar covalent bond, the electrons are shared unequally.
+(b)  A very electronegative element tends to have a partial negative charge in a covalent bond, or it tends to form a negative ion.
+(c)  A dipole is a pair of opposite charges  of equal magnitude at a specific distance from each other.
+(d)  The most electronegative element in the periodic table is fluorine.
+(e)  If two atoms joined by a bond have an electronegativity difference of two or more, generally the bond will be more than 50 % ionic.
+B
+Compared to a carbon-carbon single bond, a carbon-carbon double bond has a smaller ...
+ZzZ
+(a)  vibrational frequency
+(b)  bond length
+(c)  bond order
+(d)  bond energy
+(e)  number of electrons
+D
+Which of the following statements is not true about the lattice energy?
+ZzZ
+(a)  It contributes to a lowering of the potential energy when a crystal of an ionic compound is formed.
+(b)  It is a major factor contributing to the stability of ionic compounds.
+(c)  It must be large enough to make the reaction of a metal with a nonmetal exothermic.
+(d)  It is equal to the energy lost when electrons are transferred from a metal atom to a nonmetal atom.
+(e)  It is released if ions at infinite separation are brought together to form the ionic solid.
+E
+Based on the valence shell electron pair repulsion theory, the ion IF4- (iodine is the central atom) would be expected to have which of the following shapes?
+ZzZ
+(a)  square pyramidal
+(b)  distorted tetrahedral
+(c)  trigonal bipyramidal
+(d)  regular tetrahedral
+(e)  square planar
+B
+In the ion SbF4-, the electron pairs in the valence shell of Sb are arranged in a geometry that is described as
+ZzZ
+(a)  distorted tetrahedral
+(b)  trigonal bipyramidal
+(c)  hexahedral
+(d)  square planar
+(e)  tetrahedral
+B
+In the ICl3 molecule,
+ZzZ
+(a)  the I atom uses sp3 hybrids and the molecule is planar triangular.
+(b)  the I atom uses sp3d hybrids and the molecule is T-shaped.
+(c)  the I atom uses sp2 hybrids and the molecule is planar triangular.
+(d)  the I atom uses sp3d2 hybrids and the molecule is T-shaped.
+(e)  the I atom uses sp3 hybrids and the molecule is pyramidal.
+A
+When a falling stream of water is tested with an electrically charged rod held nearby,
+ZzZ
+(a) the water is attracted by the charge whether it is positive or negative.
+(b) the water is attracted by a negative charge but repelled by a positive charge.
+(c) the water is attracted by a positive charge but repelled by a negative charge.
+(d) the water is repelled by both positive and negative charges.
+(e) the water is unaffected by either.
+D
+What are intermolecular forces?
+ZzZ
+(a) forces within covalent molecules that hold them together 
+(b) electrostatic forces between ions
+(c) bonds between hydrogen and oxygen atoms in water molecules
+(d) attractive forces between separate covalent molecules
+(e) covalent bonds within a network solid
+A
+A solid substance has the following properties:
+       high boiling point
+       silvery lustre
+       conducts electricity
+       ductile
+Which type of lattice forces could account for these properties?
+ZzZ
+(a) positive ions attracting loose electrons
+(b) transient dipoles attracting transient dipoles
+(c) positive ions attracting negative ions
+(d) hydrogen atoms in one molecule attracting oxygen atoms in another molecule
+(e) covalent bonds
+B
+A liquid substance has the following properties:
+       soluble in water
+       stream of liquid is attracted into electric fields
+       electrical insulator when pure or in aqueous solution 
+Which type of lattice forces could account for these properties?
+ZzZ
+(a) positive ions attracting loose electrons
+(b) transient dipoles attracting transient dipoles
+(c) positive ions attracting negative ions
+(d) hydrogen atoms in one molecule attracting oxygen atoms in another molecule
+(e) covalent bonds
+B
+Carbon and silicon are group IV elements and form the oxides CO2, and SiO2.  CO2, is a gas at room temperature and pressure, while SiO2 melts at about 1700°C.  The great difference in melting points is best accounted for the fact that
+ZzZ
+(a) CO2 (s)has nonpolar molecules, but SiO2  (s) has polar molecules
+(b) CO2 (s) is a molecular solid, but SiO2 (s) is a covalent network
+(c) bonds between silicon and oxygen in SiO2  molecules are many times stronger than bonds between carbon and oxygen in CO2, molecules
+(d) silicon-silicon bonds are stronger than carbon-carbon bonds
+(e) blank

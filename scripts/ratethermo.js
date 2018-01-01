@@ -83,7 +83,7 @@ $(window).on('load', function () {
        // alert("readyState " + this.readyState + " stats " + this.status );   
         if (this.readyState == 4 && this.status == 200) {
           text = this.responseText;
-        }
+        }o
     };
     //file path is relative to HTML file, NOT this JS file. 
     //Third argument false indicates synchronous
