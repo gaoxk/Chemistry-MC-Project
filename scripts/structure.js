@@ -43,7 +43,7 @@ function arrayLoad(){
         var ans = info[i];
         i++;
         qtext="";
-        while((info[i].trim()) !== "ZzZ"){
+        while((info[i].trim()) !== "ZzZ"){ //ZzZ in the text file indicates a new/finished question
             qtext+=info[i] + "<br>";
             i++;
         }
